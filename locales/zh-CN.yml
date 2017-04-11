@@ -1,0 +1,1736 @@
+zh-CN:
+  account:
+    danger:
+      button: "取消经纪账户链接"
+      description: "取消您的经纪账户链接将删除您在Stockflare保存的所有经纪信息。我们将删除所有我们保存的账户与位置信息，但是我们仍会保留所有您通过Stockflare产生的订单细节，以供审计之用。"
+      title: "危险区"
+    power: "购买能力"
+  alerts:
+    timeAgo: "%n小时前"
+  alerts_email:
+    content:
+      account: "帐户"
+      alert_settings: "提醒设置"
+      description:
+        daily: "我们为您在您的监视列表和产品组合包中的股票启用了警告功能。"
+        weekly: "这是对您在上周所收到的最重要警告的每周汇总。"
+      footer:
+        click: "或请点击"
+        contact: "联系我们："
+        here: "点击此处"
+        more_details: Stockflare Limited。如欲了解有关Stockflare Plus的更多详情，请访问
+        settings: "设置页面"
+        unsubscribe: "点击此处，以取消订阅。"
+        update_prefs: "更新您的偏好设置："
+      heading:
+        daily: "您有%count条未读警告信息。"
+        weekly: "您上周有%count条警告信息。"
+      hidden_message: "此外，您还有%hidden 'Plus'条未显示的警告信息"
+      marketing:
+        gift:
+          link: 1个月免费
+          text: "向某位朋友赠送14天Stockflare Plus免费体验，并获得"
+      subject:
+        daily: "%message_count警告，包括%tickers"
+        weekly: "您每周更新inc. %tickers"
+      subscription:
+        free:
+          offer_subscription: "您正在使用我们的免费警告服务。查看具体优势"
+          offer_trial: "您正在使用我们的免费警告服务。查看我们的Stockflare Plus14天"
+          plus: Stockflare Plus
+        subscribed: "感谢大家订阅Stockflare Plus。"
+        trialing:
+          contine: "如希望继续获得我们的"
+          days_left: "您正在使用我们的Stockflare Plus %trial_days天免费试用。"
+          plus: Plus警告
+          subscribe: "订阅"
+      visit_alerts: "浏览警告信息"
+      watchlist: "关注列表"
+    unsubscribe:
+      information:
+        button: "转到设置"
+        checking: "请稍等。我们正在检查您的退订链接。"
+        error: "退订链接无效。请登录到您的设置界面以更改邮件偏好设置。"
+        title: "退订提醒邮件"
+        unsubscribed: "以下邮箱地址已退订："
+  appender:
+    add: "添加股票"
+    noMatches: "无匹配项"
+    pressEnter: "按Enter键添加"
+    search: "搜索"
+  brokerage:
+    brokerages:
+      drivewealth: Drivewealth
+      etrade: E-Trade
+      fidelity: Fidelity
+      ib: Interactive Brokers
+      options_house: Options House
+      robinhood: Robinhood
+      schwab: Schwab
+      scottrade: Scottrade
+      td: TD Ameritrade
+      trade_king: Trade King
+      trade_station: Trade Station
+      tradier: Tradier
+    connect:
+      details:
+        account: "经纪帐号"
+        button: "登录&连接"
+        conditions: "点击“登录&连接”意味着您已同意Stockflare的服务条款"
+        id: "交易用户身份"
+        password: "交易密码"
+        username: "交易用户名"
+        zerodha: 
+      help:
+        login:
+          robinhood: "在连接您Robinhood帐户时出现问题？请确保您正在输入您的Robinhood用户名，而非您的电子邮件地址。此外，请输入您的密码，而非您的PIN号码。"
+      teaser:
+        alerts:
+          description: "没有时间追踪您的投资组合？让我们的智能提醒功能帮助您随时关注您的投资。"
+          title: "获得我们的智能提醒"
+        encryption:
+          description: "我们对Stockflare的所有数据都会进行加密，并只与最安全谨慎的供应商合作，比如亚马逊网络服务。"
+          title: "加密保护"
+        no_brokerage: "我没有经纪人"
+        trade:
+          description: "找到一支好股票？连接您的交易帐户，然后快速便捷地在Stockflare内部进行交易。"
+          title: "通过Stockflare进行交易"
+      title: "选择经纪商"
+    flash:
+      positions_not_refreshed: "我们无法联系您的经纪人更新您的仓位"
+      positions_refreshed: "您的投资组合仓位已更新"
+      positions_refreshing: "正在刷新您的投资组合仓位"
+  common:
+    alerts_emails:
+      'false': "请勿发送邮件"
+      'true': "发送邮件"
+    countries:
+      afg: "阿富汗"
+      ago: "安哥拉"
+      alb: "阿尔巴尼亚"
+      are: "阿拉伯联合酋长国"
+      arg: "阿根廷"
+      arm: "亚美尼亚"
+      aus: "澳大利亚"
+      aut: "奥地利"
+      aze: "阿塞拜疆"
+      bdi: "蒲隆地"
+      bel: "比利时"
+      ben: "贝宁"
+      bfa: "布基纳法索"
+      bgd: "孟加拉国"
+      bgr: "保加利亚"
+      bhr: "巴林"
+      bhs: "巴哈马"
+      bih: "波斯尼亚和黑塞哥维那"
+      blr: "白俄罗斯"
+      blz: "伯利兹"
+      bmu: "百慕大"
+      bol: "玻利维亚"
+      bra: "巴西"
+      brb: "巴巴多斯"
+      brn: "文莱"
+      btn: "不丹"
+      bwa: "博茨瓦纳"
+      caf: "中非共和国"
+      can: "加拿大"
+      che: "瑞士"
+      chl: "智力"
+      chn: "中国"
+      civ: "科特迪瓦"
+      cmr: "喀麦隆"
+      cod: "刚果共和国"
+      cog: "刚果"
+      col: "哥伦比亚"
+      com: "科摩罗"
+      cpv: "佛得角"
+      cri: "哥斯达黎加"
+      cub: "古巴"
+      cym: "开曼群岛"
+      cyp: "塞浦路斯"
+      cze: "捷克"
+      deu: "德国"
+      dji: "吉布提"
+      dma: "多米尼克"
+      dnk: "丹麦"
+      dom: "多米尼加共和国"
+      dza: "阿尔及利亚"
+      ecu: "厄瓜多尔"
+      egy: "埃及"
+      eri: "厄立特里亚"
+      esp: "西班牙"
+      est: "爱沙尼亚"
+      eth: "埃塞俄比亚"
+      fin: "芬兰"
+      fji: "斐济"
+      fra: "法国"
+      gab: "加蓬"
+      gbr: "英国"
+      geo: "格鲁吉亚"
+      ggy: "根西"
+      gha: "加纳"
+      gib: "直布罗陀"
+      gin: "几内亚"
+      glp: "瓜德罗普"
+      gmb: "冈比亚"
+      gnb: "几内亚比绍"
+      gnq: "赤道几内亚"
+      grc: "希腊"
+      grd: "格林纳达"
+      gtm: "危地马拉"
+      guf: "法属圭亚那"
+      guy: "圭亚那"
+      hkg: "香港"
+      hnd: "洪都拉斯"
+      hrv: "克罗地亚"
+      hti: "海地"
+      hun: "匈牙利"
+      idn: "印度尼西亚"
+      imn: "马恩岛"
+      ind: "印度"
+      irl: "爱尔兰"
+      irn: "伊朗"
+      irq: "伊拉克"
+      isl: "冰岛"
+      isr: "以色列"
+      ita: "意大利"
+      jam: "牙买加"
+      jey: "泽西岛"
+      jor: "约旦"
+      jpn: "日本"
+      kaz: "哈萨克斯坦"
+      ken: "肯尼亚"
+      kgz: "吉尔吉斯斯坦"
+      khm: "柬埔寨"
+      kor: "韩国"
+      kwt: "科威特"
+      lao: "老挝"
+      lbn: "黎巴嫩"
+      lbr: "利比里亚"
+      lby: "利比亚"
+      lka: "斯里兰卡"
+      lso: "莱索托"
+      ltu: "立陶宛"
+      lux: "卢森堡"
+      lva: "拉托维亚"
+      mac: "澳门"
+      mar: "摩洛哥"
+      mda: "摩尔多瓦"
+      mdg: "马达加斯加"
+      mdv: "马尔代夫"
+      mex: "墨西哥"
+      mkd: "马其顿"
+      mli: "马里"
+      mlt: "马耳他"
+      mmr: "缅甸"
+      mne: "黑山"
+      mng: "蒙古"
+      moz: "莫桑比克"
+      mrt: "毛里塔尼亚"
+      mtq: "马提尼克岛"
+      mus: "毛里求斯"
+      mwi: "马拉维"
+      mys: "马来西亚"
+      nam: "纳米比亚"
+      ner: "尼日尔"
+      nga: "尼日利亚"
+      nic: "尼加拉瓜"
+      nld: "荷兰"
+      nor: "挪威"
+      npl: "尼泊尔"
+      nzl: "新西兰"
+      omn: "阿曼"
+      pak: "巴基斯坦"
+      pan: "巴拿马"
+      per: "秘鲁"
+      phl: "菲律宾"
+      png: "巴布亚新几内亚"
+      pol: "波兰"
+      pri: "波多黎各"
+      prk: "朝鲜"
+      prt: "葡萄牙"
+      pry: "巴拉圭"
+      pse: "巴勒斯坦"
+      qat: "卡塔尔"
+      rou: "罗马尼亚"
+      rus: "俄罗斯"
+      rwa: "卢旺达"
+      sau: "沙特阿拉伯"
+      sdn: "苏丹"
+      sen: "塞内加尔"
+      sgp: "新加坡"
+      slb: "所罗门群岛"
+      sle: "塞拉利昂"
+      slv: "萨尔多瓦"
+      som: "索马里"
+      srb: "塞尔维亚"
+      ssd: "南苏丹"
+      stp: "圣多美和普林西比"
+      sur: "苏里南"
+      svk: "斯洛伐克"
+      svn: "斯洛文尼亚"
+      swe: "瑞典"
+      swz: "斯威士兰"
+      syc: "塞舌尔"
+      syr: "叙利亚"
+      tcd: "乍得"
+      tgo: "多哥"
+      tha: "泰国"
+      tjk: "塔吉克斯坦"
+      tkm: "土库曼斯坦"
+      tls: "东帝汶"
+      ton: "汤加"
+      tto: "特立尼达和多巴哥"
+      tun: "突尼斯"
+      tur: "土耳其"
+      tuv: "图瓦卢"
+      twn: "台湾"
+      tza: "坦桑尼亚"
+      uga: "乌干达"
+      ukr: "乌克兰"
+      ury: "乌拉圭"
+      usa: "美国"
+      uzb: "乌兹别克斯坦"
+      ven: "委内瑞拉"
+      vgb: "英属维京群岛"
+      vir: "美属维京群岛"
+      vnm: "越南"
+      wsm: "萨摩亚"
+      xxx: "全球"
+      yem: "也门"
+      zaf: "南非"
+      zmb: "赞比亚"
+      zwe: "津巴布韦"
+    currencies:
+      symbols:
+        aed: "%nد.إ"
+        afn: "؋%n"
+        all: Lek%n
+        amd: "%ndram"
+        ang: "ƒ%n"
+        aoa: Kz%n
+        ars: "$%n"
+        aud: "$%n"
+        awg: "ƒ%n"
+        azn: "ман%n"
+        bam: KM%n
+        bbd: "$%n"
+        bdt: "৳%n"
+        bgn: "лв%n"
+        bhd: "%n.د.ب"
+        bif: FBu%n
+        bmd: "$%n"
+        bnd: "$%n"
+        bob: "$b%n"
+        brl: R$%n
+        bsd: "$%n"
+        btn: Nu.%n
+        bwp: P%n
+        byr: p.%n
+        bzd: BZ$%n
+        cad: "$%n"
+        cdf: Fr%n
+        chf: CHF%n
+        clf: "$%n"
+        clp: "$%n"
+        cny: "¥%n"
+        cop: "$%n"
+        crc: "₡%n"
+        cup: "₱%n"
+        cve: Esc%n
+        czk: Kč%n
+        djf: Fr%n
+        dkk: "%nkr"
+        dop: RD$%n
+        dzd: "دج%n"
+        eek: "%nkr"
+        egp: "£%n"
+        ern: Nfk%n
+        etb: Br%n
+        eur: "€%n"
+        fjd: "$%n"
+        fkp: "£%n"
+        gbp: "£%n"
+        gel: "%nlari"
+        ggp: "£%n"
+        ghc: "¢%n"
+        ghs: GH₵%n
+        gip: "£%n"
+        gmd: D%n
+        gnf: Fr%n
+        gtq: Q%n
+        gyd: "$%n"
+        hkd: "$%n"
+        hnl: L%n
+        hrk: kn%n
+        htg: G%n
+        huf: "%nFt"
+        idr: Rp%n
+        ils: "₪%n"
+        imp: "£%n"
+        inr: "₹%n"
+        iqd: "%nد.ع"
+        irr: "﷼%n"
+        isk: "%nkr"
+        jep: "£%n"
+        jmd: J$%n
+        jod: "%nدينار"
+        jpy: "¥%n"
+        kes: Ksh%n
+        kgs: "лв%n"
+        khr: "៛%n"
+        kmf: Fr%n
+        kpw: "₩%n"
+        krw: "₩%n"
+        kwd: "د.ك%n"
+        kyd: "$%n"
+        kzt: "лв%n"
+        lak: "₭%n"
+        lbp: "£%n"
+        lkr: "₨%n"
+        lrd: "$%n"
+        lsl: M%n
+        ltl: Lt%n
+        lvl: Ls%n
+        lyd: "ل.د%n"
+        mad: "د.م.%n"
+        mdl: "%nleu"
+        mga: Ar%n
+        mkd: "ден%n"
+        mmk: K%n
+        mnt: "₮%n"
+        mop: MOP$%n
+        mro: UM%n
+        mur: "₨%n"
+        mvr: Rf.%n
+        mwk: MK%n
+        mxn: "$%n"
+        myr: RM%n
+        mzn: MT%n
+        nad: "$%n"
+        ngn: "₦%n"
+        nio: C$%n
+        nok: "%nkr"
+        npr: "₨%n"
+        nzd: "$%n"
+        omr: "﷼%n"
+        pab: B/.%n
+        pen: S/.%n
+        pgk: K%n
+        php: "₱%n"
+        pkr: "₨%n"
+        pln: "%n zł"
+        pyg: Gs%n
+        qar: "﷼%n"
+        ron: lei%n
+        rsd: "Дин.%n"
+        rub: "руб%n"
+        rwf: FRw%n
+        sar: "﷼%n"
+        sbd: "$%n"
+        scr: "₨%n"
+        sdg: "ج.س.‏%n"
+        sek: "%nkr"
+        sgd: "$%n"
+        shp: "£%n"
+        sll: Le%n
+        sos: S%n
+        srd: "$%n"
+        std: Db%n
+        svc: "$%n"
+        syp: "£%n"
+        szl: E%n
+        thb: "฿%n"
+        tjs: "%ncомонӣ"
+        tmt: T%n
+        tnd: "د.ت%n"
+        top: "$%n"
+        trl: "₤%n"
+        try: "₤%n"
+        ttd: TT$%n
+        tvd: "$%n"
+        twd: NT$%n
+        tzs: TSh%n
+        uah: "₴%n"
+        ugx: USh%n
+        usd: "$%n"
+        uyu: "$U%n"
+        uzs: "лв%n"
+        vef: Bs%n
+        vnd: "₫%n"
+        vuv: VT%n
+        wst: WS$%n
+        xaf: FCFA%n
+        xcd: "$%n"
+        xof: CFA%n
+        xpf: F%n
+        yer: "﷼%n"
+        zar: R%n
+        zmw: ZK%n
+        zwd: Z$%n
+    defaultPageTitle: "轻松选股"
+    empty: "空"
+    languages:
+      ar: "عربى"
+      de: Deutsch
+      de-DE: Deutsch
+      en: English
+      en-US: English
+      es: Español
+      es-ES: Español
+      fr: Français
+      fr-FR: Français
+      he: "עברית"
+      hi: "हिन्दी"
+      it: Italiano
+      it-IT: Italiano
+      ja: "日本語"
+      ja-JP: "日本語"
+      pt: Portuguese
+      pt-PT: Portuguese
+      zh-CN: "中文"
+      zh-HK: "粵語"
+    loading: "加载中…"
+    login: "登录"
+    pages:
+      privacy_policy: "隐私政策"
+      tos: "使用条款"
+    regions:
+      amer: "美洲"
+      apac: "亚太地区"
+      emea: "欧洲、中东以及非洲"
+    register: "免费注册"
+    social:
+      email: "邮件分享给好友"
+    tooltips:
+      watch:
+        unwatch: "从关注列表中删除"
+        watch: "加入关注列表"
+      widget:
+        alerts: "股市提醒"
+        graph: "股价图"
+        info: "关键指标"
+        missing: "债券"
+        social: "股份"
+        trade: "买入或卖出 %n 股票"
+        unavailable: "您只能交易美股"
+    unwatch: "取消关注"
+    wallStreetRecommendations:
+      emptyCategory: "您不持有这个分类下的股票。"
+      missing: "本项不适用"
+      price: "股价"
+      recommendation: "建议"
+      target: "目标价格"
+      titles:
+        buy: "买入"
+        hold: "持有"
+        sell: "卖出"
+        strong_buy: "强力买入"
+        strong_sell: "强力卖出"
+        unknown: "本项不适用"
+    watch: "关注"
+  delete:
+    copy:
+      deleted: "已成功删除您的账户，且所有的信息已从我们的系统中永久移除。此项操作不可恢复。"
+      deleting: "正在删除您的账户。"
+      error: "在删除您账户的过程中遇到一个错误。请联系support@stockflare.com"
+    titles:
+      deleted: "账户已删除"
+      deleting: "账户删除中…"
+      error: "出现一个错误"
+  explore:
+    all: "所有股票"
+    biLine: "需要一点灵感火花吗？"
+    categories:
+      big-and-cheap:
+        description: "如今的投资人选择性忽略了许多拥有知名品牌的大公司。试想一下，可能有一天，这些公司会再度变得炙手可热？"
+        disclaimer: "“知名企业且负担得起”是通过筛选出在美国境内的每一只市场价值超过5百亿美元的股票而产生的，而且根据市盈率他们的价格比其竞争对手更低。"
+        name: "知名企业且负担得起"
+      boring-businesses:
+        description: "谁规定只能在下一支热门股票上投资？想象一下跟您的朋友们谈论绘画、塑料、电池以及滚珠轴承、污水处理或者是卫浴产品行业。有兴趣的话，您甚至可以关注一下检测公司、兽医和殡仪馆行业！"
+        disclaimer: "“乏味生意”中显示的是美国境内，市场价值超过10亿美元，并且至少满足一项关键指标（比如盈利能力、股息收益率、高度增长率等）的股票。之后我们查看在以下行业中符合条件的股票：油漆、塑料、电池、滚珠轴承、污水处理、卫生用品、测试公司、兽医产业和殡仪馆业务。"
+        name: "乏味的生意"
+      cash-heavy:
+        description: "如今有一些无负债的公司正在源源不断的向他们的股东支付滚滚红利。这些公司是否不仅资金宽裕，而且也是股民的摇钱树呢？"
+        disclaimer: "“资金充裕”中显示的是美国境内，市场价值超过5亿美元，其资产负债表处于正向资金流动，并且支付大量红利（股息收益率高于4%）的股票。"
+        name: "资金充裕"
+      coffee-cake:
+        description: "尝试投资于生活的小甜头，却不必担心糖分摄入过量。"
+        disclaimer: "“咖啡与蛋糕”中显示的是全球范围内，市场价值超过5亿美元，并且满足至少两个关键指标（比如盈利能力、股息收益率等）的股票。之后我们查看处于以下行业中符合条件的股票：咖啡店、咖啡和甘蔗种植、曲奇制作、甜味剂和糖果加工。"
+        name: "咖啡与蛋糕"
+      debt-heavy:
+        description: 
+        disclaimer: "该类别的股票基于所有股票的过滤器，市场价值超过5亿美元，不是财务，但净负债的营业利润指标超过3倍"
+        name: 
+      dividend-disasters:
+        description: "如果公司的支出比收入多，就让人担心了。可能红利并不是可持续的。"
+        disclaimer: "股灾?的股票过滤出了全美市场价值超过500美元但每股预期红利高于每股预期收益。"
+        name: "股灾?"
+      gem-stones:
+        description: "钻石是投资人最好的朋友吗？钻石、宝石和珍珠，对于投资人的双眼来说，皆是熠熠生辉。"
+        disclaimer: "“宝石”中显示的是全球范围内，市场价值超过1亿美元，满足至少一个关键指标（比如盈利能力等），并且处于以下行业的股票：钻石开采、准宝石和珍珠。"
+        name: "宝石"
+      going-nuclear:
+        description: "核能虽不是一种完全无污染的资源，但它却在后石油时代，作为一种可再生能源，为我们的地球争取更多的动力。"
+        disclaimer: "“核时代”中显示的是世界范围内，市场价值超过1亿美元，至少满足一个关键指标（比如盈利能力等），并且处于以下任何行业中的股票：铀、核部件、核电建设和核电公司。"
+        name: "核时代"
+      great-gains:
+        description: "如果所有的星星排成一列，华尔街预测持股人将获得巨大收益和利润。"
+        disclaimer: "大笔收益的股票过滤出全美市场价值超过500m美元、且根据一致预期预计长期利润每年超过20%的股票。"
+        name: "大笔收益"
+      hated-by-wall-street:
+        description: "如果您对华尔街嗤之以鼻，对从众现象不屑一顾，何不选择投资于那些不受华尔街待见的股票呢？"
+        disclaimer: "“华尔街之敌”中显示的是美国境内，市场价值高于5亿美元，并且股票经纪人一致推荐“卖出”或者“强力卖出”的股票。"
+        name: "华尔街之敌"
+      healthy-tech:
+        description: "生物技术公司每天的发展日新月异。何不考虑给予那些正在攻克生命科学难关的科学家以支持呢？"
+        disclaimer: "“高科技医疗保健”中显示的是美国境内，市场价值超过10亿美元，并且处于以下行业的股票：生物制药、生物技术和医学研究。"
+        name: "高科技医疗保健"
+      high-upside:
+        description: 
+        disclaimer: "这个类别的股票是基于所有股票超过500美元的过滤器，并且价格目标至少比当前价格高出50％。"
+        name: 
+      land-and-sea:
+        description: "俗话的好说，“人是铁，饭是钢”。农业市场巨大，不仅仅是农民，还包括生产农作机器的工人，甚至是农药厂的工人。这里列举了一些美国的农业巨头。"
+        disclaimer: "“土地与海洋”中显示的是美国与加拿大范围内，市场价值超过10亿美元，并且处于以下行业的股票：农药、棉花种植、捕鱼业、农业和烟草种植。"
+        name: "土地与海洋"
+      latest-greatest:
+        description: 
+        disclaimer: "这一类股是基于过去三个月完成首次公开募股的所有股票超过5000万美元的过滤器"
+        name: 
+      legal-eagles:
+        description: "律师和会计总是要价不菲。您知道我们甚至可以在他们身上投资获利吗？"
+        disclaimer: "“法律与权威”中显示的是美国境内，市场价值超过5千万美元，满足至少一项关键指标（比如盈利能力等），并且处于任何以下行业的股票：会计与法律服务、法律与税务提供商。"
+        name: "法律与权威"
+      less-than-book:
+        description: 
+        disclaimer: "这个类别的股票基于所有超过1亿美元的股票的过滤器，交易量低于账面价值的1倍，具有正面的报告和历史性的eps。"
+        name: 
+      little-winners:
+        description: "您在寻找能买得起的股票吗？一股不超过10美元的？"
+        disclaimer: "小额赢家?的股票基于美国所有市场价值超过500m美元的股票，如盈利则支付红利，价格为每股1美元到10美元之间。"
+        name: "小额赢家?"
+      mega-dividends:
+        description: "如果把现金比作国王，那么赢得大量的红利就等于走上了成为国王的路！"
+        disclaimer: "超大红利的股票过滤出全美市场价值超过500美元且红利收益超过5%的股票。我们排除了所有预计红利高于预计收益的离群点。"
+        name: "超大红利"
+      mega-losses:
+        description: "这里有几支虽然亏损依然估值很高的股票，是哪些呢？"
+        disclaimer: "巨大亏损中的股票是基于全美市场价值超过100亿美元、且今年预计要亏损的企业股票。"
+        name: "巨大亏损"
+      movers-shakers:
+        description: 
+        disclaimer: "该类股的股票基于所有大盘股的过滤器，昨日涨幅超过2.5％，所有小盘股均超过5.0％。"
+        name: 
+      negative-fundamentals:
+        description: 
+        disclaimer: "该类股的股票基于所有股票的过滤器，这些股票在共识目标价格，预测销售和预测收益中连续两次下滑"
+        name: 
+      positive-fundamentals:
+        description: 
+        disclaimer: "该类股的股票基于对所有股票的过滤，这些股票在共识目标价格，预测销售和预测收益中连续两次上涨"
+        name: 
+      renewables:
+        description: "如果您有意在后石油时代做投资，现在有许多致力于可再生能源产业的公司。他们的技术与产品范畴不仅包括风能与太阳能，甚至是潮汐能和氢能源。这里列举了部分美国的新能源巨头。"
+        disclaimer: "“可再生能源”中显示的是美国境内，满足至少3项关键指标（比如盈利能力等），并且致力于可再生能源或可再生公共事业的股票。"
+        name: "可再生能源"
+      sales-rush:
+        description: "销售额有时像火箭一样蹿升，那它还在价格范围内吗？"
+        disclaimer: "快速销售基于全美市场价值超过500m美元的股票，预计下一季度销售额高于过去一年中的全部销售额。"
+        name: "快速销售"
+      ship-it:
+        description: "当您需要大批量运输货物的时候，海运是唯一的选择。不过对于投资来说，休闲艇和巨型运输船一样轻松。"
+        disclaimer: "“运输”中显示的是全球范围内，市场价值超过5亿美元，满足至少一项关键指标（比如盈利能力等），并且处于任何以下行业的股票：邮轮海运、造船业、海上运输与物流、游艇与快艇和海港服务。"
+        name: "运输"
+      space-race:
+        description: "展望投资的最遥远边界，火箭和卫星制造商，以及依靠卫星运作的产业都是不错的选择。"
+        disclaimer: "“太空竞赛”中显示的是全球范围内，市场价值超过1亿美元，并且处于任何以下行业的股票：卫星与宇宙飞船制造、卫星网络与导航和卫星运营商。"
+        name: "太空竞赛"
+      sporting-outdoors:
+        description: "支持一直球队不只局限于穿着队服或者买下整座场馆，您也可以在股市上投资。"
+        disclaimer: "“户外运动”中显示的是全球范围内，满足至少一项关键指标（比如盈利能力等），并且处于任何以下行业的股票：户外服装与运动鞋、户外用具、健身房、滑雪度假村、体育场馆、高尔夫球场、运动用品商店和户外零售商。"
+        name: "户外运动"
+      strong-buys:
+        description: "想象一下，华尔街不是将几支股票直接评级为买入，而是选择少数的几支将其评级为强烈买入。"
+        disclaimer: "强烈买入基于全美市场价值超过500m美元、且一致意见认为应该强烈买入的股票。"
+        name: "强烈买入"
+      super-cash:
+        description: "观察现金流的方法不仅限于看收益和红利。基于免费现金流的最低价股票，您怎么看？"
+        disclaimer: "超级现金基于全美市场价值超过500m美元、且公司盈利、支付红利、免费现金流收益超过15%的股票。"
+        name: "超级现金"
+      taking-it-easy:
+        description: "谁说您只有投资股票才是一个明智的投资决策呢？您也可以选择ETF，即交易所交易基金。最多只需要追踪一个著名的基金指数。因此，你将得到与股票市场同等的回报，最起码也不会比它差。"
+        disclaimer: "“轻松投资”中显示的是全球范围内，市场价值超过100亿美元的交易所交易基金（ETFs）。"
+        name: "轻松投资"
+      tech-titans:
+        description: "如果说，“科技正在吞食世界”，那么现在就有少数几家公司正享受它们的美食。"
+        disclaimer: "“科技巨头”中显示的是全球范围内，市场价值超过100亿美元，满足至少一项关键指标（比如盈利能力等），并且致力于科技行业的股票。"
+        name: "科技巨头"
+      thirsty:
+        description: "有几件东西和清水一样必不可少。随着人口增长，对它们的需求也在增长。"
+        disclaimer: "“如饥似渴？”中显示的是美国境内，满足至少一项关键指标（比如盈利能力等），并且处于任何以下行业的股票：水里与污水处理工程、瓶装水与冰块和自来水公司。"
+        name: "如饥似渴？"
+      timber:
+        description: "您想要在森林、伐木场或者木材行业投资吗？以下是美国和加拿大的行业龙头。"
+        disclaimer: "“有“木”有？！”中显示的是美国与加拿大范围内，市场价值超过1亿美元，满足至少2项关键指标（比如盈利能力等），并且处于任何以下行业的股票：纸张与森林产品、木制集装箱与包装、纸张包装和木材房地产投资信托基金。"
+        name: "有“木”有？！"
+      time-online:
+        description: "随着电视逐渐失势于电脑，赢家已显而易见。您是否想过投资于您正在使用的公司呢？"
+        disclaimer: "“网络时代”中显示的是美国境内，市场价值超过100亿美元，满足至少一项关键指标（比如盈利能力等），并且致力于网络服务行业的股票。"
+        name: "网络时代"
+      top-job:
+        description: 
+        disclaimer: "该类别的股票基于所有超过5亿美元的所有股票的过滤器，每名员工的收入超过100万美元"
+        name: 
+      us-option:
+        description: 
+        disclaimer: "该类别中的股票基于在美国上市的所有存托凭证的过滤器"
+        name: 
+      vice-not-nice:
+        description: "摒弃道德？想要投资于毒品、酒精、博彩、枪支等“歪门邪道”？"
+        disclaimer: "“旁门左道”中显示的是美国境内，市场价值超过5亿美元，满足至少2项关键指标（比如盈利能力等），并且处于任何以下行业的股票：武器制造、酒吧与夜店、赌场与博彩、成人娱乐与零售、啤酒厂与酿酒厂、烟酒商店。"
+        name: "旁门左道"
+      worth-it:
+        description: "虽然估值很美好，但是您觉得它们值得吗?"
+        disclaimer: "值得吗?中过滤出全美市场价值超过500m美元的股票，要么PE率超过预计收益50x，要么股价与销售额比率超过10倍。"
+        name: "值得吗?"
+      young-and-old:
+        description: "从服饰到玩具，无论年纪，每个人都有一个投资选择。"
+        disclaimer: "“新老交替”中显示的是美国境内，市场价值超过10亿美元，满足至少2项关键指标（比如盈利能力等），并且处于任何以下行业的股票：童装与童鞋、敬老院、玩具、邮轮公司、儿童与青少年产品零售、婴儿食物、计生产品、保育产品、殡葬服务、眼镜与隐形眼镜和长期护理。"
+        name: "新老交替"
+    filters: "%n的后台默认筛选"
+    pageDescription: "需要一点灵感火花吗？Stockflare制作了非常棒的分类检索，来帮助您寻找灵感。"
+    pageTitle: "随便逛逛"
+    popular: "%n相关的最大股票"
+  filterBar:
+    sectors:
+    - code: '50'
+      name: "石油天然气"
+    - code: '51'
+      name: "矿产资源"
+    - code: '52'
+      name: "工业制造"
+    - code: '54'
+      name: "日用百货"
+    - code: '53'
+      name: "其他百货"
+    - code: '55'
+      name: "金融行业"
+    - code: '56'
+      name: "卫生保健"
+    - code: '57'
+      name: "技术行业"
+    - code: '58'
+      name: "通信行业"
+    - code: '59'
+      name: "公用事业"
+  gift:
+    refer:
+      information:
+        buttons:
+          send: "发送邀请"
+        copy: "给您最好的朋友发送一个可以免费获得我们所有优选功能的14天试用，如果他们接受了，您也可以获得一个月免费试用！"
+        features:
+          first:
+            description: "我们将给他们单独发送一个可以激活您免费试用的链接。"
+            title: "通过邮件邀请您的朋友"
+          second:
+            description: "他们可以在15秒内完成注册"
+            title: "他们注册Stockflare"
+          third:
+            description: "您的朋友一加入，我们立即为您免费开通一个月试用"
+            title: "您已获得一个月免费试用！"
+        fields:
+          email: "朋友邮箱地址"
+        messages:
+          error: "无法发送邀请！"
+          invlaid_email: "邮箱地址无效！"
+          sent: "邀请已发送"
+        title: "来一个月免费试用吧？"
+  header:
+    buttons:
+      about: "关于Stockflare"
+      alerts: "我的提醒"
+      explore: "探索"
+      filters: "筛选"
+      guestWatched: "保存关注列表"
+      home: "用户数据页面"
+      ideas: "选择股票"
+      search: "搜索"
+      watchlist: "我的关注列表"
+  hodor_landing:
+    features:
+      alerts: "我们的Plus提醒服务保证您24小时的掌控"
+      global: "全球任意股市轻松选股"
+      reuters: "我们的分析基于来自路透社的顶尖数据"
+      sec: "访问我们的美国证券交易委员会注册投资顾问"
+    footer:
+      about:
+        about_us: "关于我们"
+        eduacation: "网站教学"
+        faq: "常见问题"
+        title: "关于"
+      block:
+        companies_house: CompaniesHouse.gov.uk
+        drivewealth: "*我们的合作伙伴DriveWealth LLC的标准佣金率是每股0.0125美元，股价最低为2.99美元。不足一股的零星股票交易佣金则为0.99美元。"
+        information_only: Stockflare的免费服务仅提供信息，而不给出建议或推荐。请您确保您已经了解我们的服务条款。如果您有不解之处，欢迎来电垂询。
+        invest_wise: "明智投资。有效节省。"
+        long_term_investing: Stockflare更信任长期持股和低成本基金。我们不认为高成本共同基金和主动管理型基金是物有所值的选择。我们不喜欢复杂投资、投机和当日冲销。就像Phil Fisher说的那样：保守的投资者睡得更香。
+        loss_warning: "请牢记，任何投资都包含风险并可能导致损失，也就是说您可能在您的某些投资中损失钱财。因此，我们Stockflare的关键目标之一，就是提供您必要的工具以使您的损失最小化。"
+        operated: "本网站由英国公司Stockflare Limited运营维护。请访问我们的文件在"
+      contact:
+        email: "邮件"
+        facebook: "脸书"
+        title: "联系方式"
+        twitter: "推特"
+      description: Stockflare能帮助所有人轻松选股。投资不必太过复杂。我们会分析全球超过45,000支股票的几百种指标。
+      legals:
+        privacy: "隐私政策"
+        terms: "服务条款"
+        title: "法律政策"
+      title: Stockflare Limited & Stockflare USA, Inc.
+    hero:
+      cta: "开始"
+      description: Stockflare监视您的投资组合让您高枕无忧，使您随时跟进投资信息
+      title: "无忧投资"
+    hero_image_url: https://public.stockflare.com/assets/hodor_landing/introduction-background_zh.jpg
+    nav:
+      login: "登录"
+      sign_up: "免费注册"
+    register:
+      cta: "注册Stockflare账户"
+      description: "现在注册并追踪您关注的股票"
+      form:
+        email:
+          placeholder: "您的邮箱地址"
+        password:
+          placeholder: "设置密码"
+      skip: "跳过"
+      terms_1: "通过使用我们的网页或者点击“注册Stockflare账户”"
+      terms_2: "表示您同意我们的隐私政策和服务条款"
+      title: "免费加入。永久免费。"
+    sectons:
+      link:
+        cta: "连接我的经纪账户"
+        cta_url: https://m.stockflare.com/connect
+        description: "安全连接到您的美国经纪账户并将您的投资组合导入Stockflare。我们将为您分析您现有的投资。"
+        title: "连接、探索、购买"
+      picking:
+        cta: "访问“Alibaba Group” (阿里巴巴)"
+        cta_url: https://m.stockflare.com/stock/amzn.o
+        description: "在Stockflare，我们的算法将大规模数据转变为易于分析的数据。借助我们的工具，任何人都可以轻松选股。"
+        image_url: https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png
+        title: "轻松选股"
+  login:
+    buttons:
+      forgot: "忘记密码"
+    flash:
+      success: "您已经以%n身份登录"
+    pageTitle: "登录"
+  mobile:
+    about:
+      links:
+        about: "关于我们"
+        broker: 
+        contact: "联系我们"
+        data: "我们的数据合作伙伴"
+        faq: "常见问题"
+        plus: 
+        privacy: "隐私政策"
+        tos: "使用条款"
+    account:
+      breakdown:
+        basedOn: 
+        dividend:
+          balance:
+            negative: 
+            neutral: 
+            positive: 
+          marketAverage: 
+          paying: 
+          title: 
+          weightedAverage: 
+        marketAverage: 
+        performance:
+          investedAt: 
+          oneMonthGain: 
+          threeMonthGain: 
+          title: 
+        title: 
+        valuation:
+          forecastPe: 
+          marketPe: 
+          previousPe: 
+          title: 
+        weightedAverage: 
+      concentration:
+        title: 
+      rating:
+        quality:
+          high: 
+          low: 
+          medium: 
+        quantity: 
+        speculative:
+          notice: 
+          text: 
+        title: 
+    alerts:
+      empty:
+        text: "您关注的股票暂无警报"
+        title: "今日无警告"
+      noAlerts:
+        text: "您还未关注任何股票。何不创建一个关注列表？"
+        title: "无警报！"
+      push:
+        subscribe: "启用Chrome提醒"
+        ubsubscribe: "关闭Chrome提醒"
+      settings: "提醒设置"
+      slider:
+        btnLabel: "免费试用"
+        first:
+          description: "您不仅需要价格提醒。还需获取关于潜在交易表现的提醒。在交易不景气的时候及时获取通知！"
+          title: "智能提醒"
+        second:
+          description: "连接您的经纪人佣金账户，我们将为您提供定期投资健康状况检查并在需要再平衡的时候提醒您。"
+          title: "连接投资组合"
+        success:
+          btnLabel: "查看我的提醒"
+          text: "免费试用后，我们将联系您，您将支付5美元(38元)直到该服务取消。"
+          title: "成功管理！"
+        third:
+          description: "使用我们的通知服务，您可以高枕无忧，我们为您监控投资状态，在需要作出调整的时候通知您。"
+          title: "通知"
+        title: Supercharge Stockflare
+      subtitle: "这些警报针对您当前查看的股票"
+      title: "警报"
+      trial:
+        extend:
+          extend: "扩展您的试用以免错过信息"
+          get: "获取Stockflare Plus提醒"
+          left: Stockflare Plus还剩%n天
+          text: "只要5美元/月(38元)，随时可以取消"
+          upgrade: "更新"
+        unlock: "解锁提醒"
+      unlock: "解锁提醒"
+      unlockAll: "解锁所有提醒"
+      upgrade: "更新"
+    common:
+      cancel: "取消"
+      complete: "完成"
+      confirm: "是"
+      delete:
+        confirmation: "您是否确定希望删除%n股票？"
+      done: "已完成"
+      form:
+        email: "电子邮件地址"
+        newPassword: "希望设定的密码"
+        password: "密码"
+      lastUpdated: "最后更新"
+      login:
+        createAccountText: 
+        createAccountTitle: 
+      ok: "确认"
+      reset: "重置"
+      search: "搜索"
+      setLocation: "设定位置"
+    connect:
+      connected:
+        homepageLabel: "转到主页"
+        portfolioLabel: "转到投资组合"
+        subtitle: "您可从下文选择希望访问位置"
+        title: "交易已激活"
+      connecting:
+        status: "正在连接"
+        subtitle: "这些是您的经纪人详细信息，以便于我们能够获得您的投资组合信息"
+        title: "登录"
+      form:
+        connectBtn: "登录到您的帐户"
+        username: "用户名/电子邮件"
+      getAccount: 
+      info: "点击“登录”，即表明您同意Stockflare所规定的条款和条件"
+      noAccount: "我没有经纪人"
+    dashboard:
+      titles:
+        alerts: 
+        brokers: 
+        explore: 
+        freeAlerts: 
+        moversAndShakers: 
+        watchlists: 
+      topBox:
+        accounts:
+          gain: 
+          worth: 
+        watchlists:
+          gain: 
+          worth: 
+        yourMoney: 
+    disclaimer:
+      links:
+        barchart: Barchart
+        iex: IEX Trading
+        pages: Stockflare Limited
+        reuters: Thomson Reuters
+        tos: 
+        tradeit: Trading Ticket Inc
+      partOne: 
+      partTwo: 
+    drivewealth:
+      buttons:
+        account: 
+        first: 
+        second: 
+      disclaimer: 
+      featurrs:
+        anyone:
+          text: 
+          title: 
+        decide:
+          text: 
+          title: 
+        leverage:
+          text: 
+          title: 
+        minimums:
+          text: 
+          title: 
+        simple:
+          text: 
+          title: 
+        stockflare:
+          text: 
+          title: 
+      title: 
+      whyNotNow: 
+    explore:
+      empty: 
+      subtitle: "在不同/方便的购物篮中了解各种股票"
+      title: "了解股票"
+    forgotPassword:
+      backButton: "返回/主页"
+      button: "请求新密码"
+      confirmation: "请查看您已注册的电子邮件地址"
+      sent: "密码已发送"
+    homepage:
+      createAccount: "创建免费账户"
+      desktopVersionLabel: "转为桌面版本"
+      logged:
+        subtitle: "您现在可以浏览各种警报通知和监视列表。"
+        title: "欢迎回来"
+      market: "这里是我们对最大3支股票的分析"
+      portfolios: "投资组合"
+      settings: "的设置"
+      subtitle: "在我们独特的系统内轻松选择并查看各个股票"
+      title: "轻松选股"
+      viewMore:
+        stocks: "查看更多股票"
+        themes: "查看更多主题"
+    paywall:
+      listInfo: 
+      modal:
+        buy: 
+        close: 
+        logged:
+          buy: 
+          text: 
+        notLogged:
+          buy: 
+          text: 
+        text: 
+      selectSuffix: 
+    peers:
+      back: 
+      competitors: 
+      footer: 
+      sortBy:
+        back: 
+        cheapest: 
+        dividend: 
+        growth: 
+        label: 
+        lowest_price: 
+        market_value: 
+        near_fifty_two_week_low: 
+        star_rating: 
+        stockPeer:
+          forecastPe: 
+        upside: 
+      stockPeer:
+        dividend: 
+        growth: 
+        lowest_price: 
+        near_fifty_two_week_low: 
+        upside: 
+      title: 
+    pickStocks:
+      actions:
+        clear: 
+        filter: 
+        find: 
+        save: 
+      filters:
+        country:
+          filterPlaceholder: 
+          label: 
+        investingStyle:
+          investingStyle:
+            label: 
+            values:
+              good: 
+              growth: 
+              quality: 
+          label: 
+          priceDirection:
+            label: 
+            values:
+              highWeek: 
+              lowWeek: 
+              negativeMomentum: 
+              positiveMomentum: 
+          sentiment:
+            label: 
+            values:
+              hated: 
+              loved: 
+              unknown: 
+        metrics:
+          label: 
+          values:
+            cash: 
+            dividends: 
+            growing: 
+            highGrowth: 
+            large: 
+            profitable: 
+            profitableToday: 
+            small: 
+        price:
+          label: 
+          values:
+            100to250: "$100 - $250"
+            10to25: "$10 - $25"
+            1to10: "$1 - $10"
+            250to1000: "$250 - $1000"
+            25to100: "$25 - $100"
+            50to100: "$50 - $100"
+            over100: Over $100
+            over1000: Over $1000
+            under1: Under $1
+            under50: Under $50
+        sector:
+          filterPlaceholder: 
+          label: 
+        starRating:
+          label: 
+          values:
+            cheaper: 
+            dividends: 
+            growing: 
+            profitable: 
+            upside: 
+        title: 
+        valuation:
+          label: 
+          values:
+            enterprise: 
+            high: 
+            low: 
+            priceToBook: 
+            profit: 
+      selectPlaceholder: 
+      summary:
+        subtitle: 
+        title: 
+      title: 
+    portfolio:
+      connected: 
+      count:
+        many: 
+        one: 
+      pendingTrades: 
+      reConnect:
+        text: "您的帐户每30天重复此操作，以保证帐户安全"
+        title: "您的帐户需要重新验证"
+      reconnect: 
+      table:
+        actions: 
+        name: 
+        starRating: 
+    portfolios:
+      empty:
+        text: "您还没有连接到Stockflare的经纪帐户。为什么不试一下呢？"
+        title: "无已连接的经纪"
+      new: 
+      subtitle: "浏览您的帐户"
+      title: "投资组合"
+    register:
+      ad:
+        list:
+          accounts: 
+          health: 
+          personalized: 
+          premium: 
+          watchlists: 
+        title: 
+    search:
+      noResults: "很抱歉！我们未能找到相关结果"
+      noResultsLink: "尝试"
+      subtitle: "我们正在进行一种投机买卖"
+      title: "在超过50,000支股票中搜索"
+    settings:
+      accountDetails:
+        currentPassword: "当前密码"
+        email: "电子邮件"
+        heading: "受保护详细信息"
+        newPassword: "新密码"
+      alertSettings:
+        cancelSubscription: "取消订阅"
+        cancelled: 
+        end: 
+        heading: "提醒设置"
+        offNoticiations: "暂停邮件通知"
+        onNoticiations: "开始邮件通知"
+        paymentDetails: "更新支付信息"
+        subscription: "订阅"
+        trial: "试用（还剩%n天）"
+      logoutBtn: "注销"
+      saveBtn: "应用更改"
+      subtitle: "请在此处更改您Stockflare的个人设置"
+      title: "我的设置"
+      userDetails:
+        country: "地区"
+        heading: "我的详细信息"
+        language: "语言"
+        name: "全名"
+    stock:
+      alerts:
+        alertsWaiting: 
+        currentAlerts: 
+        header: 
+        noAlerts:
+          firstLine: 
+          secondLine: 
+        plusAlerts: 
+        subscribeAlerts: 
+      bshare:
+        text: "目前我们只进行A股和第一上市的全面分析。"
+        title: "%n的关键指标？"
+      chart:
+        buttons:
+          fiveYears: 
+          oneDay: 
+          oneMonth: 
+          oneYear: 
+          tenYears: 
+          threeMonths: 
+          twoYears: 
+      description: 
+      etf:
+        text: "查看关键指标。我们对主要股票进行分析。"
+        title: "关键指标"
+        visit: "访问"
+      keyStats:
+        title: "关键数据"
+      latest: "最新结果"
+      million: "百万"
+      peers: 
+      share:
+        label: 
+        title: 
+      starRating:
+        cheap:
+          graph:
+            first: 
+            second: 
+          label: 
+          na: "无PE比率"
+          summary: 
+          text: "%n倍PE对比竞争对手的%n倍"
+          title:
+            negative: "昂贵"
+            positive: "便宜"
+          values:
+            negative: 
+            positive: 
+        dividends:
+          graph:
+            first:
+              forecast: 
+              historic: 
+            info: 
+            second: 
+          label: 
+          na: "无可用预测"
+          negative:
+            text: "不支付红利"
+          positive:
+            dividend: "股息"
+            text: "红利%n美元收益率%n%"
+            yieldOf: "收益率%n%"
+          summary: 
+          title: "股息?"
+          values:
+            negative: 
+            positive: 
+        expert:
+          downside: "距离目标价还有%n%下跌空间"
+          graph:
+            first: 
+            info: 
+            second:
+              downside: 
+              upside: 
+          label: 
+          na: "无专家调研"
+          noChanges: "与目标价格无差异"
+          summary: 
+          title: "专家意见"
+          upside: "距离目标价还有%n%上涨空间"
+          values:
+            negative: 
+            positive: 
+        profitable:
+          graph:
+            first: 
+            second: 
+          label: 
+          na: "无可用预测"
+          summary: 
+          text: "预测每股盈余"
+          title:
+            negative: "无投资组合"
+            positive: "盈利"
+          values:
+            negative: 
+            positive: 
+        stronger:
+          graph:
+            first: 
+            info: 
+            second: 
+          label: 
+          na: "无增长预测"
+          summary: 
+          text: "%n%的增长对比竞争对手的%n%"
+          title:
+            negative: "较缓"
+            positive: "较强"
+          values:
+            negative: 
+            positive: 
+        title: "关键指标"
+      statistics:
+        enterpriseValue: 
+        forecastSales: 
+        headers:
+          cashDebt: 
+          sales: 
+          valuation: 
+        lastTwelveMonths: 
+        marketValue: 
+        netCash: 
+        netCashText: 
+        netDebt: 
+        netDebtText: 
+        netDebtTextNA: 
+        netProfitForecast: 
+        priceToBookValue: 
+        priceToOperatingProfit: 
+        priceToSales: 
+        returnOnEquity: 
+      topBox:
+        actual: 
+        percentage: 
+        price: 
+      tradeBtn:
+        notAvailable: 
+        trade: 
+      visit: "访问"
+      watchlistBtn:
+        unwatch: 
+        watch: 
+      website: "网站"
+    subscribe:
+      action: 
+      disclaimer: 
+      invite: 
+      monthly: 
+      premium: 
+      refer: 
+      sections:
+        ads:
+          text: 
+          title: 
+        alerts:
+          text: 
+          title: 
+        data:
+          text: 
+          title: 
+        personalisation:
+          text: 
+          title: 
+        tools:
+          text: 
+          title: 
+        trading:
+          text: 
+          title: 
+      title: 
+      trailLeft: 
+    trade:
+      advanced: "高级设置"
+      brokeraage: "佣金"
+      brokerage: "佣金"
+      buy: "购买"
+      buyLimit: "限价"
+      change: "更改"
+      choose: "选择佣金"
+      estimatedCost: "估计成本"
+      estimatedFees: "估计费用"
+      estimatedReturn: "估计收益"
+      expiration:
+        day: "当天有效"
+        gtc: "取消之前有效"
+        label: "时间"
+      fractional:
+        buyTitle: "多少数额的美元？"
+        dolarBased: "回到基于美元的交易"
+        perShareLabel: "转向基于各股的买入"
+        sellAll: "全部卖出"
+        sellTitle: "您自己的"
+      placeOrder: "下达委托单"
+      preview: "预览委托单"
+      quantity: "数量"
+      reuthenticate: "再授权"
+      reuthenticateTest: "如要继续交易，您需对交易账户再授权"
+      sell: "卖出"
+      sellLimit: "限价"
+      simple: "简单设置"
+      success:
+        portfolioBtn: "转到投资组合"
+        stockBtn: "返回至 %n"
+        subtitle: "您可从下方选择希望访问位置"
+        title: "交易已完成"
+      ticker: "股票行情自动收录器"
+      trade: "交易"
+      type:
+        label: "委托单类型"
+        limit: "限价委托单"
+        market: "市价委托单"
+      warning:
+        quantity: "数量不得大于%n"
+    watchlist:
+      addShares: "添加股票"
+      addSharesIn: "添加股票到"
+      empty: "尚未观察任何股票？“探索”一些股票并将您最喜欢的添加到观察列表吧。"
+      emptyTitle: "探索股票"
+      form:
+        amount: "数额"
+        price: "价格"
+      inputLabel: "监视清单名称"
+      myWatchlist: "我的监视清单"
+      newWatchlist: "创建监视列表"
+      selectWatchlist: "选择监视列表"
+      shares:
+        multi: "股票"
+        single: "股票"
+      subtitle: "您的监视列表已经按市场价值（Market Value）列出"
+      updateShares: "更新股票"
+    watchlists:
+      new: 
+  notifications:
+    cash:
+      negative: "%short_name已经预见其净现金头寸将会有现有股价 %net_cash_to_share_price的下降。"
+      positive: "%short_name已经预见其净现金头寸将会有现有股价 %net_cash_to_share_price的增长。"
+    consolidation:
+      negative: "%short_name于%split_date已经经历了一次合并率为%ratio的股票合并。今日价格为%price，%timestamp价格为%price_yesterday。"
+    debt_danger:
+      negative: "%short_name净负债对经营比率已上升到 %net_debt_to_operating_profit。"
+      positive: "%short_name净负债对经营比率已下降到 %net_debt_to_operating_profit。"
+    debt_net:
+      negative: "%short_name已进入净负债状态，之前计算过现金结余净额。"
+      positive: "%short_name目前持有其股价%net_cash_to_share_price的净现金。之前处于净负债状态。"
+    dps_growth:
+      negative: "%short_name每股红利预计将要下降。"
+      positive: "%short_name每股红利预计将要增长。"
+    dps_trend:
+      negative: "%short_name预计红利上周已经从%forecast_dps_one_week_ago 下降至%forecast_dps。"
+      positive: "%short_name预计红利上周已经从%forecast_dps_one_week_ago 增长至%forecast_dps。"
+    dps_turn:
+      negative: "%short_name目前预计不能支付红利。之前预计每股支付红利%forecast_dps_yesterday。"
+      positive: "%short_name目前能够支付红利%forecast_dps。之前预计不能支付红利。"
+    dps_turns:
+      negative: "%short_name目前预计不能支付红利。之前预计每股支付红利%forecast_dps_yesterday。"
+      positive: "%short_name目前能够支付红利%forecast_dps。之前预计不能支付红利。"
+    dps_warning:
+      negative: "%short_name预计每股收益%forecast_eps，不再能够继续覆盖每股%forecast_dps的预计红利。"
+      positive: "%short_name目前预计收益超过红利。之前预计收益不能够继续覆盖预期红利支付。"
+    eps_growth:
+      negative: "%short_name目前预期收益下降。"
+      positive: "%short_name目前预期收益增长。"
+    eps_price_one_month:
+      positive: "%short_name的预期收益有变动——超过上月 %forecast_eps_change_one_month，但价格增长%price_change_one_month。PE比率现为收益的%forecast_pe。"
+    eps_price_one_week:
+      positive: "%short_name的预期收益有变动——超过上周%forecast_eps_change_one_week，但价格下降%price_change_one_week。PE比率现为收益的%forecast_pe。"
+    eps_trend:
+      negative: "%short_name预计EPS上周从%forecast_eps_one_week_ago下降至%forecast_eps。"
+      positive: "%short_name预计EPS上周从%forecast_eps_one_week_ago增长至%forecast_eps。"
+    eps_turn:
+      negative: "%short_name的预期EPS被降级至亏损%forecast_eps，原预计盈利%forecast_eps_yesterday。"
+      positive: "%short_name的预期EPS被升级至盈利%forecast_eps，原预计亏损%forecast_eps_yesterday。"
+    eps_turns:
+      negative: "%short_name的预期EPS被降级至亏损%forecast_eps，原预计盈利%forecast_eps_yesterday。"
+      positive: "%short_name的预期EPS被升级至盈利%forecast_eps，原预计亏损%forecast_eps_yesterday。"
+    gain_trend:
+      negative: "%short_name的预期长期收益上周从%long_term_gain_one_week_ago大幅下降至%long_term_gain。"
+      positive: "%short_name的预期长期收益上周从%long_term_gain_one_week_ago大幅增长至%long_term_gain。"
+    gain_turn:
+      negative: "%short_name预计长期收益于%timestamp转向悲观，从%long_term_gain_yesterday调整为%long_term_gain。"
+      positive: "%short_name预计长期收益于%timestamp转向乐观，从%long_term_gain_yesterday调整为%long_term_gain。"
+    gain_turns:
+      negative: "%short_name预计长期收益昨天转向悲观，从%long_term_gain_yesterday调整为%long_term_gain。"
+      positive: "%short_name预计长期收益昨天转向乐观，从%long_term_gain_yesterday调整为%long_term_gain。"
+    growth_trend:
+      negative: "%short_name长期增长预期上周从%long_term_growth_one_week_ago大幅下降至%long_term_growth。"
+      positive: "%short_name长期增长预期上周从%long_term_growth_one_week_ago大幅增长至%long_term_growth。"
+    growth_turn:
+      negative: "%short_name预计长期增长于%timestamp转向悲观，从%long_term_growth_yesterday调整为%long_term_growth。"
+      positive: "%short_name预计长期增长于%timestamp转向乐观，从%long_term_growth_yesterday调整为%long_term_growth。"
+    growth_turns:
+      negative: "%short_name预计长期增长昨天转向悲观，从%long_term_growth_yesterday调整为%long_term_growth。"
+      positive: "%short_name预计长期增长昨天转向乐观，从%long_term_growth_yesterday调整为%long_term_growth。"
+    pe:
+      negative: "%short_name今天的收益为%forecast_pe，高于一周以前的收益%forecast_pe_one_week_ago。"
+      positive: "%short_name今天的收益为%forecast_pe，低于一周以前的收益%forecast_pe_one_week_ago。"
+    portfolio_concentration:
+      positive:
+        concentrated: 
+        missing: 
+        sectors: 
+      title: 
+    portfolio_consideration:
+      negative: 
+    portfolio_discover:
+      negative: 
+    portfolio_dividends:
+      negative: 
+      positive: 
+      title: 
+    portfolio_idea:
+      negative: 
+    portfolio_profitability:
+      negative: 
+      positive: 
+      title: 
+    portfolio_rating:
+      positive:
+        average: 
+        speculative: 
+      title: 
+    portfolio_revisit:
+      negative: 
+    portfolio_worth:
+      negative: 
+      positive: 
+      title: 
+    price_after_market:
+      negative: 
+      positive: 
+    price_eps_one_month:
+      positive: "%short_name的价格为%price_change_one_month，但预期收益超过了上月%forecast_eps_change_one_month。"
+    price_eps_one_week:
+      positive: "%short_name的价格为%price_change_one_month，但预期收益超过了上周%forecast_eps_change_one_month。"
+    price_intraday:
+      negative: "%short_name分时价格下降%price_change。"
+      positive: "%short_name分时价格上升%price_change。"
+    price_large_cap:
+      negative: "%short_name于%timestamp下跌%price_change。"
+      positive: "%short_name于%timestamp上涨%price_change。"
+    price_largecap:
+      negative: "%short_name昨日下跌%price_change。"
+      positive: "%short_name昨日上涨%price_change。"
+    price_peer:
+      negative: "%short_name的同类股票%peer_short_name于%timestamp下跌%peer_price_change。"
+      positive: "%short_name的同类股票%peer_short_name于%timestamp上涨%peer_price_change。"
+    price_pre_market:
+      negative: 
+      positive: 
+    price_small_cap:
+      negative: "%short_name于%timestamp下跌%price_change。"
+      positive: "%short_name于%timestamp上涨%price_change。"
+    price_smallcap:
+      negative: "%short_name昨日下跌%price_change。"
+      positive: "%short_name昨日上涨%price_change。"
+    recommendation:
+      negative: "%short_name已降级%recommendation_text。"
+      positive: "%short_name已升级%recommendation_text。"
+    sales_trend:
+      negative: "%short_name预期销售额本年度不再预期增长。"
+      positive: "%short_name预期销售额本年度仍预期增长。"
+    split:
+      positive: "%short_name于%split_date进行过一次股票分割，分割率为%ratio。今日价格为%price，%timestamp价格为%price_yesterday。"
+    stars:
+      negative: "%short_name丢失了一颗星，现为%rating星股票。"
+      positive: "%short_name增加了一颗星，现为%rating星股票。"
+    stars_peers:
+      negative: "%short_name降级为%rating星级别。以下是其同类4星+股票列表：%rics。"
+    target_trend:
+      negative: "%short_name的目标价格上周从%target_price_one_week_ago下降至%target_price。"
+      positive: "%short_name的目标价格上周从%target_price_one_week_ago上升至%target_price。"
+    target_turn:
+      negative: "%short_name现有价格为%price，高于目标价格%target_price。"
+      positive: "%short_name的目标价格%target_price目前高于最新价格%price。"
+    target_turns:
+      negative: "%short_name现有价格为%price，高于目标价格%target_price。"
+      positive: "%short_name的目标价格%target_price目前高于最新价格%price。"
+    volume_intraday:
+      negative: "%short_name今日交投畅旺，价格下跌%price_change。"
+      positive: "%short_name今日交投畅旺，价格上涨%price_change。"
+    volume_ten_day:
+      negative: "%short_name的价格于%timestamp的交投畅旺下跌%price_change。"
+      positive: "%short_name的价格于%timestamp的交投畅旺上涨%price_change。"
+  payments:
+    email:
+      customer_source_created:
+        body: "您的交易信息已更新至%card_type卡，尾号为%ending。如果您正在试用我们的服务，服务结束前您不需要付费。在设置页面可以查看您的订阅信息。"
+        link: "查看您的账户设置"
+        subject: "您的支付信息已更新"
+      gift_drive_wealth:
+        body: "感谢试用我们的服务。我们已在您的账户中记入1个月的免费Stockflare Plus订阅。如果您是新用户，您同样将获得最高14天的免费试用。如果您已经试用过，您可以把DriveWealth账户连接到Stockflare，获取关于您所持股票的提醒。"
+        link: "连接您的账户"
+        subject: "您的DriveWealth礼物到了！"
+      invoice_payment_failed:
+        body: Stockflare Plus订阅支付失败。我们将在几天后重试，在此期间您的订阅依然有效。您可以在设置页面更新支付信息。
+        link: "查看您的账户设置"
+        subject: "您的Stockflare Plus支付失败"
+      payment_succeeded:
+        body: "我们已收到您的Stockflare Plus订阅支付。感谢使用我们的服务。支付金额为USD $%amount。您可以在设置页面查看您的订阅信息。"
+        link: "查看您的账户设置"
+        subject: Stockflare Plus支付收据
+      refer:
+        body: "感谢您将Stockflare推荐给您的朋友。他们中的一个人已经注册，我们在您的账户中记入了1个月的Stockflare Plus免费订阅。"
+        link: "查看您的提醒"
+        subject: "您的一位朋友已经注册了Stockflare"
+      subscription_has_ended:
+        body: "您已提交Stockflare Plus订阅申请。点击下方链接确认您所有的股票都能获得我们的智能提醒。"
+        link: "订阅Stockflare Plus"
+        subject: "您已提交Stockflare Plus订阅申请。"
+      trial_will_end:
+        body: "您的Stockflare Plus将于%days天后试用结束。点击下方链接确认您所有的股票都能获得我们的智能提醒。"
+        link: "订阅Stockflare Plus"
+        subject: "您的Stockflare Plus试用期很快就要结束了"
+  settings:
+    buttons:
+      apply: "应用更改"
+      delete: "关闭账户"
+      loading: "正在更新设置"
+    descriptions:
+      alerts_email: "您想接收股票提醒邮件吗"
+      cannot_delete: "在取消订阅Stockflare Plus之前，您不能关闭账户。"
+      currency: "关注列表内的预期值和总价将在使用最新汇率兑换之后，以您的首选汇率显示。"
+      current: "请输入您的当前密码以执行此更改"
+      delete: "关闭您的账号将从我们的系统内永久删除您的个人数据。此操作不可恢复。"
+      error: "抱歉，更新您的设置时出现错误。"
+      language: "设置您浏览Stockflare时的首选语言。"
+      location: "当您不以国家作为筛选条件时，您的地理位置将被用以筛选。"
+      password: "如果您不希望更改您的密码，请保留空白"
+    flash:
+      cancel_subscription: "确认取消订阅Stockflare Plus吗？"
+      delete: "确认关闭Stockflare账号？"
+      deleteError: "抱歉，关闭您的账号时出现错误，请联系info@stockflare.com。"
+      deleteInitiated: "已收到关闭账号请求。请注意查看电子邮箱内的进一步说明。"
+      updated: "您的设置已更新"
+    titles:
+      danger: "危险区"
+      subscription: "订阅详细信息"
+  stock:
+    innerTypes:
+      chart:
+        extra_series:
+          forecast_dps:
+            label: 
+          forecast_eps:
+            label: 
+          forecast_pe:
+            label: 
+          forecast_sales:
+            label: 
+          long_term_gain:
+            label: 
+          long_term_growth:
+            label: 
+          price:
+            label: 
+          rating:
+            label: 
+          recommendation:
+            label: 
+          target_price:
+            label: 
+          ten_day_average_volume:
+            label: 
+    stats:
+      fifty_two_week: 52周高点/低点
+      industry: "产业"
+      value: "市场价值"
+  subscriptions:
+    information:
+      plans:
+        silver:
+          payment:
+            button: "退订"
+            description: "试用期结束后需每月支付费用。"
+  tooltip:
+    acronyms:
+      dps: "每股股利"
+      eps: "每股盈余"
+      growth: "预测长期增长"
+      pe: "市盈率"
+      rating: "关键指标"
+      ric: "路透社股票代码"
+    explanations:
+      downside: "股票经纪人发布他们认为公道的股价，并称之为指标价格。我们的数据提供商计算出这些专家所给的平均值。在这里，我们显示的是华尔街指标价格低于今日股价的百分比。需要注意的是，这个指标价格是这些专家的主观观点，而非客观事实。"
+      dps: "如同银行给利息一样，公司也会支付股东红利。每股股利是您拥有的每一股所得的股息。"
+      eps: "公司的利润归其股东所有。每股盈余理论上说，是您拥有的每一股所分得的利润。"
+      pe: "市盈率表示股价相对于每股盈余的倍数关系，数值越大，这只股票越值钱。"
+      recommendation: "股票经纪人们对于每一支他们分析的股票都会公布一份买入/卖出/持有的建议。我们的数据提供商Thomson Reuters计算出这些专家所给的平均值，这良好的反映出了华尔街的观点。需要注意的是，这个指标价格是这些专家的主观观点，而非客观事实。"
+      upside: "股票经纪人发布他们认为公道的股价，并称之为指标价格。我们的数据提供商计算出这些专家所给的平均值。在这里，我们显示的是华尔街指标价格高于今日股价的百分比。需要注意的是，这个指标价格是这些专家的主观观点，而非客观事实。"
+  v1:
+    new_val: 
+    test: 
+  v2:
+    test: 
+  watchlist:
+    actualChange: "（1日）实际变化"
+    breakdown:
+      columns:
+        price: "今日"
+        purchased: "投资"
+        shares: "价值与股份"
+    create:
+      points:
+        infinite:
+          subtitle: "我们的关注列表绝对没有任何上限。随心所欲关注所有您感兴趣的股票。"
+          title: "无限规模"
+        monitor:
+          subtitle: "使用我们的分析，轻松判断您所拥有的股票中表现最好和最坏的。"
+          title: "实时关注业绩"
+        positions:
+          subtitle: "增加股票仓位与买入价以得到一个真实的组合。"
+          title: "添加仓位"
+      subtitle: Stockflare所提供的关注列表容量远远超过平均投资组合。
+      title: "新建关注列表"
+    danger:
+      button: "删除观察列表"
+      description: "删除您的观察列表将永久删除您在我们伺服器上存储的所有数据。此过程将不可恢复。"
+      title: "危险区域"
+    pageTitle: "我的关注列表"
+  watchlists:
+    pageTitle: "我的关注列表"
+    titles:
+      actual: "实际变化"
+      change: "百分比变化 "
+      stocks: "%n支股票"
+      worth: "总价值"
