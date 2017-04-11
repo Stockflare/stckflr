@@ -1699,6 +1699,7 @@ en:
       upside: 'Stockbrokers publish what they believe is the fair value of a stock, it''s called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today''s stock price. Beware, it''s a subjective option from these experts, not objective. '
   v1:
     new_val: New Value From V2
+    new_val_2: New Values to test Travis Build
     test: Override Value from v2
   v2:
     test: New Key from V2
