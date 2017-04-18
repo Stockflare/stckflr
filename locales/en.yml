@@ -1735,3 +1735,12 @@ en:
       change: Percentage Change
       stocks: "%n Stocks"
       worth: Total Worth
+  explore_history:
+    email:
+      subject_new: "New stocks are now in %explore_category inc. %rics"
+      subject_lost: "Some stocks are no longer in %explore_category inc. %rics"
+      new_heading: "The following stocks are now in %explore_category"
+      lost_heading: "The follwing stocks are no longer in %explore_category"
+      view_category: "View %explore_category"
+      unsubscribe_text: "Click the following Unsubscribe link to stop watching this explore category and no longer get this email."
+      unsubscribe_link: "Unsubscribe"
