@@ -1161,7 +1161,7 @@ en:
       empty:
         text: You've not connected a brokerage account to Stockflare. Why not give it a go?
         title: No Brokerages Connected
-      new: New Brokerage
+      new: Add Brokerage
       subtitle: Browse your accounts
       title: Portfolios
     register:
