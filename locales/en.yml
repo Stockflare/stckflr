@@ -1173,6 +1173,10 @@ en:
           premium: Test out our premium tools for free
           watchlists: Save unlimited watchlists
         title: Why Register?
+      modal:
+        text: "Many thanks for testing out Stockflare. Please register for free, to continue using our service. We are looking forward to serving you long-term!"
+        terms: Terms
+        register: Register
     search:
       noResults: Sorry we can't find anything
       noResultsLink: Try
