@@ -1164,6 +1164,9 @@ en:
       new: Add Brokerage
       subtitle: Browse your accounts
       title: Portfolios
+      update:
+        button: Get a Portfolio Update
+        flash: "We are analysing your portfolio and watchlists and we shall send the analysis direct to your inbox."
     register:
       ad:
         list:
