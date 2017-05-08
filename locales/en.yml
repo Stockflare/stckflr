@@ -942,7 +942,7 @@ en:
         title: Trading Activated
       connecting:
         status: Connecting
-        subtitle: It can take a minute or two, to fetch your portfolio details
+        subtitle: It can take a minute, or two, to fetch your portfolio details
         title: Logging In
       form:
         connectBtn: Login to %n
