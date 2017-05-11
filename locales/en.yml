@@ -1767,13 +1767,13 @@ en:
       one_month_forecast_eps_change: Earnings change 1M
     sectors:
       label: Sectors
-      _all: All Sectors
+      all: All Sectors
     country:
       input:
         add: Hit Enter to add
         placeholder: Type country name
       label: Country
-      global: Global
+      _all: Global
       amer: AMER
       apac: APAC
       emea: EMEA
