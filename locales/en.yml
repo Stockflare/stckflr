@@ -1752,6 +1752,7 @@ en:
       unsubscribe_text: "Click here to unsubscribe"
       unsubscribe_link: "Unsubscribe"
   databank:
+    title: Stockflare Databank
     compareLabel: Compare to
     comparePlaceholder: Select comparsion metric
     compare:
@@ -1766,9 +1767,11 @@ en:
       one_month_forecast_eps_change: Earnings change 1M
     sectors:
       label: Sectors
-      all: All Sectors
-      add: Hit Enter to add
+      _all: All Sectors
     country:
+      input:
+        add: Hit Enter to add
+        placeholder: Type country name
       label: Country
       global: Global
       amer: AMER
