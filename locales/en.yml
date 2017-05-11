@@ -1751,3 +1751,27 @@ en:
       view_category: "View %explore_category"
       unsubscribe_text: "Click here to unsubscribe"
       unsubscribe_link: "Unsubscribe"
+  databank:
+    compareLabel: Compare to
+    comparePlaceholder: Select comparsion metric
+    compare:
+      forecast_pe: Forecast PE
+      pe_ratio:  PE Ratio
+      long_term_growth: Long-term growth
+      martk_value_usd: Total Market Value US$
+      forecast_dividend_yield: Forecast Dividend Yield
+      historic_dividend_yield: Historic Dividend Yield
+      price_to_book_value: Price to Book
+      one_month_price_change: Price Change 1M
+      one_month_forecast_eps_change: Earnings change 1M
+    sectors:
+      label: Sectors
+      all: All Sectors
+      add: Hit Enter to add
+    country:
+      label: Country
+      global: Global
+      amer: AMER
+      apac: APAC
+      emea: EMEA
+
