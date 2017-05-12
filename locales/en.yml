@@ -1764,7 +1764,7 @@ en:
       forecast_pe: Forecast PE
       pe_ratio:  PE Ratio
       long_term_growth: Long-term growth
-      martk_value_usd: Total Market Value US$
+      market_value_usd: Total Market Value US$
       forecast_dividend_yield: Forecast Dividend Yield
       historic_dividend_yield: Historic Dividend Yield
       price_to_book_value: Price to Book
