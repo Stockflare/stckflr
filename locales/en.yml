@@ -1755,6 +1755,11 @@ en:
     title: Stockflare Databank
     compareLabel: Compare to
     comparePlaceholder: Select comparsion metric
+    select:
+      limit: You reach selection limit
+      allow:
+        single: "You can select %n more item"
+        plural: "You can select %n more items"
     compare:
       forecast_pe: Forecast PE
       pe_ratio:  PE Ratio
