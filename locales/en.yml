@@ -1786,15 +1786,20 @@ en:
         single: "You can select %n more item"
         plural: "You can select %n more items"
     compare:
+      star_rating: Star Rating
+      percentage_up_downside: Upside/Downside
+      recommendation: Rcommendaation
       forecast_pe: Forecast PE
       pe_ratio:  PE Ratio
       long_term_growth: Long-term growth
+      long_term_gain: Long-term gain
       market_value_usd: Total Market Value US$
       forecast_dividend_yield: Forecast Dividend Yield
       historic_dividend_yield: Historic Dividend Yield
       price_to_book_value: Price to Book
       one_month_price_change: Price Change 1M
       one_month_forecast_eps_change: Earnings change 1M
+      return_on_requity: Return on Equity
     sectors:
       label: Sectors
       all: All Sectors
