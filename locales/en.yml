@@ -1758,7 +1758,7 @@ en:
     comparePlaceholder: Select comparsion metric
     disclaimer:
       partOne: "Stockflare's databank provides an insight into the aggregate data for regions, countries and sectors."
-      partTwo: "The information presented is an adjusted average in all cases, except for the "total market value USD metric". We adjust the averages to exclude outliers."
+      partTwo: "The information presented is an adjusted average in all cases, except for the 'total market value USD metric'. We adjust the averages to exclude outliers."
       partThree: "For example, our average PE calculations, excludes loss making stocks and PE valuations over 100x earnings. Our dividend yield is the average of all dividend paying stocks less than 15% per annum. Please contact us for a full list of adjustments."
       partFour: "When we refer to a country or sector, we are referring to the Reuters sector classification and the country where the stock trades. We are only analyzing the primary listed ordinary sha res, excluding closed-end funds and depository receipts."
     categories:
@@ -1814,4 +1814,3 @@ en:
       amer: AMER
       apac: APAC
       emea: EMEA
-
