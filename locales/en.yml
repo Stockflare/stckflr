@@ -1755,12 +1755,12 @@ en:
     title: "Stockflare Databank (Beta)"
     subtitle: "Compare key data points across countries and sectors"
     compareLabel: Compare to
-    comparePlaceholder: Select comparsion metric
+    comparePlaceholder: Select comparison metric
     disclaimer:
       partOne: "Stockflare's databank provides an insight into the aggregate data for regions, countries and sectors."
       partTwo: "The information presented is an adjusted average in all cases, except for the 'total market value USD metric'. We adjust the averages to exclude outliers."
       partThree: "For example, our average PE calculations, excludes loss making stocks and PE valuations over 100x earnings. Our dividend yield is the average of all dividend paying stocks less than 15% per annum. Please contact us for a full list of adjustments."
-      partFour: "When we refer to a country or sector, we are referring to the Reuters sector classification and the country where the stock trades. We are only analyzing the primary listed ordinary sha res, excluding closed-end funds and depository receipts."
+      partFour: "When we refer to a country or sector, we are referring to the Reuters sector classification and the country where the stock trades. We are only analyzing the primary listed ordinary shares, excluding closed-end funds and depository receipts."
     categories:
       title: Popular Graphs
       subtitle: Use these options to test our the databank
@@ -1771,7 +1771,7 @@ en:
         title: "Best dividends?"
         subtitle: Check out dividends by sector
       growth:
-        title: "Check out dividends by sector"
+        title: "Looking for growth?"
         subtitle: "Compare growth versus valuation"
       highUpside:
         title: "High upside!"
@@ -1790,7 +1790,7 @@ en:
     compare:
       star_rating: Star Rating
       percentage_up_downside: Upside/Downside
-      recommendation: Rcommendaation
+      recommendation: Recommendation
       forecast_pe: Forecast PE
       pe_ratio:  PE Ratio
       long_term_growth: Long-term growth
