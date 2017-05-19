@@ -1146,8 +1146,12 @@ en:
     portfolio:
       connected: Connected
       count:
+        few:
         many: "%n Companies"
         one: 1 Company
+        other:
+        two:
+        zero:
       pendingTrades: Pending Trades
       reConnect:
         text: Your account does this every 30 days for security
