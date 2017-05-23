@@ -9,43 +9,43 @@ fr:
     timeAgo: il y a %n heures
   alerts_email:
     content:
-      account: 
+      account:
       alert_settings: Paramètres d'alerte
       description:
-        daily: 
-        weekly: 
+        daily:
+        weekly:
       footer:
-        click: 
-        contact: 
-        here: 
-        more_details: 
-        settings: 
-        unsubscribe: 
-        update_prefs: 
+        click:
+        contact:
+        here:
+        more_details:
+        settings:
+        unsubscribe:
+        update_prefs:
       heading:
-        daily: 
-        weekly: 
-      hidden_message: 
+        daily:
+        weekly:
+      hidden_message:
       marketing:
         gift:
-          link: 
-          text: 
+          link:
+          text:
       subject:
-        daily: 
-        weekly: 
+        daily:
+        weekly:
       subscription:
         free:
-          offer_subscription: 
-          offer_trial: 
-          plus: 
-        subscribed: 
+          offer_subscription:
+          offer_trial:
+          plus:
+        subscribed:
         trialing:
-          contine: 
-          days_left: 
-          plus: 
-          subscribe: 
-      visit_alerts: 
-      watchlist: 
+          contine:
+          days_left:
+          plus:
+          subscribe:
+      visit_alerts:
+      watchlist:
     unsubscribe:
       information:
         button: Paramètres
@@ -80,7 +80,7 @@ fr:
         id: ID utilisateur du compte de courtage
         password: Mot de passe du compte de courtage
         username: Nom d’utilisateur du compte de courtage
-        zerodha: 
+        zerodha:
       help:
         login:
           robinhood: Vous rencontrez des difficultés pour vous connecter à votre compte Robinhood ? Veuillez vérifier que vous entrez votre nom d'utilisateur Robinhood et non pas votre adresse e-mail, ainsi que votre mot de passe et non pas votre code PIN.
@@ -629,7 +629,7 @@ fr:
       positive-fundamentals:
         description: De meilleures ventes, de meilleurs bénéfices, et les brokers sont satisfaits !
         disclaimer: Les stocks de cette catégorie sont basés sur un filtre de tous les stocks qui ont connu deux augmentations consécutives du prix cible du consensus, des prévisions de ventes et des prévisions
-        name: 
+        name:
       renewables:
         description: Si vous souhaitez investir dans un monde sans pétrole, il y a beaucoup d'entreprises qui travaillent dans le marché des énergies renouvelables. Éolien, solaire, vague et l'hydrogène.
         disclaimer: 'Les stocks dans « Énergies renouvelables » sont générés en utilisant un filtre de chaque stock de la zone Amériques ayant passé au moins 3 tests d''indicateur clé (par exemple, rentable, etc). Nous examinons ensuite les stocks se trouvant dans l''un des secteurs suivants : énergies renouvelables, fournisseurs d''énergies renouvelables.'
@@ -728,25 +728,25 @@ fr:
     refer:
       information:
         buttons:
-          send: 
-        copy: 
+          send:
+        copy:
         features:
           first:
-            description: 
-            title: 
+            description:
+            title:
           second:
-            description: 
-            title: 
+            description:
+            title:
           third:
-            description: 
-            title: 
+            description:
+            title:
         fields:
-          email: 
+          email:
         messages:
-          error: 
-          invlaid_email: 
-          sent: 
-        title: 
+          error:
+          invlaid_email:
+          sent:
+        title:
   header:
     buttons:
       about: "À propos de Stockflare"
@@ -754,73 +754,73 @@ fr:
       explore: Explorer
       filters: Filtres
       guestWatched: Sauvegarder votre Liste
-      home: 
+      home:
       ideas: Choisissez vos Actions
       search: Rechercher
       watchlist: Ma Liste
   hodor_landing:
     features:
-      alerts: 
-      global: 
-      reuters: 
-      sec: 
+      alerts:
+      global:
+      reuters:
+      sec:
     footer:
       about:
         about_us: A propos
-        eduacation: 
-        faq: 
-        title: 
+        eduacation:
+        faq:
+        title:
       block:
         companies_house: CompaniesHouse.gov.uk
-        drivewealth: 
-        information_only: 
-        invest_wise: 
-        long_term_investing: 
-        loss_warning: 
-        operated: 
+        drivewealth:
+        information_only:
+        invest_wise:
+        long_term_investing:
+        loss_warning:
+        operated:
       contact:
-        email: 
-        facebook: 
-        title: 
-        twitter: 
-      description: 
+        email:
+        facebook:
+        title:
+        twitter:
+      description:
       legals:
-        privacy: 
-        terms: 
-        title: 
+        privacy:
+        terms:
+        title:
       title: Stockflare Limited & Stockflare USA, Inc.
     hero:
-      cta: 
-      description: 
-      title: 
+      cta:
+      description:
+      title:
     hero_image_url: https://public.stockflare.com/assets/hodor_landing/introduction-background.jpg
     nav:
-      login: 
-      sign_up: 
+      login:
+      sign_up:
     register:
-      cta: 
-      description: 
+      cta:
+      description:
       form:
         email:
-          placeholder: 
+          placeholder:
         password:
-          placeholder: 
-      skip: 
-      terms_1: 
-      terms_2: 
-      title: 
+          placeholder:
+      skip:
+      terms_1:
+      terms_2:
+      title:
     sectons:
       link:
-        cta: 
+        cta:
         cta_url: https://m.stockflare.com/connect
-        description: 
-        title: 
+        description:
+        title:
       picking:
-        cta: 
+        cta:
         cta_url: https://m.stockflare.com/stock/amzn.o
-        description: 
+        description:
         image_url: https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png
-        title: 
+        title:
   login:
     buttons:
       forgot: J'ai oublié mon mot de passe
@@ -831,50 +831,50 @@ fr:
     about:
       links:
         about: A propos
-        broker: 
+        broker:
         contact: Nous contacter
         data: Nos partenaires
         faq: FAQ
-        plus: 
+        plus:
         privacy: Confidentialité
         tos: Conditions Générales
     account:
       breakdown:
-        basedOn: 
+        basedOn:
         dividend:
           balance:
-            negative: 
-            neutral: 
-            positive: 
-          marketAverage: 
-          paying: 
-          title: 
-          weightedAverage: 
-        marketAverage: 
+            negative:
+            neutral:
+            positive:
+          marketAverage:
+          paying:
+          title:
+          weightedAverage:
+        marketAverage:
         performance:
-          investedAt: 
-          oneMonthGain: 
-          threeMonthGain: 
-          title: 
-        title: 
+          investedAt:
+          oneMonthGain:
+          threeMonthGain:
+          title:
+        title:
         valuation:
-          forecastPe: 
-          marketPe: 
-          previousPe: 
-          title: 
-        weightedAverage: 
+          forecastPe:
+          marketPe:
+          previousPe:
+          title:
+        weightedAverage:
       concentration:
-        title: 
+        title:
       rating:
         quality:
-          high: 
-          low: 
-          medium: 
-        quantity: 
+          high:
+          low:
+          medium:
+        quantity:
         speculative:
-          notice: 
-          text: 
-        title: 
+          notice:
+          text:
+        title:
     alerts:
       empty:
         text: Il n'existe pas d'alerte pour l'action que vous suivez
@@ -883,57 +883,57 @@ fr:
         text: Vous ne suivez actuellement aucune action. Pourquoi ne pas créer une liste d'actions à suivre ?
         title: Pas d'alerte !
       push:
-        subscribe: 
-        ubsubscribe: 
-      settings: 
+        subscribe:
+        ubsubscribe:
+      settings:
       slider:
-        btnLabel: 
+        btnLabel:
         first:
-          description: 
-          title: 
+          description:
+          title:
         second:
-          description: 
-          title: 
+          description:
+          title:
         success:
-          btnLabel: 
-          text: 
-          title: 
+          btnLabel:
+          text:
+          title:
         third:
-          description: 
-          title: 
-        title: 
+          description:
+          title:
+        title:
       subtitle: Voici les alertes pour les stocks que vous suivez actuellement
       title: Alertes
       trial:
         extend:
-          extend: 
-          get: 
-          left: 
-          text: 
-          upgrade: 
-        unlock: 
-      unlock: 
-      unlockAll: 
-      upgrade: 
+          extend:
+          get:
+          left:
+          text:
+          upgrade:
+        unlock:
+      unlock:
+      unlockAll:
+      upgrade:
     common:
       cancel: Annuler
       complete: Terminer
       confirm: Oui
       delete:
         confirmation: Voulez-vous vraiment supprimer '%n'?
-      done: 
+      done:
       form:
         email: Adresse e-mail
         newPassword: Mot de passe souhaité
         password: Mot de passe
-      lastUpdated: 
+      lastUpdated:
       login:
-        createAccountText: 
-        createAccountTitle: 
+        createAccountText:
+        createAccountTitle:
       ok: J'accepte
-      reset: 
+      reset:
       search: Rechercher
-      setLocation: 
+      setLocation:
     connect:
       connected:
         homepageLabel: Accueil
@@ -947,64 +947,64 @@ fr:
       form:
         connectBtn: Connectez-vous à votre compte
         username: Nom d'utilisateur/E-mail
-      getAccount: 
+      getAccount:
       info: En cliquant sur 'se connecter' vous acceptez les termes et conditions fixées par Stockflare
       noAccount: Je n'ai pas de compte de courtage
     dashboard:
       titles:
-        alerts: 
-        brokers: 
-        explore: 
-        freeAlerts: 
-        moversAndShakers: 
-        watchlists: 
+        alerts:
+        brokers:
+        explore:
+        freeAlerts:
+        moversAndShakers:
+        watchlists:
       topBox:
         accounts:
-          gain: 
-          worth: 
+          gain:
+          worth:
         watchlists:
-          gain: 
-          worth: 
-        yourMoney: 
+          gain:
+          worth:
+        yourMoney:
     disclaimer:
       links:
         barchart: Barchart
         iex: IEX Trading
         pages: Stockflare Limited
         reuters: Thomson Reuters
-        tos: 
+        tos:
         tradeit: Trading Ticket Inc
-      partOne: 
-      partTwo: 
+      partOne:
+      partTwo:
     drivewealth:
       buttons:
-        account: 
-        first: 
-        second: 
-      disclaimer: 
+        account:
+        first:
+        second:
+      disclaimer:
       featurrs:
         anyone:
-          text: 
-          title: 
+          text:
+          title:
         decide:
-          text: 
-          title: 
+          text:
+          title:
         leverage:
-          text: 
-          title: 
+          text:
+          title:
         minimums:
-          text: 
-          title: 
+          text:
+          title:
         simple:
-          text: 
-          title: 
+          text:
+          title:
         stockflare:
-          text: 
-          title: 
-      title: 
-      whyNotNow: 
+          text:
+          title:
+      title:
+      whyNotNow:
     explore:
-      empty: 
+      empty:
       subtitle: Explorez les stocks dans des paniers variés/pratiques
       title: Explorer les stocks
     forgotPassword:
@@ -1027,86 +1027,86 @@ fr:
         stocks: Voir plus d'actions
         themes: Voir plus de thèmes
     paywall:
-      listInfo: 
+      listInfo:
       modal:
-        buy: 
-        close: 
+        buy:
+        close:
         logged:
-          buy: 
-          text: 
+          buy:
+          text:
         notLogged:
-          buy: 
-          text: 
-        text: 
-      selectSuffix: 
+          buy:
+          text:
+        text:
+      selectSuffix:
     peers:
-      back: 
-      competitors: 
-      footer: 
+      back:
+      competitors:
+      footer:
       sortBy:
-        back: 
-        cheapest: 
-        dividend: 
-        growth: 
-        label: 
-        lowest_price: 
-        market_value: 
-        near_fifty_two_week_low: 
-        star_rating: 
+        back:
+        cheapest:
+        dividend:
+        growth:
+        label:
+        lowest_price:
+        market_value:
+        near_fifty_two_week_low:
+        star_rating:
         stockPeer:
-          forecastPe: 
-        upside: 
+          forecastPe:
+        upside:
       stockPeer:
-        dividend: 
-        growth: 
-        lowest_price: 
-        near_fifty_two_week_low: 
-        upside: 
-      title: 
+        dividend:
+        growth:
+        lowest_price:
+        near_fifty_two_week_low:
+        upside:
+      title:
     pickStocks:
       actions:
-        clear: 
-        filter: 
-        find: 
-        save: 
+        clear:
+        filter:
+        find:
+        save:
       filters:
         country:
-          filterPlaceholder: 
-          label: 
+          filterPlaceholder:
+          label:
         investingStyle:
           investingStyle:
-            label: 
+            label:
             values:
-              good: 
-              growth: 
-              quality: 
-          label: 
+              good:
+              growth:
+              quality:
+          label:
           priceDirection:
-            label: 
+            label:
             values:
-              highWeek: 
-              lowWeek: 
-              negativeMomentum: 
-              positiveMomentum: 
+              highWeek:
+              lowWeek:
+              negativeMomentum:
+              positiveMomentum:
           sentiment:
-            label: 
+            label:
             values:
-              hated: 
-              loved: 
-              unknown: 
+              hated:
+              loved:
+              unknown:
         metrics:
-          label: 
+          label:
           values:
-            cash: 
-            dividends: 
-            growing: 
-            highGrowth: 
-            large: 
-            profitable: 
-            profitableToday: 
-            small: 
+            cash:
+            dividends:
+            growing:
+            highGrowth:
+            large:
+            profitable:
+            profitableToday:
+            small:
         price:
-          label: 
+          label:
           values:
             100to250: "$100 - $250"
             10to25: "$10 - $25"
@@ -1119,63 +1119,63 @@ fr:
             under1: Under $1
             under50: Under $50
         sector:
-          filterPlaceholder: 
-          label: 
+          filterPlaceholder:
+          label:
         starRating:
-          label: 
+          label:
           values:
-            cheaper: 
-            dividends: 
-            growing: 
-            profitable: 
-            upside: 
-        title: 
+            cheaper:
+            dividends:
+            growing:
+            profitable:
+            upside:
+        title:
         valuation:
-          label: 
+          label:
           values:
-            enterprise: 
-            high: 
-            low: 
-            priceToBook: 
-            profit: 
-      selectPlaceholder: 
+            enterprise:
+            high:
+            low:
+            priceToBook:
+            profit:
+      selectPlaceholder:
       summary:
-        subtitle: 
-        title: 
-      title: 
+        subtitle:
+        title:
+      title:
     portfolio:
-      connected: 
+      connected:
       count:
-        many: 
-        one: 
-      pendingTrades: 
+        many:
+        one:
+      pendingTrades:
       reConnect:
         text: Votre compte y procède tous les 30 jours pour votre sécurité
         title: Votre compte nécessite une réauthentification
-      reconnect: 
+      reconnect:
       table:
-        actions: 
-        name: 
-        starRating: 
+        actions:
+        name:
+        starRating:
     portfolios:
       empty:
         text: Vous n'avez pas relié de compte de courtage à Stockflare. Pourquoi ne pas essayer ?
-        title: 
-      new: 
+        title:
+      new:
       subtitle: Parcourez votre compte
       title: Portefeuilles
     register:
       ad:
         list:
-          accounts: 
-          health: 
-          personalized: 
-          premium: 
-          watchlists: 
-        title: 
+          accounts:
+          health:
+          personalized:
+          premium:
+          watchlists:
+        title:
     search:
       noResults: Désolé, aucun résultat trouvé
-      noResultsLink: 
+      noResultsLink:
       subtitle: Nous partons à l'aventure
       title: Recherche dans plus de 50 000 stocks
     settings:
@@ -1185,15 +1185,15 @@ fr:
         heading: Informations protégées
         newPassword: Nouveau mot de passe
       alertSettings:
-        cancelSubscription: 
-        cancelled: 
-        end: 
-        heading: 
-        offNoticiations: 
-        onNoticiations: 
-        paymentDetails: 
-        subscription: 
-        trial: 
+        cancelSubscription:
+        cancelled:
+        end:
+        heading:
+        offNoticiations:
+        onNoticiations:
+        paymentDetails:
+        subscription:
+        trial:
       logoutBtn: Déconnexion
       saveBtn: Appliquer les modifications
       subtitle: Modifiez vos paramètres personnels Stockflare ici
@@ -1205,62 +1205,62 @@ fr:
         name: Nom complet
     stock:
       alerts:
-        alertsWaiting: 
-        currentAlerts: 
-        header: 
+        alertsWaiting:
+        currentAlerts:
+        header:
         noAlerts:
-          firstLine: 
-          secondLine: 
-        plusAlerts: 
-        subscribeAlerts: 
+          firstLine:
+          secondLine:
+        plusAlerts:
+        subscribeAlerts:
       bshare:
-        text: 
-        title: 
+        text:
+        title:
       chart:
         buttons:
-          fiveYears: 
-          oneDay: 
-          oneMonth: 
-          oneYear: 
-          tenYears: 
-          threeMonths: 
-          twoYears: 
-      description: 
+          fiveYears:
+          oneDay:
+          oneMonth:
+          oneYear:
+          tenYears:
+          threeMonths:
+          twoYears:
+      description:
       etf:
-        text: 
-        title: 
-        visit: 
+        text:
+        title:
+        visit:
       keyStats:
         title: Chiffres Clés
       latest: Résultats récents
       million: million
-      peers: 
+      peers:
       share:
-        label: 
-        title: 
+        label:
+        title:
       starRating:
         cheap:
           graph:
-            first: 
-            second: 
-          label: 
+            first:
+            second:
+          label:
           na: Pas de ratio cours sur bénéfices
-          summary: 
+          summary:
           text: "%nx de ratio cours sur bénéfices contre %nx pour les concurrents "
           title:
             negative: Plus Cher
             positive: Moins Cher
           values:
-            negative: 
-            positive: 
+            negative:
+            positive:
         dividends:
           graph:
             first:
-              forecast: 
-              historic: 
-            info: 
-            second: 
-          label: 
+              forecast:
+              historic:
+            info:
+            second:
+          label:
           na: Aucune prévision disponible
           negative:
             text: Pas de paiement de dividendes
@@ -1268,117 +1268,117 @@ fr:
             dividend: Dividende
             text: "%n de dividende. Rendement de %n%"
             yieldOf: Rendement de %n%
-          summary: 
+          summary:
           title: Dividendes?
           values:
-            negative: 
-            positive: 
+            negative:
+            positive:
         expert:
           downside: Objectif de prix en baisse de %n%
           graph:
-            first: 
-            info: 
+            first:
+            info:
             second:
-              downside: 
-              upside: 
-          label: 
+              downside:
+              upside:
+          label:
           na: Aucune recherche par les experts
           noChanges: Pas de différence dans l'objectif de prix
-          summary: 
+          summary:
           title: Opinion d'experts
           upside: Objectif de prix en hausse de %n%
           values:
-            negative: 
-            positive: 
+            negative:
+            positive:
         profitable:
           graph:
-            first: 
-            second: 
-          label: 
+            first:
+            second:
+          label:
           na: Aucune prévision disponible
-          summary: 
+          summary:
           text: Prévision de bénéfices par action
           title:
             negative: Non rentable
             positive: Rentable
           values:
-            negative: 
-            positive: 
+            negative:
+            positive:
         stronger:
           graph:
-            first: 
-            info: 
-            second: 
-          label: 
+            first:
+            info:
+            second:
+          label:
           na: Aucune croissance prévue
-          summary: 
+          summary:
           text: "%n% de croissance contre %n% pour les concurrents"
           title:
             negative: plus faible
             positive: plus forte
           values:
-            negative: 
-            positive: 
+            negative:
+            positive:
         title: Notation par étoiles
       statistics:
-        enterpriseValue: 
-        forecastSales: 
+        enterpriseValue:
+        forecastSales:
         headers:
-          cashDebt: 
-          sales: 
-          valuation: 
-        lastTwelveMonths: 
-        marketValue: 
-        netCash: 
-        netCashText: 
-        netDebt: 
-        netDebtText: 
-        netDebtTextNA: 
-        netProfitForecast: 
-        priceToBookValue: 
-        priceToOperatingProfit: 
-        priceToSales: 
-        returnOnEquity: 
+          cashDebt:
+          sales:
+          valuation:
+        lastTwelveMonths:
+        marketValue:
+        netCash:
+        netCashText:
+        netDebt:
+        netDebtText:
+        netDebtTextNA:
+        netProfitForecast:
+        priceToBookValue:
+        priceToOperatingProfit:
+        priceToSales:
+        returnOnEquity:
       topBox:
-        actual: 
-        percentage: 
-        price: 
+        actual:
+        percentage:
+        price:
       tradeBtn:
-        notAvailable: 
-        trade: 
+        notAvailable:
+        trade:
       visit: Visite
       watchlistBtn:
-        unwatch: 
-        watch: 
-      website: 
+        unwatch:
+        watch:
+      website:
     subscribe:
-      action: 
-      disclaimer: 
-      invite: 
-      monthly: 
-      premium: 
-      refer: 
+      action:
+      disclaimer:
+      invite:
+      monthly:
+      premium:
+      refer:
       sections:
         ads:
-          text: 
-          title: 
+          text:
+          title:
         alerts:
-          text: 
-          title: 
+          text:
+          title:
         data:
-          text: 
-          title: 
+          text:
+          title:
         personalisation:
-          text: 
-          title: 
+          text:
+          title:
         tools:
-          text: 
-          title: 
+          text:
+          title:
         trading:
-          text: 
-          title: 
-      title: 
-      trailLeft: 
+          text:
+          title:
+      title:
+      trailLeft:
     trade:
       advanced: Paramètres avancés
       brokeraage: Courtage
@@ -1395,16 +1395,16 @@ fr:
         gtc: Valable jusqu'à annulation
         label: Heure
       fractional:
-        buyTitle: 
-        dolarBased: 
-        perShareLabel: 
-        sellAll: 
-        sellTitle: 
+        buyTitle:
+        dolarBased:
+        perShareLabel:
+        sellAll:
+        sellTitle:
       placeOrder: Passer un ordre
       preview: Aperçu de l'ordre
       quantity: Quantité
-      reuthenticate: 
-      reuthenticateTest: 
+      reuthenticate:
+      reuthenticateTest:
       sell: Vendre
       sellLimit: Ordre à cours limité
       simple: Paramètres simples
@@ -1422,213 +1422,213 @@ fr:
       warning:
         quantity: La quantité ne peut pas être supérieure à %n
     watchlist:
-      addShares: 
-      addSharesIn: 
-      empty: 
-      emptyTitle: 
+      addShares:
+      addSharesIn:
+      empty:
+      emptyTitle:
       form:
-        amount: 
-        price: 
+        amount:
+        price:
       inputLabel: Nom de la Watchlist
       myWatchlist: Ma Watchlist
       newWatchlist: Créer une liste de surveillance
       selectWatchlist: Sélectionner une liste de surveillance
       shares:
-        multi: 
-        single: 
+        multi:
+        single:
       subtitle: Vos listes de surveillance sont affichées par valeur marchande
-      updateShares: 
+      updateShares:
     watchlists:
-      new: 
+      new:
   notifications:
     cash:
-      negative: 
-      positive: 
+      negative:
+      positive:
     consolidation:
-      negative: 
+      negative:
     debt_danger:
-      negative: 
-      positive: 
+      negative:
+      positive:
     debt_net:
-      negative: 
-      positive: 
+      negative:
+      positive:
     dps_growth:
-      negative: 
-      positive: 
+      negative:
+      positive:
     dps_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     dps_turn:
-      negative: 
-      positive: 
+      negative:
+      positive:
     dps_turns:
-      negative: 
-      positive: 
+      negative:
+      positive:
     dps_warning:
-      negative: 
-      positive: 
+      negative:
+      positive:
     eps_growth:
-      negative: 
-      positive: 
+      negative:
+      positive:
     eps_price_one_month:
-      positive: 
+      positive:
     eps_price_one_week:
-      positive: 
+      positive:
     eps_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     eps_turn:
-      negative: 
-      positive: 
+      negative:
+      positive:
     eps_turns:
-      negative: 
-      positive: 
+      negative:
+      positive:
     gain_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     gain_turn:
-      negative: 
-      positive: 
+      negative:
+      positive:
     gain_turns:
-      negative: 
-      positive: 
+      negative:
+      positive:
     growth_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     growth_turn:
-      negative: 
-      positive: 
+      negative:
+      positive:
     growth_turns:
-      negative: 
-      positive: 
+      negative:
+      positive:
     pe:
-      negative: 
-      positive: 
+      negative:
+      positive:
     portfolio_concentration:
       positive:
-        concentrated: 
-        missing: 
-        sectors: 
-      title: 
+        concentrated:
+        missing:
+        sectors:
+      title:
     portfolio_consideration:
-      negative: 
+      negative:
     portfolio_discover:
-      negative: 
+      negative:
     portfolio_dividends:
-      negative: 
-      positive: 
-      title: 
+      negative:
+      positive:
+      title:
     portfolio_idea:
-      negative: 
+      negative:
     portfolio_profitability:
-      negative: 
-      positive: 
-      title: 
+      negative:
+      positive:
+      title:
     portfolio_rating:
       positive:
-        average: 
-        speculative: 
-      title: 
+        average:
+        speculative:
+      title:
     portfolio_revisit:
-      negative: 
+      negative:
     portfolio_worth:
-      negative: 
-      positive: 
-      title: 
+      negative:
+      positive:
+      title:
     price_after_market:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_eps_one_month:
-      positive: 
+      positive:
     price_eps_one_week:
-      positive: 
+      positive:
     price_intraday:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_large_cap:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_largecap:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_peer:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_pre_market:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_small_cap:
-      negative: 
-      positive: 
+      negative:
+      positive:
     price_smallcap:
-      negative: 
-      positive: 
+      negative:
+      positive:
     recommendation:
-      negative: 
-      positive: 
+      negative:
+      positive:
     sales_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     split:
-      positive: 
+      positive:
     stars:
-      negative: 
-      positive: 
+      negative:
+      positive:
     stars_peers:
-      negative: 
+      negative:
     target_trend:
-      negative: 
-      positive: 
+      negative:
+      positive:
     target_turn:
-      negative: 
-      positive: 
+      negative:
+      positive:
     target_turns:
-      negative: 
-      positive: 
+      negative:
+      positive:
     volume_intraday:
-      negative: 
-      positive: 
+      negative:
+      positive:
     volume_ten_day:
-      negative: 
-      positive: 
+      negative:
+      positive:
   payments:
     email:
       customer_source_created:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       gift_drive_wealth:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       invoice_payment_failed:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       payment_succeeded:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       refer:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       subscription_has_ended:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
       trial_will_end:
-        body: 
-        link: 
-        subject: 
+        body:
+        link:
+        subject:
   settings:
     buttons:
       apply: Appliquer les Changements
       delete: Résilier le Compte
       loading: Mettre les Réglages à jour
     descriptions:
-      alerts_email: 
-      cannot_delete: 
+      alerts_email:
+      cannot_delete:
       currency: Projections et des valeurs Liste sont indiqués dans votre devise préférée, à taux de change le plus récent.
       current: Veuillez saisir votre mot de passe actuel pour cette modification
       delete: Résilier votre compte supprimera vos données personnelles de nos systèmes. Cette action est irrévocable.
@@ -1637,40 +1637,40 @@ fr:
       location: Votre localisation est utilisée pour filtrer les actions lorsque vous n'avez pas de filtre Pays activé.
       password: Laissez vierge si vous ne souhaitez pas changer votre mot de passe
     flash:
-      cancel_subscription: 
+      cancel_subscription:
       delete: "Êtes vous sûrs de vouloir résilier votre compte Stockflare ?"
       deleteError: Excusez-nous, une erreur est survenue pendant la résiliation de votre compte, veuillez contacter info@stockflare.com
       deleteInitiated: Demande de résiliation de compte reçue. Veuillez consulter votre boîte de réception email pour d'autres instructions
       updated: Vos réglages ont été mis à jour
     titles:
       danger: Zone de Danger
-      subscription: 
+      subscription:
   stock:
     innerTypes:
       chart:
         extra_series:
           forecast_dps:
-            label: 
+            label:
           forecast_eps:
-            label: 
+            label:
           forecast_pe:
-            label: 
+            label:
           forecast_sales:
-            label: 
+            label:
           long_term_gain:
-            label: 
+            label:
           long_term_growth:
-            label: 
+            label:
           price:
-            label: 
+            label:
           rating:
-            label: 
+            label:
           recommendation:
-            label: 
+            label:
           target_price:
-            label: 
+            label:
           ten_day_average_volume:
-            label: 
+            label:
     stats:
       fifty_two_week: Plus Haut/Bas Cours depuis 52 Semaines
       industry: Industrie
@@ -1680,8 +1680,8 @@ fr:
       plans:
         silver:
           payment:
-            button: 
-            description: 
+            button:
+            description:
   tooltip:
     acronyms:
       dps: Dividendes-par-action
@@ -1698,10 +1698,10 @@ fr:
       recommendation: Stockbrokers publient une recommandation Acheter/Vendre/Conserver pour toutes les actions qu'ils analysent. Nous vous fournissons l'avis moyen de ces experts. Ceci est un bon indicateur du sentiment "Wall Street". Mais attention, c'est une opinion subjective, pas objective.
       upside: Stockbrokers publient ce qu'ils croient être la juste valeur d'un stock, il est appelé leur prix cible. Notre fournisseur de données calcule la moyenne de ces experts. Ici, nous montrons le pourcentage d'augmentation à Wall Street Prix cible, à partir du prix de l'action d'aujourd'hui. Attention, c'est une option subjective de ces experts, pas objectives.
   v1:
-    new_val: 
-    test: 
+    new_val:
+    test:
   v2:
-    test: 
+    test:
   watchlist:
     actualChange: Variation Réelle (1 Jour)
     breakdown:
