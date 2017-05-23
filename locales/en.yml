@@ -1172,6 +1172,7 @@ en:
         button: Get a Portfolio Update
         flash: "We are analysing your portfolio and watchlists and we shall send the analysis direct to your inbox."
     register:
+      title: Registration
       ad:
         list:
           accounts: Connect your brokerage account
