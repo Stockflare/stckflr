@@ -1820,3 +1820,10 @@ en:
       amer: AMER
       apac: APAC
       emea: EMEA
+  meta:
+    title: Pick Stocks Easily
+    description: "Stockflare helps you find new ideas. Search for stock ideas and see if your portfolio's any good"
+    keywords: "stocks, stockflare, investment, ideas, finance, better investment"
+    og:
+      title: "Stockflare - Pick Stocks Easily"
+      description: "Stockflare helps you find new ideas. Search for stock ideas and see if your portfolio's any good"
