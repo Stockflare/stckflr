@@ -698,7 +698,7 @@ fr:
         description: Des vêtements aux jouets, indépendamment de l'âge. Il y a une option d'investissement pour tout le monde.
         disclaimer: 'Les stocks dans « Young & Old » sont générés en utilisant un filtre de chaque Américain ayant une valeur de marché supérieure à 1 milliard $ qui a passé au moins 2 tests d''indicateur clé (par exemple, rentable, etc). Nous examinons ensuite les stocks se trouvant dans l''un des secteurs suivants : vêtements et chaussures, maisons de retraite, jouets pour enfants, lignes de croisière, détaillants produits pour Enfants et Ados, aliments pour bébé, produits de contrôle des naissances, soins de l''enfant, services funéraires, lunettes et lentilles de contact , soins de longue durée.'
         name: Les jeunes et âgées
-    filters: 'Les filtres derrière '
+    filters: 'Les filtres derrière %n'
     pageDescription: Besoin d'une petite inspiration ? Stockflare a créé des catégories originales pour vous aider à découvrir de nouvelles actions.
     pageTitle: Explorer Stockflare
     popular: "%n le plus populaire"
