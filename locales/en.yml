@@ -1037,7 +1037,7 @@ en:
         notLogged:
           buy: Free Trial
           text: Register to get a free 14-day trial of Stockflare Plus. No card required!
-        text: This feaure is available only for premium users
+        text: This feature is available only for premium users
       selectSuffix: Premium
     peers:
       back: Back to %n
@@ -1640,7 +1640,7 @@ en:
       loading: Updating Settings
     descriptions:
       alerts_email: Do you want to receive emails on your portfolio & watchlist
-      cannot_delete: You cannot close your account until you have cancelled your subscription to Stockflare Plus.
+      cannot_delete: You cannot close your account until you have canceled your subscription to Stockflare Plus.
       currency: Watchlist projections and totals will be displayed in your preferred currency, using the most recent exchange rate.
       current: Please enter your current password to make this change
       delete: Closing your account will permanently delete all of your personal data from our systems. This action cannot be undone.
@@ -1752,7 +1752,7 @@ en:
       subject_new: "New stocks are now in %explore_category inc. %rics"
       subject_lost: "Some stocks are no longer in %explore_category inc. %rics"
       new_heading: "The following stocks are now in %explore_category"
-      lost_heading: "The follwing stocks are no longer in %explore_category"
+      lost_heading: "The following stocks are no longer in %explore_category"
       view_category: "View %explore_category"
       unsubscribe_text: "Click here to unsubscribe"
       unsubscribe_link: "Unsubscribe"
