@@ -488,8 +488,8 @@ en:
       ja-JP: "日本語"
       pt: Portuguese
       pt-PT: Portuguese
-      zh-CN: "中文"
-      zh-HK: "粵語"
+      zh-CN: "中文(简体)"
+      zh-HK: "中文（繁體"
     loading: Loading...
     login: Login
     pages:
