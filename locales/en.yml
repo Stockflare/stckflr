@@ -1630,9 +1630,13 @@ en:
         link: Subscribe to Stockflare Plus
         subject: Your Stockflare Plus subscription has ended.
       trial_will_end:
-        body: Your trial of Stockflare Plus will be ending in %days days time.  Use the link below to ensure you keep getting our smart alerts on all your stocks.
-        link: Subscribe to Stockflare Plus
-        subject: Your Stockflare Plus trial will end soon
+        body: Thanks a million for testing out Stockflare. Have we helped you pick stocks? 
+        body_two: Why not check out all the features of Stocklare Plus, and maybe even subscribe!
+        body_three: If that's not of interest, don't worry, there's no need to take any action, and the free trial will end in %days days.
+        body_four: Thanks again. 
+        link: Here's while you will love Stockflare Plus :) 
+        link_survey: Please send us your feedback, here!
+        subject: Are you enjoying Stockflare?
   settings:
     buttons:
       apply: Apply Changes
