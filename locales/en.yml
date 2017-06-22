@@ -1218,7 +1218,7 @@ en:
         heading: My Details
         language: Language
         name: Full Name
-    unsubsribe:
+    unsubscribe:
       title: "Subscription Cancelled"
       subtitle: "Sorry to see you go. And please drop us a message if you've any feedback for us."
       button: Continue
