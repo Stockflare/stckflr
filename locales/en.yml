@@ -1147,7 +1147,7 @@ en:
       title: Find Stocks
     portfolio:
       connected: Connected
-      count:: 
+      count::
         one: 1 Company
         other: "%n Companies"
       pendingTrades: Pending Trades
@@ -1183,6 +1183,11 @@ en:
         text: "Many thanks for testing out Stockflare. Please register for free, to continue using our service. We are looking forward to serving you long-term!"
         terms: Terms
         register: Register
+    registerSuccess:
+      title: Thanks for Joining
+      subtitle: "Don't forget to create a watchlist or connect your brokerage account!"
+      button: Get Started Now
+      countdown: You will be redirected in %ns
     search:
       noResults: Sorry we can't find anything
       noResultsLink: Try
@@ -1213,6 +1218,10 @@ en:
         heading: My Details
         language: Language
         name: Full Name
+    unsubsribe:
+      title: "Subscription Cancelled"
+      subtitle: "Sorry to see you go. And please drop us a message if you've any feedback for us."
+      button: Continue
     stock:
       alerts:
         alertsWaiting: "%n Plus alerts waiting"
