@@ -681,7 +681,7 @@ en:
       top-job:
         description: Like Productivity? How about the stocks with the highest revenue per employee?
         disclaimer: The stocks in this category are based on a filter of all stocks worth more than $500m with revenue per employee over 1 million US dollars
-        name: Tob Job
+        name: Top Job
       us-option:
         description: There are lots of non-resident aliens in the US. Recognize any?
         disclaimer: The stocks in this category are based on a filter of all Depository Receipts listed in the US
