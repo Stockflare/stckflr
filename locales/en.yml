@@ -758,6 +758,7 @@ en:
       ideas: Pick Stocks
       search: Search
       watchlist: My Watchlist
+      databank: Databank
   hodor_landing:
     features:
       alerts: Critical alerts and notification keeping you up to date
@@ -1219,6 +1220,7 @@ en:
         heading: My Details
         language: Language
         name: Full Name
+      subscribePage: See Subscribe Page
     unsubscribe:
       title: "Subscription Cancelled"
       subtitle: "Sorry to see you go. And please drop us a message if you've any feedback for us."
@@ -1237,6 +1239,7 @@ en:
         text: Currently, we only run our full analysis on A shares & primary listings.
         title: Key metrics for %n ?
       chart:
+        priceLabel: Price
         buttons:
           fiveYears: 5Y
           oneDay: 1D
@@ -1341,6 +1344,7 @@ en:
             positive: Strong
         title: Star Rating
       statistics:
+        title: Details Statistics
         enterpriseValue: Enterprise Value
         forecastSales: Forecast Sales
         headers:
