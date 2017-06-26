@@ -1701,7 +1701,7 @@ en:
           ten_day_average_volume:
             label: Volume
     stats:
-      fifty_two_week: 52 Week High/Low
+      fifty_two_week: 52 Week Range
       industry: Industry
       value: Market Value
   subscriptions:
