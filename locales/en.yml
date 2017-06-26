@@ -1173,6 +1173,7 @@ en:
         flash: "We are analysing your portfolio and watchlists and we shall send the analysis direct to your inbox."
     register:
       title: Registration
+      login: Already have an account?
       ad:
         list:
           accounts: Connect your brokerage account
