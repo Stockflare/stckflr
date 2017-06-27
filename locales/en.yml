@@ -1149,7 +1149,7 @@ en:
       title: Find Stocks
     portfolio:
       connected: Connected
-      count::
+      count:
         one: 1 Company
         other: "%n Companies"
       pendingTrades: Pending Trades
