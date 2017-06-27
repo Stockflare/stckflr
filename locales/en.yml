@@ -986,6 +986,9 @@ en:
       notLoggedIn:
         button: "Let's get started"
       disclaimer: 'Access to DriveWealth''s Unlimited subscription based plan of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. Note: Additional SEC and TAF fees apply to the $0.01 a share price. DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their %website for more information and a full fee schedule.'
+      website:
+        label: website
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
       featurrs:
         anyone:
           text: You don't have to be a US Resident to apply. DriveWealth LLC has clients in 50+ countries.
@@ -1379,6 +1382,9 @@ en:
     subscribe:
       action: Yes, I'll sign up now!
       disclaimer: 'Access to DriveWealth''s Unlimited subscription based plan of $0.01 a share traded is available to all paying Stockflare Plus subscribers. It is not available to users on our 14 day trial. Non-US residents need to complete a W8-BEN form on opening their account, with a one-off $5 admin fee. Note: Additional SEC and TAF fees apply to the $0.01 a share price. DriveWealth LLC is a registered dealer-broker in the United States and a member of FINRA and SIPC. Please visit their %website for more information and a full fee schedule.'
+      website:
+        label: website
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
       invite: Invite friends for a free month
       monthly: Monthly
       premium: "$5.95 a month"
