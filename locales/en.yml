@@ -921,6 +921,7 @@ en:
       cancel: Cancel
       complete: Complete
       confirm: 'Yes'
+      backToList: Back to list
       delete:
         confirmation: Are you sure you want to delete '%n'?
       done: Done
