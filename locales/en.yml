@@ -1154,6 +1154,8 @@ en:
       title: Find Stocks
     portfolio:
       connected: Connected
+      reconnect: Reconnect
+      refresh: Refresh
       count:
         one: 1 Company
         other: "%n Companies"
