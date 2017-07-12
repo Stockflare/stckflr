@@ -1869,3 +1869,262 @@ en:
         partTwo: "End-of-day pricing data, fundamentals and estimates are provided by Thomson Reuters. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by Barchart and is at least 10 minutes delayed, for more information visit their website. Integration for US brokerage firms is powered by Trading Ticket Inc."
         partThree: "We present the 'Wall Street' consensus forecasts and recommendations on our website. This includes reference to 'Buy', 'Sell', 'Hold', & 'Price Targets' for stocks. Stockflare does not endorse these forecasts. Sadly, there is no data on the future. The views of Wall Street are subjective, not objective. i.e. They get it wrong, regularly."
         partFour: "Stockflare's 5 star metrics, are a way to compare the quality of any group of stocks. They look at the profitability, dividends, growth, valuation, and 'Wall Street' opinion on any stock. We stress, these are a quality metric and research tool. They are in not an explicit or implicit recommendation."
+  plans:
+    buttons:
+      switch:
+        positive: "Yes :)"
+        negative: "No :("
+    intro:
+      title: Is your plan 5 star?
+      new:
+        text: "With 4 simple steps, we can teach you how to build a financial plan for the rest of your life! It’ll take less than 3 minutes. Amazing, eh?"
+        button: Let’s do it!
+      return:
+        text: "Welcome back! It is a great idea to refresh your financial plan several times a year. Ready to crunch the numbers?"
+        button: "Yes, please!"
+    section_one: "Step 1: confirming your details"
+    section_two: "Step 2: monthly"
+    section_three: "Step 3: your savings"
+    section_four: "Step 4: retirement"
+    stars_calculation: "Star count!"
+    step_one:
+      page_one:
+        title: "First, a quick check…"
+        text: "You live in %country_code and we should show everything in %currency_code?"
+      page_two:
+        title: How old are you?
+        text: "And let’s guess how long your retirement will be!"
+        input.age: 'I am %age_current'
+        input.retire: "I plan to retire at %age_retirement"
+        input.life: "Let’s assume I live until %life_expectancy"
+    step_two:
+      page_one:
+        title: "Where’s your cash going?"
+        text: "Can you estimate your monthly expenses? And how much you save?"
+        input:
+          expenditure: My monthly expenses are %expenditure_monthly
+          saving: "Each month, I save about %saving_monthly"
+        output:
+          ratio: "That’s %ratio_saving_expenditure going towards your savings"
+        error: "Both monthly expenses and savings should be greater than zero"
+        warning: "Oh dear! It looks like you are not saving a lot at the moment. Let’s get on with the analysis, but be warned."
+      page_two:
+        title: "Insurance / debts?"
+        text: "Got insurance? Health, Life, Home, etc. They are important! How about debts? "
+        input:
+          insurance: "I’ve got all the right insurance"
+          debts: "I’ve no debts!"
+    step_three:
+      page_one:
+        title: "How much have you saved?"
+        text: "Think of all your cash, investments, pensions."
+        input:
+          savings: "I’ve saved  %savings_total"
+          safety: "With % savings_total_safety_net at the bank and other low risk investments"
+        error:
+          negative_values: "Sorry, but you can’t build a financial plan with negative savings!"
+          savings: "Oops! You can’t have a safety net that’s larger than your total savings pot."
+      page_two:
+        title: My safety net
+        text: "I know I should have several months of cash stored away in case of emergency."
+        input:
+          months: "I’d like to have %savings_months_safety_net months of expenses covered"
+        output:
+          target: "Today, I’ve got %savings_ratio_safety_net of my %savings_target_safety_net target"
+      page_three:
+        title: Big investment goals
+        text: "I’ve some big investments to make in the next 5 to 10 years. e.g. wedding, home, kids education, etc"
+        input:
+          target: "I need to save %savings_total towards these goals"
+          goal: "Of my %savings_total saved, about %savings_total_goal is set aside for these goals"
+        error: "Whoa! Somethings screwy with your math. Your safety net and savings for goals can’t be greater than the total!"
+    step_four:
+      page_one:
+        title: For my golden years
+        text: Have you put you retirement funds into high growth / higher risk investments?
+        output: "Of my %savings_total savings about %savings_total_pension is set aside for my retirement"
+        current: "About %pension_low_risk_current_percent is in the bank and other low risk investments"
+        future: "I’ll put %pension_low_risk_future_percent of future retirement savings into the bank and low risk investments"
+      page_two:
+        title: "“My” home :) Taxes :("
+        text: "When you get to retirement, will you own your home outright? Or are you renting, on an interest only mortgage."
+        home: "I’ll own my home outright by my retirement"
+        taxes: "I only save for my retirement in tax efficient accounts"
+    inputting:
+      title: "Finished!"
+      text: "That’s the difficult part. Now let’s look at your financial plan and rate it on a scale of 1 to 5!"
+      button: "Yes, please"
+    stars_one:
+      title: Starting with the Basics
+      text: "When it comes to having insurance, paying off debts, and being tax efficient, you said:"
+      insurance:
+        positive: "I’ve got all the right insurance"
+        negative: "I’ve no got the right insurance"
+      debts:
+        positive: "I have no debts"
+        negative: "I still have debts"
+      taxes:
+        positive: "I’m being tax efficient!"
+        negative: "I’m not being tax efficient!"
+    stars_two:
+      title: "Your Safety Net"
+      text:
+        positive: "You have more than 3 months of expenses squirrelled away! That’s great."
+        negative: "You have banked less than 3 months of expenses! It is a good idea to keep adding to this safety net."
+    stars_three:
+      title: Your big investment goals
+      text:
+        positive: "You have less than 4 years until you hit your target investment goals. That’s great."
+        negative: "It will take more than 4 years for you to save enough to meet your goals. There’s a risk you won’t have save enough in time."
+      percentage: "You’ve %percentage of the goal"
+      years:
+        text: "How many years will it take to hit your goal? "
+        output: "%savings_years_to_target_goal more years"
+    stars_four:
+      title: "Your retirement fund"
+      text: "Your current and future savings could grow to % retirement_target by the time you retire."
+      years:
+        text: "Spread over %years_in_retirement years of retirement, it is"
+        number: "%value per annum"
+      expenditure:
+        text: When your current expenditure is
+        number: "%value per annum"
+      ratio:
+        text: "In current `%currency_symbol` terms that’s equal to"
+        number: "%value of your expenses"
+    stars_five:
+      title:
+        plural: "Gives your plan a rating of %rating stars"
+        singular: Gives your plan a rating of 1 star
+        first:
+          positive: "Get a star for having insurance and being tax efficient"
+          negative:
+            one: "No star, as you don’t have insurance and are not tax efficient"
+            two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
+            three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
+        debts:
+          positive: "Excellent! Gain a star for having no debts"
+          negative: "Lose a star for still having debts"
+        safety:
+          positive: "Get a star for having at least 3 months expenses in your safety net"
+          negative: "No star. You need to put some more emergency cash away."
+        goals:
+          positive: "Nice! Get a star, as you’ve 4 years or less to hit yours goals."
+          negative: "Lose a star for needing more than 4 years to save enough for your big investment goals"
+        retirement:
+          home:
+            positive: "Get a star for having a target retirement fund that covers at least 80% of your expenses"
+            negative: "Lose a star for having a target retirement fund that won’t cover at least 80% of your expenses"
+          rent:
+            positive: "Get a star for having a target retirement fund that covers at least 100% of your expenses"
+            negative: "Lose a star for having a target retirement fund that won’t cover at least 100% of your expenses"
+    management:
+      title: "Want help with your plan?"
+      text: "We are planning to launch a wealth management tool, with our partners. If you’d like more details just say so!"
+      question: "Sure, I’d like to hear more"
+      thanks:
+        positive: "Thanks. We’ll email you when we are launching our wealth management tool in `%country_code`."
+        negative: "Understood. Let’s get on to your to-do list!"
+      not_logged_in: "Great, but we need you to login, otherwise we won’t know who to message!"
+    todos:
+      title: "Want some to-dos?"
+      text: "We can give you some suggestions. They will help you improve your financial plan!"
+      button: "Sure, let’s see"
+    summary:
+      table:
+        column:
+          one: Currently
+          two: Target
+          three: Achieving?
+        row:
+          one: The Basics
+          two: Safety Net
+          three: Goals
+          four: Retirement
+      basics:
+        currently:
+          has_insurance: Have insurance.
+          tax_efficient: Tax efficient.
+          no_debts: No debts.
+          none: "You aren’t covering any of the basics."
+        target:
+          no_insurance: Get insurance.
+          no_tax_efficient: Be tax efficient.
+          has_debts: Pay off debts.
+          none: "Pay off debts"
+        achieving:
+          positive: Well done!
+          negative: "It’s your call!"
+      safety:
+        achieving: "within %savings_months_to_target_safety_net mo"
+      goals:
+        achieving: "within %savings_years_to_target_goal years"
+      retirement:
+       achieving: equal to %percentage of current expenses
+    todos_list:
+      title: Some suggestions
+      none: "Actually, we don’t have any suggestions for you. You’re financial plan is rated 5 star. Congratulations."
+      error: "Apologies, our algorithm is out sick ;) Please check back later. No to-dos from us until them!"
+      insurance: Make sure you’ve got health, life, home and other insurance in place
+      debts: Pay off your debts
+      taxes: Be as tax efficient as possible
+      ratio: "Your ratio of savings to expenses is on the low side at %ratio_saving_expenditure. Can you increase it?"
+      total: "Even though your savings are ratio_saving_expenditure versus expenditure. Your financial plan is at risk. Can you increase the quantity you save?"
+      safety:
+        low: "Put more money into your safety net. i.e at the bank and in low risk investments"
+        high: "Maybe you have too much money in your safety net? Are you missing out on some long-term growth?"
+      goals:
+        low: "Looks like it’s going to take a while to hit your big investment goals. Maybe you need to revised them? Make them smaller?"
+        high: "Have you over funded your investment goals? Maybe you should but the excess into high growth, riskier investments. i.e. boost your retirement funds."
+      retirement: "There’s a danger that you wont have enough funds in retirement to maintain your current live style."
+      current: "At %pension_low_risk_current_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
+      future: "At %pension_low_risk_future_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
+      age: "You may have to work a little longer than %age_retirement if you are to save enough for a comfortable retirement."
+    reminder:
+      title: And finally
+      text: "Life is constantly changing. So your financial plan will evolve too. So let us nudge you once a quarter!"
+      button: "Yes, let’s revisit this in 3 months"
+      switched_on: "Okay, we’ll email you in three months."
+      switched_off: "Sure, we’ll cancel the email reminder."
+      not_logged_in: "Great, but we need you to login, otherwise we won’t know who to message!"
+    login:
+      title: "By the way you aren’t logged in!"
+      text: We need you to login if we are going to update you!
+      button: Login now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
