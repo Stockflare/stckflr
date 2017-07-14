@@ -1894,18 +1894,20 @@ en:
       page_two:
         title: How old are you?
         text: "And let’s guess how long your retirement will be!"
-        input.age: 'I am %age_current'
-        input.retire: "I plan to retire at %age_retirement"
-        input.life: "Let’s assume I live until %life_expectancy"
+        input:
+          age: 'I am'
+          retire: "I plan to retire at"
+          life: "Let’s assume I live until"
     step_two:
       page_one:
         title: "Where’s your cash going?"
         text: "Can you estimate your monthly expenses? And how much you save?"
         input:
-          expenditure: My monthly expenses are %expenditure_monthly
-          saving: "Each month, I save about %saving_monthly"
+          expenditure: My monthly expenses are
+          saving: "Each month, I save about"
         output:
-          ratio: "That’s %ratio_saving_expenditure going towards your savings"
+          ratio:
+            firstPart: "That’s %ratio_saving_expenditure going towards your savings"
         error: "Both monthly expenses and savings should be greater than zero"
         warning: "Oh dear! It looks like you are not saving a lot at the moment. Let’s get on with the analysis, but be warned."
       page_two:
@@ -1919,8 +1921,10 @@ en:
         title: "How much have you saved?"
         text: "Think of all your cash, investments, pensions."
         input:
-          savings: "I’ve saved  %savings_total"
-          safety: "With % savings_total_safety_net at the bank and other low risk investments"
+          savings: "I’ve saved"
+          safety:
+            firstPart: "With"
+            secondPart: "at the bank and other low risk investments"
         error:
           negative_values: "Sorry, but you can’t build a financial plan with negative savings!"
           savings: "Oops! You can’t have a safety net that’s larger than your total savings pot."
@@ -1928,7 +1932,9 @@ en:
         title: My safety net
         text: "I know I should have several months of cash stored away in case of emergency."
         input:
-          months: "I’d like to have %savings_months_safety_net months of expenses covered"
+          months:
+            firstPart: "I’d like to have"
+            secondPart: "months of expenses covered"
         output:
           target: "Today, I’ve got %savings_ratio_safety_net of my %savings_target_safety_net target"
       page_three:
