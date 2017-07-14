@@ -900,6 +900,7 @@ en:
           btnLabel: View My Alerts
           text: You will be billed $5.95 per month until the plan is canceled.
           title: Successfully Supercharged!
+          paymentDetails: Payment Details
         third:
           description: With our notification service, sleep easy knowing we are watching your investments ready to notify you, if you've a critical decision to make.
           title: Notifications
