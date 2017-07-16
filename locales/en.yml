@@ -1907,8 +1907,7 @@ en:
           expenditure: My monthly expenses are
           saving: "Each month, I save about"
         output:
-          ratio:
-            firstPart: "That’s %ratio_saving_expenditure going towards your savings"
+          ratio: "That’s %ratio_saving_expenditure going towards your savings"
         error: "Both monthly expenses and savings should be greater than zero"
         warning: "Oh dear! It looks like you are not saving a lot at the moment. Let’s get on with the analysis, but be warned."
       page_two:
