@@ -1875,6 +1875,9 @@ en:
       switch:
         positive: "Yes :)"
         negative: "No :("
+      navigation:
+        next: Next
+        prev: Previous
     intro:
       title: Is your plan 5 star?
       new:
@@ -1941,16 +1944,26 @@ en:
         title: Big investment goals
         text: "I’ve some big investments to make in the next 5 to 10 years. e.g. wedding, home, kids education, etc"
         input:
-          target: "I need to save %savings_total towards these goals"
-          goal: "Of my %savings_total saved, about %savings_total_goal is set aside for these goals"
+          target:
+            firstPart: "I need to save"
+            secondPart: "towards these goals"
+          goal:
+            firstPart: "Of my %savings_total saved, about"
+            secondPart: "is set aside for these goals"
+        risk: These savings are in medium to low risk investments!
         error: "Whoa! Somethings screwy with your math. Your safety net and savings for goals can’t be greater than the total!"
     step_four:
       page_one:
         title: For my golden years
         text: Have you put you retirement funds into high growth / higher risk investments?
         output: "Of my %savings_total savings about %savings_total_pension is set aside for my retirement"
-        current: "About %pension_low_risk_current_percent is in the bank and other low risk investments"
-        future: "I’ll put %pension_low_risk_future_percent of future retirement savings into the bank and low risk investments"
+        input:
+          current:
+            firstPart: "About"
+            secondPart: "is in the bank and other low risk investments"
+        future:
+          firstPart: "I’ll put"
+          secondPart: "of future retirement savings into the bank and low risk investments"
       page_two:
         title: "“My” home :) Taxes :("
         text: "When you get to retirement, will you own your home outright? Or are you renting, on an interest only mortgage."
@@ -1960,6 +1973,7 @@ en:
       title: "Finished!"
       text: "That’s the difficult part. Now let’s look at your financial plan and rate it on a scale of 1 to 5!"
       button: "Yes, please"
+      back: Back to questions
     stars_one:
       title: Starting with the Basics
       text: "When it comes to having insurance, paying off debts, and being tax efficient, you said:"
@@ -1977,6 +1991,9 @@ en:
       text:
         positive: "You have more than 3 months of expenses squirrelled away! That’s great."
         negative: "You have banked less than 3 months of expenses! It is a good idea to keep adding to this safety net."
+      saved: "%n months worth of expenses saved"
+      target: "How many months will it take to hit your target? "
+      months: "%n more months"
     stars_three:
       title: Your big investment goals
       text:
@@ -1991,10 +2008,10 @@ en:
       text: "Your current and future savings could grow to % retirement_target by the time you retire."
       years:
         text: "Spread over %years_in_retirement years of retirement, it is"
-        number: "%value per annum"
+        number: "per annum"
       expenditure:
         text: When your current expenditure is
-        number: "%value per annum"
+        number: "per annum"
       ratio:
         text: "In current `%currency_symbol` terms that’s equal to"
         number: "%value of your expenses"
@@ -2002,32 +2019,33 @@ en:
       title:
         plural: "Gives your plan a rating of %rating stars"
         singular: Gives your plan a rating of 1 star
-        first:
-          positive: "Get a star for having insurance and being tax efficient"
-          negative:
-            one: "No star, as you don’t have insurance and are not tax efficient"
-            two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
-            three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
-        debts:
-          positive: "Excellent! Gain a star for having no debts"
-          negative: "Lose a star for still having debts"
-        safety:
-          positive: "Get a star for having at least 3 months expenses in your safety net"
-          negative: "No star. You need to put some more emergency cash away."
-        goals:
-          positive: "Nice! Get a star, as you’ve 4 years or less to hit yours goals."
-          negative: "Lose a star for needing more than 4 years to save enough for your big investment goals"
-        retirement:
-          home:
-            positive: "Get a star for having a target retirement fund that covers at least 80% of your expenses"
-            negative: "Lose a star for having a target retirement fund that won’t cover at least 80% of your expenses"
-          rent:
-            positive: "Get a star for having a target retirement fund that covers at least 100% of your expenses"
-            negative: "Lose a star for having a target retirement fund that won’t cover at least 100% of your expenses"
+      first:
+        positive: "Get a star for having insurance and being tax efficient"
+        negative:
+          one: "No star, as you don’t have insurance and are not tax efficient"
+          two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
+          three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
+      debts:
+        positive: "Excellent! Gain a star for having no debts"
+        negative: "Lose a star for still having debts"
+      safety:
+        positive: "Get a star for having at least 3 months expenses in your safety net"
+        negative: "No star. You need to put some more emergency cash away."
+      goals:
+        positive: "Nice! Get a star, as you’ve 4 years or less to hit yours goals."
+        negative: "Lose a star for needing more than 4 years to save enough for your big investment goals"
+      retirement:
+        home:
+          positive: "Get a star for having a target retirement fund that covers at least 80% of your expenses"
+          negative: "Lose a star for having a target retirement fund that won’t cover at least 80% of your expenses"
+        rent:
+          positive: "Get a star for having a target retirement fund that covers at least 100% of your expenses"
+          negative: "Lose a star for having a target retirement fund that won’t cover at least 100% of your expenses"
     management:
       title: "Want help with your plan?"
       text: "We are planning to launch a wealth management tool, with our partners. If you’d like more details just say so!"
       question: "Sure, I’d like to hear more"
+      back: Back to summary
       thanks:
         positive: "Thanks. We’ll email you when we are launching our wealth management tool in `%country_code`."
         negative: "Understood. Let’s get on to your to-do list!"
@@ -2037,14 +2055,15 @@ en:
       text: "We can give you some suggestions. They will help you improve your financial plan!"
       button: "Sure, let’s see"
     summary:
+      title: The big picture!
       table:
         column:
-          one: Currently
-          two: Target
+          first: Currently
+          second: Target
           three: Achieving?
         row:
-          one: The Basics
-          two: Safety Net
+          first: The Basics
+          second: Safety Net
           three: Goals
           four: Retirement
       basics:
