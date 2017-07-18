@@ -1961,6 +1961,9 @@ en:
           current:
             firstPart: "About"
             secondPart: "is in the bank and other low risk investments"
+          future:
+            firstPart: "I’ll put"
+            secondPart: "of future retirement savings into the bank and low risk investments"
         future:
           firstPart: "I’ll put"
           secondPart: "of future retirement savings into the bank and low risk investments"
@@ -2054,6 +2057,7 @@ en:
       title: "Want some to-dos?"
       text: "We can give you some suggestions. They will help you improve your financial plan!"
       button: "Sure, let’s see"
+      back: Back to summary
     summary:
       title: The big picture!
       table:
