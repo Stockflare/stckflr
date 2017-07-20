@@ -1933,7 +1933,7 @@ en:
           savings: "Oops! You can’t have a safety net that’s larger than your total savings pot."
       page_two:
         title: My safety net
-        text: "I know I should have several months of cash stored away in case of emergency."
+        text: "I know I should have several months of cash, in case of emergency."
         input:
           months:
             firstPart: "I’d like to have"
@@ -1951,11 +1951,11 @@ en:
             firstPart: "Of my %savings_total saved, about"
             secondPart: "is set aside for these goals"
         risk: These savings are in medium to low risk investments!
-        error: "Whoa! Somethings screwy with your math. Your safety net and savings for goals can’t be greater than the total!"
+        error: "Whoa! Something is screwy with your math. Your safety net and savings for goals can’t be greater than the total!"
     step_four:
       page_one:
         title: For my golden years
-        text: Have you put you retirement funds into high growth / higher risk investments?
+        text: Have you put your retirement funds into high growth / higher risk investments?
         output: "Of my %savings_total savings about %savings_total_pension is set aside for my retirement"
         input:
           current:
@@ -1969,7 +1969,7 @@ en:
           secondPart: "of future retirement savings into the bank and low risk investments"
       page_two:
         title: "“My” home :) Taxes :("
-        text: "When you get to retirement, will you own your home outright? Or are you renting, on an interest only mortgage."
+        text: "When you get to retirement, will you own your home outright? Or are you renting / on an interest only mortgage."
         home: "I’ll own my home outright by my retirement"
         taxes: "I only save for my retirement in tax efficient accounts"
     inputting:
@@ -1982,7 +1982,7 @@ en:
       text: "When it comes to having insurance, paying off debts, and being tax efficient, you said:"
       insurance:
         positive: "I’ve got all the right insurance"
-        negative: "I’ve no got the right insurance"
+        negative: "I’ve not got the right insurance"
       debts:
         positive: "I have no debts"
         negative: "I still have debts"
@@ -1995,13 +1995,13 @@ en:
         positive: "You have more than 3 months of expenses squirrelled away! That’s great."
         negative: "You have banked less than 3 months of expenses! It is a good idea to keep adding to this safety net."
       saved: "%n months worth of expenses saved"
-      target: "How many months will it take to hit your target? "
+      target: "How many months will it take to hit a three month minimum of savings? "
       months: "%n more months"
     stars_three:
       title: Your big investment goals
       text:
         positive: "You have less than 4 years until you hit your target investment goals. That’s great."
-        negative: "It will take more than 4 years for you to save enough to meet your goals. There’s a risk you won’t have save enough in time."
+        negative: "It will take more than 4 years for you to save enough to meet your goals. There’s a risk you won’t have saved enough in time."
       percentage: "You’ve %percentage of the goal"
       years:
         text: "How many years will it take to hit your goal? "
@@ -2023,34 +2023,34 @@ en:
         plural: "Gives your plan a rating of %rating stars"
         singular: Gives your plan a rating of 1 star
       first:
-        positive: "Get a star for having insurance and being tax efficient"
+        positive: "A perfect start! You get a star for having insurance and being tax efficient"
         negative:
           one: "No star, as you don’t have insurance and are not tax efficient"
           two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
           three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
       debts:
-        positive: "Excellent! Gain a star for having no debts"
+        positive: "Excellent! You gain a star for having no debts"
         negative: "Lose a star for still having debts"
       safety:
-        positive: "Get a star for having at least 3 months expenses in your safety net"
+        positive: "Good! You get a star for having at least 3 months expenses in your safety net"
         negative: "No star. You need to put some more emergency cash away."
       goals:
-        positive: "Nice! Get a star, as you’ve 4 years or less to hit yours goals."
+        positive: "Nice! We'll award you a star, as you’ve 4 years or less to hit yours goals."
         negative: "Lose a star for needing more than 4 years to save enough for your big investment goals"
       retirement:
         home:
-          positive: "Get a star for having a target retirement fund that covers at least 80% of your expenses"
+          positive: "You get a star for having a target retirement fund that covers at least 80% of your expenses"
           negative: "Lose a star for having a target retirement fund that won’t cover at least 80% of your expenses"
         rent:
-          positive: "Get a star for having a target retirement fund that covers at least 100% of your expenses"
+          positive: "You get a star for having a target retirement fund that covers at least 100% of your expenses"
           negative: "Lose a star for having a target retirement fund that won’t cover at least 100% of your expenses"
     management:
       title: "Want help with your plan?"
-      text: "We are planning to launch a wealth management tool, with our partners. If you’d like more details just say so!"
+      text: "We plan to launch a wealth management tool, with our partners, in the coming months. If you’d like more details just say so!"
       question: "Sure, I’d like to hear more"
       back: Back to summary
       thanks:
-        positive: "Thanks. We’ll email you when we are launching our wealth management tool in `%country_code`."
+        positive: "Thanks. We’ll email you when we our wealth management tool is live in `%country_code`."
         negative: "Understood. Let’s get on to your to-do list!"
       not_logged_in: "Great, but we need you to login, otherwise we won’t know who to message!"
     todos:
@@ -2085,7 +2085,7 @@ en:
           positive: Well done!
           negative: "It’s your call!"
       safety:
-        achieving: "within %savings_months_to_target_safety_net mo"
+        achieving: "within %savings_months_to_target_safety_net months"
       goals:
         achieving: "within %savings_years_to_target_goal years"
       retirement:
@@ -2094,7 +2094,7 @@ en:
       title: Some suggestions
       none: "Actually, we don’t have any suggestions for you. You’re financial plan is rated 5 star. Congratulations."
       error: "Apologies, our algorithm is out sick ;) Please check back later. No to-dos from us until them!"
-      insurance: Make sure you’ve got health, life, home and other insurance in place
+      insurance: Make sure you’ve got health, life, home and all other relevant insurance in place
       debts: Pay off your debts
       taxes: Be as tax efficient as possible
       ratio: "Your ratio of savings to expenses is on the low side at %ratio_saving_expenditure. Can you increase it?"
@@ -2103,9 +2103,9 @@ en:
         low: "Put more money into your safety net. i.e at the bank and in low risk investments"
         high: "Maybe you have too much money in your safety net? Are you missing out on some long-term growth?"
       goals:
-        low: "Looks like it’s going to take a while to hit your big investment goals. Maybe you need to revised them? Make them smaller?"
-        high: "Have you over funded your investment goals? Maybe you should but the excess into high growth, riskier investments. i.e. boost your retirement funds."
-      retirement: "There’s a danger that you wont have enough funds in retirement to maintain your current live style."
+        low: "Looks like it’s going to take a while to hit your big investment goals. Maybe you need to revised them? Are you being too ambitious. Can you make these goals smaller?"
+        high: "Have you over funded your investment goals? Maybe you should put the excess into high growth, riskier investments. i.e. boost your retirement funds."
+      retirement: "There’s a danger that you will not have enough funds in retirement to maintain your current life style."
       current: "At %pension_low_risk_current_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
       future: "At %pension_low_risk_future_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
       age: "You may have to work a little longer than %age_retirement if you are to save enough for a comfortable retirement."
