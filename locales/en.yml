@@ -2008,7 +2008,7 @@ en:
         output: "%savings_years_to_target_goal more years"
     stars_four:
       title: "Your retirement fund"
-      text: "Your current and future savings could grow to % retirement_target by the time you retire."
+      text: "Your current and future savings could grow to %retirement_target by the time you retire."
       years:
         text: "Spread over %years_in_retirement years of retirement, it is"
         number: "per annum"
