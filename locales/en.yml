@@ -1881,11 +1881,12 @@ en:
     intro:
       title: Is your plan 5 star?
       new:
-        text: "With 4 simple steps, we can teach you how to build a financial plan for the rest of your life! It’ll take less than 3 minutes. Amazing, eh?"
+        text: "With 4 simple steps and 16 easy questions, we can teach you how to build a financial plan for the rest of your life! It’ll take less than 3 minutes. Amazing, eh?"
         button: Let’s do it!
       return:
         text: "Welcome back! It is a great idea to refresh your financial plan several times a year. Ready to crunch the numbers?"
         button: "Yes, please!"
+    title: "Your Financial Plan (Beta)"
     section_one: "Step 1: confirming your details"
     section_two: "Step 2: monthly"
     section_three: "Step 3: your savings"
@@ -1911,7 +1912,7 @@ en:
           saving: "Each month, I save about"
         output:
           ratio: "That’s %ratio_saving_expenditure going towards your savings"
-        error: "Both monthly expenses and savings should be greater than zero"
+        error: "Both monthly expenses and savings should be greater than zero. Go on, tells us the real numbers, before hitting Next!"
         warning: "Oh dear! It looks like you are not saving a lot at the moment. Let’s get on with the analysis, but be warned."
       page_two:
         title: "Insurance / debts?"
@@ -1929,8 +1930,8 @@ en:
             firstPart: "With"
             secondPart: "at the bank and other low risk investments"
         error:
-          negative_values: "Sorry, but you can’t build a financial plan with negative savings!"
-          savings: "Oops! You can’t have a safety net that’s larger than your total savings pot."
+          negative_values: "Sorry, but you can’t build a financial plan with negative savings! Please fix the figures, before moving on."
+          savings: "Oops! You can’t have a safety net that’s larger than your total savings pot. Please adjust the numbers, before continuing."
       page_two:
         title: My safety net
         text: "I know I should have several months of cash, in case of emergency."
@@ -1951,7 +1952,7 @@ en:
             firstPart: "Of my %savings_total saved, about"
             secondPart: "is set aside for these goals"
         risk: These savings are in medium to low risk investments!
-        error: "Whoa! Something is screwy with your math. Your safety net and savings for goals can’t be greater than the total!"
+        error: "Whoa! Something is screwy with your math. Your safety net and savings for goals can’t be greater than the total! So, let's fix the numbers you've inputted for safety net and goals, before moving on."
     step_four:
       page_one:
         title: For my golden years
