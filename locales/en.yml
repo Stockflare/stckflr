@@ -759,6 +759,7 @@ en:
       search: Search
       watchlist: My Watchlist
       databank: Databank
+      plans: Your Plan
   hodor_landing:
     features:
       alerts: Critical alerts and notification keeping you up to date
