@@ -1960,6 +1960,7 @@ en:
         title: For my golden years
         text: Have you put your retirement funds into high growth / higher risk investments?
         output: "Of my %savings_total savings about %savings_total_pension is set aside for my retirement"
+        error: "Value must be between 0 and 100"
         input:
           current:
             firstPart: "About"
