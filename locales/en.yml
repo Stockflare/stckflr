@@ -2099,7 +2099,7 @@ en:
       debts: Pay off your debts
       taxes: Be as tax efficient as possible
       ratio: "Your ratio of savings to expenses is on the low side at %ratio_saving_expenditure. Can you increase it?"
-      total: "Even though your savings are ratio_saving_expenditure versus expenditure. Your financial plan is at risk. Can you increase the quantity you save?"
+      total: "Even though your savings are %ratio_saving_expenditure versus expenditure. Your financial plan is at risk. Can you increase the quantity you save?"
       safety:
         low: "Put more money into your safety net. i.e at the bank and in low risk investments"
         high: "Maybe you have too much money in your safety net? Are you missing out on some long-term growth?"
