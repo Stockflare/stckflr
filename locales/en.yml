@@ -1999,13 +1999,13 @@ en:
       target: "How many months will it take to hit a three month minimum of savings? "
       months: "%n more months"
     stars_three:
-      title: Your big investment goals
+      title: "Saving for the big bills!"
       text:
-        positive: "You have less than 4 years until you hit your target investment goals. That’s great."
-        negative: "It will take more than 4 years for you to save enough to meet your goals. There’s a risk you won’t have saved enough in time."
-      percentage: "You’ve %percentage of the goal"
+        positive: "You have less than 4 years until you've saved enough for those big bills. That’s great."
+        negative: "It will take more than 4 years for you to save enough to pay for those big bills. There’s a risk you won’t have saved enough in time."
+      percentage: "You’ve %percentage of these bills covered"
       years:
-        text: "How many years will it take to hit your goal? "
+        text: "How many years will it take save enough for these bills? "
         output: "%savings_years_to_target_goal more years"
     stars_four:
       title: "Your retirement fund"
@@ -2030,14 +2030,14 @@ en:
           two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
           three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
       debts:
-        positive: "Excellent! You gain a star for having no debts"
+        positive: "Excellent! You gain a star for being debt free"
         negative: "Lose a star for still having debts"
       safety:
         positive: "Good! You get a star for having at least 3 months expenses in your safety net"
-        negative: "No star. You need to put some more emergency cash away."
+        negative: "No star. You need to put some more emergency cash away"
       goals:
-        positive: "Nice! We'll award you a star, as you’ve 4 years or less to hit yours goals."
-        negative: "Lose a star for needing more than 4 years to save enough for your big investment goals"
+        positive: "Nice! We'll award you a star, as you’ve 4 years or less to cover your big bills"
+        negative: "Lose a star for needing more than 4 years to save enough to cover your big bills"
       retirement:
         home:
           positive: "You get a star for having a target retirement fund that covers at least 80% of your expenses"
@@ -2069,13 +2069,13 @@ en:
         row:
           first: The Basics
           second: Safety Net
-          three: Goals
+          three: Big Bills
           four: Retirement
       basics:
         currently:
           has_insurance: Have insurance.
           tax_efficient: Tax efficient.
-          no_debts: No debts.
+          no_debts: Debt free.
           none: "You aren’t covering any of the basics."
         target:
           no_insurance: Get insurance.
@@ -2104,8 +2104,8 @@ en:
         low: "Put more money into your safety net. i.e at the bank and in low risk investments"
         high: "Maybe you have too much money in your safety net? Are you missing out on some long-term growth?"
       goals:
-        low: "Looks like it’s going to take a while to hit your big investment goals. Maybe you need to revised them? Are you being too ambitious. Can you make these goals smaller?"
-        high: "Have you over funded your investment goals? Maybe you should put the excess into high growth, riskier investments. i.e. boost your retirement funds."
+        low: "Looks like it’s going to take a while have enough money to cover the big future bills. Maybe you need to revised them? Are you being too ambitious. Can you set a smaller goal?"
+        high: "Have you over saved for your future big bills? Maybe you should put the excess into high growth, riskier investments. i.e. boost your retirement funds."
       retirement: "There’s a danger that you will not have enough funds in retirement to maintain your current life style."
       current: "At %pension_low_risk_current_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
       future: "At %pension_low_risk_future_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
