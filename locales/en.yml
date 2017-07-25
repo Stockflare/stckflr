@@ -1966,7 +1966,7 @@ en:
             firstPart: "Of my %savings_total_pension"
             secondPart: "is in the bank today, or similarly low risk investments"
           future:
-            firstPart: "In the future, of my %saving_monthly, I shall put"
+            firstPart: "In the future, of my %saving_monthly monthly savings, I shall put"
             secondPart: "into the bank and similarly low risk investments"
       page_two:
         title: "“My” home :) Taxes :("
@@ -2018,7 +2018,7 @@ en:
         number: "per annum"
       ratio:
         text: "In current `%currency_symbol` terms that’s equal to"
-        number: "%value of your expenses"
+        number: "%value of your living costs"
     stars_five:
       title:
         plural: "Gives your plan a rating of %rating stars"
@@ -2090,7 +2090,7 @@ en:
       goals:
         achieving: "within %savings_years_to_target_goal years"
       retirement:
-       achieving: equal to %percentage of current expenses
+       achieving: Your pension should cover %percentage of your living costs
     todos_list:
       title: Some suggestions
       none: "Actually, we don’t have any suggestions for you. You’re financial plan is rated 5 star. Congratulations."
