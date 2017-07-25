@@ -2026,9 +2026,9 @@ en:
       first:
         positive: "A perfect start! You get a star for having insurance and being tax efficient"
         negative:
-          one: "No star, as you don’t have insurance and are not tax efficient"
-          two: "No star, sorry. Yes you have insurance, but you are not tax efficient."
-          three: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
+          first: "No star, as you don’t have insurance and are not tax efficient"
+          second: "No star, sorry. Yes you have insurance, but you are not tax efficient."
+          third: "No star, sorry. Yes you are tax efficient, but you don’t have all the right insurance."
       debts:
         positive: "Excellent! You gain a star for being debt free"
         negative: "Lose a star for still having debts"
