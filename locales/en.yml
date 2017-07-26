@@ -1905,6 +1905,7 @@ en:
           retire: "I plan to retire at"
           life: "Let’s assume I live until"
         error: "What? You think your life expectancy is less than 75 years! It's better to plan for a long life. You don't want to run out of money in your golden years, do you?"
+        error_retired: "Sorry but currently, we are only able to help you if you are planning for retirement, not if you are already in retirement. We are working on revising the algorithm, but it is not yet ready. Apologies."
     step_two:
       page_one:
         title: "Where’s your cash going?"
@@ -2037,9 +2038,9 @@ en:
         negative: "No star. You need to put some more emergency cash away"
       goals:
         positive: "Nice! We'll award you a star, as you’ve 4 years or less to cover your big bills"
-        negative: 
+        negative:
           first: "Lose a star for needing more than 4 years to save enough to cover your big bills"
-          second: "Great that you need less than 4 years savings to cover your big bills, but why are they in high risk investments?" 
+          second: "Great that you need less than 4 years savings to cover your big bills, but why are they in high risk investments?"
       retirement:
         home:
           positive: "You get a star for having a target retirement fund that covers at least 80% of your expenses"
