@@ -696,7 +696,7 @@ en:
         name: Worth It
       young-and-old:
         description: From clothes to toys, regardless of age. There is an investment option for everyone.
-        disclaimer: 'The stocks in this category are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children''s clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care.'
+        disclaimer: "The stocks in this category are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children's clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care."
         name: Young & Old
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
@@ -815,12 +815,12 @@ en:
     sectons:
       link:
         cta: Connect My Brokerage
-        cta_url: https://m.stockflare.com/connect
+        cta_url: https://stockflare.com/connect
         description: Securely connect your brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments.
         title: Connect, Explore, Buy
       picking:
         cta: See Amazon, Inc
-        cta_url: https://m.stockflare.com/stock/amzn.o
+        cta_url: https://stockflare.com/stock/amzn.o
         description: At Stockflare, our algorithms turn large quantities of data into easy to use analysis. With our tools, anyone can pick stocks easily.
         image_url: https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png
         title: Stockpicking Made Easy
@@ -981,7 +981,7 @@ en:
         tos: terms of service
         tradeit: Trading Ticket Inc
       partOne: '%pagesLink is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please read our %tosLink.'
-      partTwo: End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by %barchartLink and is at least 10 minutes delayed. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink.
+      partTwo: End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink.
     drivewealth:
       buttons:
         account: Already Have An Account?
@@ -1213,7 +1213,7 @@ en:
         newPassword: New Password
       alertSettings:
         cancelSubscription: Cancel Subscription
-        cancelled: Subscription Canceled
+        cancelled: Subscription Cancelled
         end: End (%n)
         heading: Alert Settings
         offNoticiations: Pause Email Notifications
@@ -1733,12 +1733,12 @@ en:
       rating: Key metrics
       ric: Reuters ticker code
     explanations:
-      downside: 'Stockbrokers publish what they believe is the fair value of a stock, it''s called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today''s stock price. Beware, it''s a subjective option from these experts, not objective. '
+      downside: "Stockbrokers publish what they believe is the fair value of a stock, it is called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage decrease to the Wall Street Target Price, from today's stock price. Beware, it is a subjective option from these experts, not objective."
       dps: A company pays dividends, like a bank pays interest. The Dividend-per-Share is what you get for each share you own.
       eps: A company’s profit is owned by its shareholders. The Earnings-per-Share is what you theoretically earn for each share you have.
       pe: PE ratio shows the share price versus the earnings-per-share. The higher the number the more expensive the stock.
       recommendation: Stockbrokers publish a Buy/ Sell/ Hold recommendation for each stock they analyze. Our data vendor Thomson Reuters calculates the average from these experts. This is a good indicator of "Wall Street's" sentiment. But beware, it's a subjective opinion, not objective.
-      upside: 'Stockbrokers publish what they believe is the fair value of a stock, it''s called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today''s stock price. Beware, it''s a subjective option from these experts, not objective. '
+      upside: "Stockbrokers publish what they believe is the fair value of a stock, it is called their Target Price. Our data vendor calculates the average from these experts. Here we show the percentage increase to the Wall Street Target Price, from today's stock price. Beware, it is a subjective option from these experts, not objective."
   v1:
     new_val: New Value From V2
     new_val_2: New Values to test Travis Build
@@ -1868,7 +1868,7 @@ en:
       refresh_account: "Refresh your account"
       disclaimer:
         partOne: "Stockflare is operated by Stockflare Limited, a company based in the United Kingdom. Stockflare is primarily an information service. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors."
-        partTwo: "End-of-day pricing data, fundamentals and estimates are provided by Thomson Reuters. Delayed pricing data for BATS, AMEX, NYSE, and NASDAQ are provided by Barchart and is at least 10 minutes delayed, for more information visit their website. Integration for US brokerage firms is powered by Trading Ticket Inc."
+        partTwo: "End-of-day pricing data, fundamentals and estimates are provided by Thomson Reuters. Real time pricing data for US stocks is provided by IEX Trading. Integration for US brokerage firms is powered by Trading Ticket Inc."
         partThree: "We present the 'Wall Street' consensus forecasts and recommendations on our website. This includes reference to 'Buy', 'Sell', 'Hold', & 'Price Targets' for stocks. Stockflare does not endorse these forecasts. Sadly, there is no data on the future. The views of Wall Street are subjective, not objective. i.e. They get it wrong, regularly."
         partFour: "Stockflare's 5 star metrics, are a way to compare the quality of any group of stocks. They look at the profitability, dividends, growth, valuation, and 'Wall Street' opinion on any stock. We stress, these are a quality metric and research tool. They are in not an explicit or implicit recommendation."
   plans:
@@ -1882,7 +1882,7 @@ en:
     intro:
       title: Is your plan 5 star?
       new:
-        text: "With 4 simple steps and 16 easy questions, we can teach you how to build a financial plan for the rest of your life! It’ll take less than 3 minutes. Amazing, eh?"
+        text: "With 4 simple steps and 16 easy questions, we can teach you how to build a financial plan for the rest of your life! It will take less than 3 minutes. Amazing, eh?"
         button: Let’s do it!
       return:
         text: "Welcome back! It is a great idea to refresh your financial plan several times a year. Ready to crunch the numbers?"
@@ -1914,12 +1914,12 @@ en:
           expenditure: My monthly expenses are
           saving: "Each month, I save about"
         output:
-          ratio: "That’s %ratio_saving_expenditure going towards your savings"
+          ratio: "That is %ratio_saving_expenditure going towards your savings"
         error: "Both monthly expenses and savings should be greater than zero. Go on, tells us the real numbers, before hitting Next!"
         warning: "Oh dear! It looks like you are not saving a lot at the moment. Let’s get on with the analysis, but be warned."
       page_two:
         title: "Insurance / debts?"
-        text: "Got insurance? Health, Life, Home, etc. They are important! How about debts? "
+        text: "Got insurance? Health, Life, Home, etc. They are important! How about debts?"
         input:
           insurance: "I’ve got all the right insurance"
           debts: "I am debt free!"
@@ -1946,16 +1946,16 @@ en:
           target: "Today, I’ve got %savings_ratio_safety_net of my %savings_target_safety_net target"
       page_three:
         title: "Big bills are coming..."
-        text: "I know I have some big purchases to make in the next 5 to 10 years. e.g. wedding, deposit for my home, my kids education, etc"
+        text: "I know I have some big purchases to make in the next 5 to 10 years. e.g. wedding, deposit for my home, my kids' education, etc"
         input:
           target:
             firstPart: "In total, I need to save"
             secondPart: "towards these goals"
           goal:
             firstPart: "How much of your %savings_total savings is already set aside for these purchases?"
-            secondPart: "is set aside for these goals!"
+            secondPart: "is set aside for these purchases!"
         risk: "Is this money in low / medium risk investments? e.g. cash, government bonds, etc."
-        error: "Whoa! Something is screwy with your math. You have said your safety net is %savings_safety_net and your savings for big purchases is %savings_total_goal. But that can’t be greater than your total savings of %savings_total! So, let's fix the numbers you've inputted for safety net and goals, before moving on."
+        error: "Whoa! Something is screwy with your math. You have said your safety net is %savings_safety_net and your savings for big purchases is %savings_total_goal. But that can’t be greater than your total savings of %savings_total! So, let's fix the numbers you've inputted for safety net and big purchases, before moving on."
     step_four:
       page_one:
         title: For my golden years
@@ -1965,18 +1965,18 @@ en:
         input:
           current:
             firstPart: "Of my %savings_total_pension"
-            secondPart: "is in the bank today, or similarly low risk investments"
+            secondPart: "is in the bank today, or other low risk investments"
           future:
             firstPart: "In the future, of my %saving_monthly monthly savings, I shall put"
-            secondPart: "into the bank and similarly low risk investments"
+            secondPart: "into the bank and other low risk investments"
       page_two:
         title: "“My” home :) Taxes :("
         text: "When you get to retirement, will you own your home outright? Or are you renting / on an interest only mortgage."
-        home: "I’ll own my home outright by my retirement"
+        home: "By my retirement, I’ll own my home outright"
         taxes: "I only save for my retirement in tax efficient accounts"
     inputting:
       title: "Finished!"
-      text: "That’s the difficult part. Now let’s look at your financial plan and rate it on a scale of 1 to 5!"
+      text: "That’s the difficult part. Now let’s look at your financial plan and rate it on a scale of 0 to 5!"
       button: "Yes, please"
       back: Back to questions
     stars_one:
@@ -2002,17 +2002,17 @@ en:
     stars_three:
       title: "Saving for the big bills!"
       text:
-        positive: "You have less than 4 years until you've saved enough for those big bills. That’s great."
-        negative: "It will take more than 4 years for you to save enough to pay for those big bills. There’s a risk you won’t have saved enough in time."
+        positive: "You have less than 4 years until you've saved enough for those big purchases. That’s great."
+        negative: "It will take more than 4 years for you to save enough to pay for those big purchases. There’s a risk you won’t have saved enough in time."
       percentage: "You’ve %percentage of these bills covered"
       years:
-        text: "How many years will it take save enough for these bills? "
+        text: "How many years will it take to save enough for these bills? "
         output: "%savings_years_to_target_goal more years"
     stars_four:
       title: "Your retirement fund"
       text: "Your current and future savings could grow to %retirement_target by the time you retire."
       years:
-        text: "Spread over %years_in_retirement years of retirement, it is"
+        text: "Spread over %years_in_retirement years of retirement, that is"
         number: "per annum"
       expenditure:
         text: When your current expenditure is
@@ -2035,12 +2035,12 @@ en:
         negative: "Lose a star for still having debts"
       safety:
         positive: "Good! You get a star for having at least 3 months expenses in your safety net"
-        negative: "No star. You need to put some more emergency cash away"
+        negative: "No star. You need to put stash more cash in case of emergencies"
       goals:
         positive: "Nice! We'll award you a star, as you’ve 4 years or less to cover your big bills"
         negative:
-          first: "Lose a star for needing more than 4 years to save enough to cover your big bills"
-          second: "Great that you need less than 4 years savings to cover your big bills, but why are they in high risk investments?"
+          first: "You lose a star for needing more than 4 years to save enough to cover your big bills"
+          second: "No star. Great that you need less than 4 years savings to cover your big bills, but why are they in high risk investments?"
       retirement:
         home:
           positive: "You get a star for having a target retirement fund that covers at least 80% of your expenses"
@@ -2121,17 +2121,17 @@ en:
       title: Some suggestions
       none: "Actually, we don’t have any suggestions for you. You’re financial plan is rated 5 star. Congratulations."
       error: "Apologies, our algorithm is out sick ;) Please check back later. No to-dos from us until them!"
-      insurance: Make sure you’ve got health, life, home and all other relevant insurance in place
+      insurance: Make sure you’ve got health, life, home and all other necessary insurance
       debts: Pay off your debts
       taxes: Be as tax efficient as possible
       ratio: "Your ratio of savings to expenses is on the low side at %ratio_saving_expenditure. Can you increase it?"
       total: "Even though your savings are %ratio_saving_expenditure versus expenditure. Your financial plan is at risk. Can you increase the quantity you save?"
       safety:
-        low: "Put more money into your safety net. i.e at the bank and in low risk investments"
+        low: "Put more money into your safety net. i.e. at the bank and in low risk investments"
         high: "Maybe you have too much money in your safety net? Are you missing out on some long-term growth?"
       goals:
-        low: "Looks like it’s going to take a while have enough money to cover the big future bills. Maybe you need to revised them? Are you being too ambitious. Can you set a smaller goal?"
-        high: "Have you over saved for your future big bills? Maybe you should put the excess into high growth, riskier investments. i.e. boost your retirement funds."
+        low: "Looks like it’s going to take you a while to have enough money to cover the big future puchases. Maybe you need to revise them? Are you being too ambitious. Can you set smaller goals?"
+        high: "Have you over saved for your future big purchases? Maybe you should put the excess into high growth, longer term but riskier investments. i.e. boost your retirement funds."
       retirement: "There’s a danger that you will not have enough funds in retirement to maintain your current life style."
       current: "At %pension_low_risk_current_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
       future: "At %pension_low_risk_future_percent% perhaps you have too much of your pension at the bank and in low risk investments. If you want growth, you’ll probably need to accept greater risk."
@@ -2139,7 +2139,7 @@ en:
     reminder:
       title: And finally
       text: "Life is constantly changing. So your financial plan will evolve too. So let us nudge you once a quarter!"
-      button: "Yes, let’s revisit this in 3 months"
+      button: "Yes, let’s revisit this in three months"
       switched_on: "Okay, we’ll email you in three months."
       switched_off: "Sure, we’ll cancel the email reminder."
       not_logged_in: "Great, but we need you to login, otherwise we won’t know who to message!"
@@ -2147,40 +2147,3 @@ en:
       title: "By the way you aren’t logged in!"
       text: We need you to login if we are going to update you!
       button: Login now
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
