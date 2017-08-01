@@ -698,6 +698,18 @@ en:
         description: From clothes to toys, regardless of age. There is an investment option for everyone.
         disclaimer: "The stocks in this category are generated using a filter of all stocks with a market value over $1 billion that has passed at least 2 key metric tests (e.g. profitable, etc). We then look at the stocks that are in any of the following sectors: children's clothing & footwear, retirement homes, toys, cruise lines, children & teens retailers, baby food, birth control products, child care, funeral services, glasses & contact lenses, long-term care."
         name: Young & Old
+      moonshot:
+        description: "Looking for some crazy upside? How about small stocks the brokers just love, regardless of risk!"
+        disclaimer: " The stocks in this category are based on a filter of all stocks worth less than $1bn with a Buy recommendation and a target price that is at least 100% above the current price."
+        name: "Moonshot!"
+      break_through:
+        description: "Some stocks punch through the broker price targets. Can they ramp even high?"
+        disclaimer: "The stocks in this category are based on a filter of all stocks worth more than $100m with a current price more than 20% above the target price."
+        name: "Break Through"
+      fallen_hard:
+        description: "When a stock is down, but Wall Street sees upside, should you go for it?"
+        disclaimer: "The stocks in this category are based on a filter of all stocks worth more than $100m with a current price more than 25% above the target price, but have seen their price down at least 20% in the last month."
+        name: "Fallen Hard"
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
     pageTitle: Explore Stockflare
