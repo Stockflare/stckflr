@@ -710,6 +710,14 @@ en:
         description: "When a stock is down, but Wall Street sees upside, should you go for it?"
         disclaimer: "The stocks in this category are based on a filter of all stocks worth more than $100m with a current price more than 25% above the target price, but have seen their price down at least 20% in the last month."
         name: "Fallen Hard"
+      shining_bright:
+        description: "When a stock's star rating jumps, have its prospects improved dramatically?"
+        disclaimer: "The stocks in this category are based on a filter of all stocks that have since at least two increases in their star rating."
+        name: "Shining Bright"
+      degrading:
+        description: "When a stock's star rating falls, should you start worrying?"
+        disclaimer: "The stocks in this category are based on a filter of all stocks that have since at least two decreases in their star rating."
+        name: "Degrading"
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
     pageTitle: Explore Stockflare
