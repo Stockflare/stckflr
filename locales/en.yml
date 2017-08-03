@@ -718,6 +718,10 @@ en:
         description: "When a stock's star rating falls, should you start worrying?"
         disclaimer: "The stocks in this category are based on a filter of all stocks that have since at least two decreases in their star rating."
         name: "Degrading"
+      us_option:
+        description: "Love the States! Then why not trade some local stocks in US dollars?"
+        disclaimer: "The stocks in this category are non-US companies with a market value over $100m that have listed Depository Receipts on a US stock exchange."
+        name: "Coming to America"
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
     pageTitle: Explore Stockflare
