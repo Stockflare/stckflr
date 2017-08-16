@@ -1776,6 +1776,10 @@ en:
         price: Today
         purchased: Invested At
         shares: Value & Shares
+    block:
+      actions:
+        edit: Edit
+        delete: Delete
     create:
       points:
         infinite:
