@@ -906,6 +906,7 @@ en:
       empty:
         text: There are no alerts for the stocks you are watching
         title: No Alerts Today
+      clearAll: Clear All Alerts
       noAlerts:
         text: You aren't watching any stocks yet. Why not set up a Watchlist?
         title: No Alerts!
