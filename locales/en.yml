@@ -2113,7 +2113,7 @@ en:
           no_insurance: Get insurance.
           no_tax_efficient: Be tax efficient.
           has_debts: Pay off debts.
-          none: "Pay off debts"
+          none: "You are on target!"
         achieving:
           positive: Well done!
           negative: "It’s your call!"
