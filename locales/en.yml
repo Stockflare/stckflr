@@ -1295,6 +1295,7 @@ en:
       million: million
       peers: Find Alternatives
       technicalAnalysis:
+        noData: Analysis Not Available
         gauge:
           heading: Technical Analysis
           price:
