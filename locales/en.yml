@@ -1294,6 +1294,21 @@ en:
       latest: Latest results
       million: million
       peers: Find Alternatives
+      technicalAnalysis:
+        gauge:
+          heading: Technical Analysis
+          price:
+            title: 52 Week Price Range
+            subtitle: Closing price versus 52 week high / low
+          average:
+            title: Volume Range
+            subtitle: 10D volume versus Max/Min over last month
+          pe:
+            title: 2 Year Forecast PE Range
+            subtitle: "Current valuation versus 2 year Max/Min"
+          enterprise:
+            title: 2 Year Price to Sales Range
+            subtitle: "Current valuation versus 2 year Max/Min"
       share:
         label: Share via %n
         title: Share
