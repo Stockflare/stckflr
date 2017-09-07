@@ -1310,7 +1310,7 @@ en:
           enterprise:
             title: 2 Year Price to Sales Range
             subtitle: "Current valuation versus 2 year Max/Min"
-        analysis:
+        charts:
           type:
             bollinger_bands': Bollinger Bands
             macd: Moving Average Convergence Divergence
