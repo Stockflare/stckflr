@@ -1310,6 +1310,26 @@ en:
           enterprise:
             title: 2 Year Price to Sales Range
             subtitle: "Current valuation versus 2 year Max/Min"
+        analysis:
+          type:
+            bollinger_bands': Bollinger Bands
+            macd: Moving Average Convergence Divergence
+            rsi: Relative Strength Index
+            sma: Simple Moving Average
+          values:
+            price: Price
+            macd: MACD
+            signal: MACD Signal
+            histogram: MACD Histogram
+            upper: Upper
+            middle: Middle
+            lower: Lower
+            rsi: RSI
+            sma50: SMA 50
+            sma200: SMA 200
+          yLine:
+            overbought: Overbought (70)
+            oversold: Oversold (30)
       share:
         label: Share via %n
         title: Share
