@@ -722,6 +722,14 @@ en:
         description: "Love the States! Then why not trade some local stocks in US dollars?"
         disclaimer: "The stocks in this category are non-US companies with a market value over $100m that have listed Depository Receipts on a US stock exchange."
         name: "Coming to America"
+      negative_technicals:
+        description: "Love technicals? Sometimes the charts say a stock's looking pricey."
+        disclaimer: "The stocks in this category are generated using a filter of all stocks with a negative technical signal via Bollinger Bands, MACD (moving average convergence/divergence), Relative Strength Index, or Simple Moving Average."
+        name: "Overbought?"
+      positive_technicals:
+        description: "Do you trust in charts? Sometimes they signal a stocks bottoming out."
+        disclaimer: "The stocks in this category are generated using a filter of all stocks with a positive technical signal via Bollinger Bands, MACD (moving average convergence/divergence), Relative Strength Index, or Simple Moving Average."
+        name: "Oversold?" 
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
     pageTitle: Explore Stockflare
