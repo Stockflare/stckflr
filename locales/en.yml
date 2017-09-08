@@ -1320,7 +1320,7 @@ en:
             subtitle: "Current valuation versus 2 year Max/Min"
         charts:
           type:
-            bollinger_bands': Bollinger Bands
+            bollinger_bands: Bollinger Bands
             macd: Moving Average Convergence Divergence
             rsi: Relative Strength Index
             sma: Simple Moving Average
