@@ -1699,14 +1699,14 @@ en:
       negative: "%short_name price was down %price_change in heavy trading on %timestamp."
       positive: "%short_name price was up %price_change in heavy trading on %timestamp."
     technical_bollinger_bands_signal:
-      negative: "%short_name price of %price is now above the upper Bollinger Band indicating the stock in negative signal."
-      positive: "%short_name's price of %price is now below the lower Bollinger Band indicating the stock in positive signal."
+      negative: "%short_name price of %price is now above the upper Bollinger Band indicating a negative signal."
+      positive: "%short_name's price of %price is now below the lower Bollinger Band indicating a positive signal."
     technical_macd_signal:
       negative: "The MACD technical indicator for %short_name has just fallen below zero indicating a negative signal."
       positive: "The MACD technical indicator for %short_name has just risen above zero indicating a positive signal."
     technical_rsi_signal:
-      negative: "The Relative Strength Indicator for %short_name has just crossed over the 70 threshold, indicating the stock in negative signal."
-      positive: "The Relative Strength Indicator for %short_name has just crossed under the 30 threshold, indicating the stock in positive signal."
+      negative: "The Relative Strength Indicator for %short_name has just crossed over the 70 threshold, indicating a negative signal."
+      positive: "The Relative Strength Indicator for %short_name has just crossed under the 30 threshold, indicating a positive signal."
     technical_sma_signal:
       negative: "The 50 day moving average for %short_name has just crossed under the 200 day moving average, indicating a negative signal."
       positive: "The 50 day moving average for %short_name has just crossed over the 200 day moving average, indicating a positive signal."
