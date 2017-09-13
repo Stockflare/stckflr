@@ -1374,7 +1374,7 @@ en:
           summary: Pays Dividends
           title: Dividends?
           values:
-            negative: 'No'
+            negative: 'No Star'
             positive: 'Yes'
         expert:
           downside: "%n% downside to price target"
