@@ -729,7 +729,7 @@ en:
       positive_technicals:
         description: "Do you trust in charts? Sometimes they signal a stocks bottoming out."
         disclaimer: "The stocks in this category are generated using a filter of all stocks with a positive technical signal via Bollinger Bands, MACD (moving average convergence/divergence), Relative Strength Index, or Simple Moving Average."
-        name: "Oversold?" 
+        name: "Oversold?"
     filters: The filters behind %n
     pageDescription: Need a little inspiration? Stockflare has created some great categories to help you get started.
     pageTitle: Explore Stockflare
@@ -862,6 +862,15 @@ en:
     flash:
       success: You are now logged in as %n
     pageTitle: Login
+    errors:
+      '401': Invalid Username or Password
+      '500': Sorry, there was a server error
+      '403': Invalid Username or Password
+      '409': Email already registered
+      '500': Sorry, there was a server error
+      mfa:
+        '401': Invalid Authentication Code
+        '500': Sorry, there was a server error
   mobile:
     about:
       links:
