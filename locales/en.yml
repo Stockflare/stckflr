@@ -1237,6 +1237,11 @@ en:
         text: "Many thanks for testing out Stockflare. Please register for free, to continue using our service. We are looking forward to serving you long-term!"
         terms: Terms
         register: Register
+      errors:
+        error: 'Sorry, there was a problem with your registration:'
+        '400': A valid email and password of at least 6 characters is required.
+        '409': Email address already registered.
+        '500': A server error occurred. Please try again later.
     registerSuccess:
       title: Thanks for Joining
       subtitle: "Don't forget to create a watchlist or connect your brokerage account!"
