@@ -72,11 +72,6 @@ en:
       trade_king: Trade King
       trade_station: Trade Station
       tradier: Tradier
-    chat:
-      title: Chat - Most popular posts
-      item:
-        postFor: Post for %n
-        btn: Join Discussion
     connect:
       details:
         account: Brokerage Account Number
@@ -105,6 +100,11 @@ en:
       positions_not_refreshed: We couldn't contact your brokerage to refresh your positions
       positions_refreshed: Your portfolio positions have been updated
       positions_refreshing: Refreshing your portfolio positions
+  chat:
+    title: Chat - Most popular posts
+    item:
+      postFor: Post for %n
+      btn: Join Discussion
   common:
     alerts_emails:
       'false': Do not send emails
