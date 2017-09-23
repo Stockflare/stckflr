@@ -103,7 +103,7 @@ en:
   chat:
     title: Chat - Most popular posts
     item:
-      postFor: Post for %n
+      prefix: Post for
       btn: Join Discussion
   common:
     alerts_emails:
