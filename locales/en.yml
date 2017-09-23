@@ -72,6 +72,11 @@ en:
       trade_king: Trade King
       trade_station: Trade Station
       tradier: Tradier
+    chat:
+      title: Chat - Most popular posts
+      item:
+        postFor: Post for %n
+        btn: Join Discussion
     connect:
       details:
         account: Brokerage Account Number
