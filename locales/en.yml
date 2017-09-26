@@ -1896,7 +1896,7 @@ en:
     subtitle: "Compare key data points across countries and sectors"
     compareLabel: Compare to
     comparePlaceholder: Select comparison metric
-    searchtTitle: Stock in a category
+    searchTitle: Stock in a category
     chartInfo: Click chart for a list of stocks
     disclaimer:
       partOne: "Stockflare's databank provides an insight into the aggregate data for regions, countries and sectors."
