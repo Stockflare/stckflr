@@ -1275,6 +1275,11 @@ en:
         paymentDetails: Update Payment Details
         subscription: Subscription
         trial: Trial (%n days remaining)
+        dropdowns:
+          subscribe: "Subscribe to email alerts."
+          subscribed: "You are subscribed to email alerts"
+          unsubscribe: "Unsubscribe from email alerts"
+          unsubscribed: "You are not subscribed to email alerts"
       logoutBtn: Logout
       saveBtn: Apply Changes
       subtitle: Change your personal setting here for Stockflare
