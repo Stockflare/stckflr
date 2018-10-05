@@ -9,43 +9,43 @@ he:
     timeAgo: 
   alerts_email:
     content:
-      account: 
-      alert_settings: 
+      account: "חשבון"
+      alert_settings: "הגדרת התרעות"
       description:
-        daily: 
-        weekly: 
+        daily: "אנו מזניקים התרעות על מניות שרשומות ברשימת התצפיות שלך ובתיקך."
+        weekly: "להלן סיכום שבועי של ההתרעות החשובות ביותר שקיבלת בשבוע האחרון."
       footer:
-        click: 
-        contact: 
-        here: 
-        more_details: 
-        settings: 
-        unsubscribe: 
-        update_prefs: 
+        click: "או הקלק על"
+        contact: "צור קשר אתנו באתר"
+        here: "כאן"
+        more_details: "‎Stockflare Limited‏. למידע נוסף על שירות Stockflare Plus היכנס לאתר"
+        settings: "דף הגדרות"
+        unsubscribe: "כאן כדי לבטל את המנוי."
+        update_prefs: "עדכן את העדפותיך באתר"
       heading:
-        daily: 
-        weekly: 
-      hidden_message: 
+        daily: "ממתינות לך %count התרעות שלא נקראו."
+        weekly: "בשבוע שעבר קיבלת %count התרעות."
+      hidden_message: "בנוסף ממתינות לך %hidden התרעות שירות Plus שלא הוצגו"
       marketing:
         gift:
-          link: 
-          text: 
+          link: "חודש אחד בחינם"
+          text: "תן מתנה לחבר, 14 ימי שירות Stockflare Plus וקבל"
       subject:
-        daily: 
-        weekly: 
+        daily: "%message_count התרעות כולל %tickers"
+        weekly: העדכון השבועי שלך כולל %tickers"
       subscription:
         free:
-          offer_subscription: 
-          offer_trial: 
-          plus: 
-        subscribed: 
+          offer_subscription: " אתה משתמש בשירות ההתרעות החינמי שלנו. בדוק את היתרונות של "
+          offer_trial: " אתה משתמש בשירות ההתרעות החינמי שלנו. בדוק את הצעתנו לקבל 14 ימי ניסיון חינם של "
+          plus: "שירות Stockflare Plus"
+        subscribed: "אנו מודים לך על שנרשמת כמנוי של שירות Stockflare Plus."
         trialing:
-          contine: 
-          days_left: 
-          plus: 
-          subscribe: 
-      visit_alerts: 
-      watchlist: 
+          contine: "כדי להמשיך ולקבל את השירות שלנו"
+          days_left: "אתה נמצא בתקופת ניסיון חינמית של שירות Stockflare Plus ונותרו לך %trial_days ימים."
+          plus: "התרעות Plus"
+          subscribe: "הירשם כמנוי"
+      visit_alerts: "היכנס להתרעות"
+      watchlist: "רשימת התצפיות"
     unsubscribe:
       information:
         button: 
@@ -72,6 +72,11 @@ he:
       trade_king: Trade King
       trade_station: Trade Station
       tradier: Tradier
+    chat:
+      item:
+        btn: 
+        postFor: 
+      title: 
     connect:
       details:
         account: 
@@ -100,6 +105,12 @@ he:
       positions_not_refreshed: 
       positions_refreshed: 
       positions_refreshing: 
+  chat:
+    item:
+      btn: 
+      postFor: 
+      prefix: 
+    title: 
   common:
     alerts_emails:
       'false': 
@@ -488,8 +499,8 @@ he:
       ja-JP: "日本語"
       pt: Portuguese
       pt-PT: Portuguese
-      zh-CN: "中文"
-      zh-HK: "粵語"
+      zh-CN: "中文(简体)"
+      zh-HK: "中文 (繁體)"
     loading: 
     login: 
     pages:
@@ -529,6 +540,79 @@ he:
         strong_sell: 
         unknown: 
     watch: 
+  databank:
+    categories:
+      bestDividends:
+        subtitle: "בדוק את הדיבידנדים שלנו לפי מגזר"
+        title: "הדיבידנדים הטובים ביותר?"
+      globalTitans:
+        subtitle: "כיצד משווים את השווקים הגדולים ביותר"
+        title: "ענקים עולמיים"
+      growth:
+        subtitle: "השווה גידול כנגד שווי (ערך)"
+        title: "מחפש גידול?"
+      highUpside:
+        subtitle: "מהו המגזר שהברוקרים מעדיפים?"
+        title: "גבוה בחלק העליון!"
+      lessThanBook:
+        subtitle: "איפה ניתן למצוא את השווי בספרים הטוב ביותר?"
+        title: "נמוך מהספרים"
+      subtitle: "השתמש באפשרויות האלו כדי לבחון את מסד הנתונים שלנו"
+      talkingTech:
+        subtitle: "איפה ניתן למצוא את שוק הטכנולוגיה הטוב ביותר?"
+        title: "כשמדברים על טכנולוגיה"
+      title: "תרשימים נפוצים"
+    chartInfo: 
+    compare:
+      forecast_dividend_yield: "תחזית תשואת הדיבידנד"
+      forecast_pe: "תחזית מכפיל הרווח"
+      historic_dividend_yield: "תשואת דיבידנד היסטורית"
+      long_term_gain: "רווח לטווח ארוך"
+      long_term_growth: "גידול לטווח ארוך"
+      market_value_usd: סך הכול ערך שוק דולר של ארה"ב
+      martk_value_usd: 
+      one_month_forecast_eps_change: "שינוי הכנסות 1 מיליון"
+      one_month_price_change: "שינוי מחיר 1 מיליון"
+      pe_ratio: "מכפיל רווח"
+      percentage_up_downside: "עליון/תחתון"
+      price_to_book_value: "מחיר ביחס לערך בספרים"
+      rating: "כוכב הדירוג"
+      recommendation: "המלצה"
+      return_on_equity: "תשואה להון עצמי"
+      return_on_requity: 
+      star_rating: "כוכב הדירוג"
+      three_month_forecast_eps_change: "שינוי הכנסות 3 מיליון"
+      three_month_price_change: "שינוי מחיר 3 מיליון"
+    compareLabel: "השווה אל"
+    comparePlaceholder: "בחר מדד להשוואה"
+    country:
+      _all: "עולמי"
+      amer: AMER (אמריקה)
+      apac: APAC (אסיה פסיפיק)
+      emea: EMEA (אירופה ואפריקה)
+      global: "עולמי"
+      input:
+        add: "כדי להוסיף, הקש על Enter"
+        placeholder: "הקלד שם ארץ"
+      label: "ארץ"
+    disclaimer:
+      partFour: "כאשר אנו מתייחסים לארץ או למגזר, אנו מתייחסים לסיווג המגזרים של רויטרס ולמדינה שבה המניות נסחרות. אנו מנתחים רק מניות רגילות ראשיות רשומות, להוציא קרנות סגורות וקבלות של פיקדונות."
+      partOne: "מסד הנתונים של Stockflare מספק תובנות על אודות נתונים מצרפיים של אזורים, ארצות ומגזרים."
+      partThree: "לדוגמה, חישובי מכפיל הרווח שלנו, מחריגים מניות מפסידות והערכות מכפיל רווח שעולות על פי 100 מההכנסות. התשואה לדיבידנד שלנו היא הממוצע של כול המניות שמשלמות דיבידנד בשיעור נמוך מ-15% לשנה. אנא התקשר אלינו לקבלת הרשימה המלאה של הכוונונים."
+      partTwo: המידע המוצג הוא ממוצא מותאם של כול המקרים, להוציא "סך הכול ערך שוק הנמדד בדולר של ארה"ב". בתהליך כוונון הממוצעים הוצאנו מהחישוב ערכים חשודים כטעות.
+    searchTitle: 
+    sectors:
+      _all: "כול המגזרים"
+      add: "כדי להוסיף, הקש על Enter"
+      all: "כול המגזרים"
+      label: "מגזרים"
+    select:
+      allow:
+        plural: "ביכולתך לבחור %n פריטים נוספים"
+        single: "ביכולתך לבחור פריט אחד (%n) נוסף"
+      limit: "הגעת לגבול הבחירה"
+    subtitle: "השווה נתונים של נקודות מפתח על פני ארצות ומגזרים"
+    title: "מסד הנתונים של Stockflare (ביתא)"
   delete:
     copy:
       deleted: 
@@ -550,6 +634,10 @@ he:
         description: "מי אמר שחייבים להשקיע במניות חמות! חישבו על שיחת חברים על צבעים, פלסטיק, סוללות ומסבים, מוצרי ביוב או סניטציה. קיימות בשוק חברות בדיקה, עסקים וטרינריים ובתי הלוויות. הביטו וראו!"
         disclaimer: "המניות בקטגוריה זו נוצרות באמצעות מסנן של כל המניות עם שווי שוק מעל 1 מיליארד דולר ועברו לפחות בדיקת מדד אחת (למשל רווחיות, דיבידנדים, צמיחה גבוהה וכו '). לאחר מכן אנו מסתכלים על מניות התואמות מסנן זה הם גם בכל המגזרים הבאים: צבע, פלסטיק, סוללות, מסבים, ביוב, מוצרים סניטריים, בדיקות חברות, עסקים וטרינריים ובתי הלוויות."
         name: "עסקים משעממים"
+      break_through:
+        description: 
+        disclaimer: 
+        name: 
       cash-heavy:
         description: "תוכלו למצוא שם מעט חברות שאין להן חובות ושעסוקות מאוד בתשלום כל תזרים המזומנים שהן מצליחות לחולל לבעלי המניות. האם אלו חברות עתירות מזומנים ופרות חולבות גם יחד?"
         disclaimer: "המניות בקטגוריה זו נוצרות באמצעות מסנן של כל המניות עם שווי שוק מעל 500 מיליון דולר, כי יש מזומנים נטו עמדה על המאזן שלה ומשלם דיבידנד משמעותי (כלומר מניב יותר מ 4%)."
@@ -562,10 +650,18 @@ he:
         description: "חברות שערכן התדרדר בגלל חובותיהן, האם תוכלו להצביע על מניות טובות להיפוך מגמה?"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות עם שווי שוק מעל $ 500m שאינם פיננסיים אבל יש חוב נטו לרווח התפעולי מעל 3x"
         name: "עתיר חובות"
+      degrading:
+        description: 
+        disclaimer: 
+        name: 
       dividend-disasters:
         description: "כאשר חברות משלמות יותר מזומנים ממה שהן מרוויחות, זה הזמן לדאגה. הייתכן שהדיבידנד לא יקוים."
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות שיש להן שווי שוק מעל 500 מיליון דולר, אבל הדיבידנד החזויה למניה גבוה מהרווח החזוי למניה."
         name: "אסונות דיבידנד?"
+      fallen_hard:
+        description: 
+        disclaimer: 
+        name: 
       gem-stones:
         description: "האם יהלומים הם החברים הטובים ביותר של המשקיע? יהלומים, אבני-חן, צוללי פנינים. כולם אפשרויות שנועדו להקסים ולסחרר את המשקיע."
         disclaimer: "המניות בקטגוריה זו נוצרות תוך שימוש במסנן של כל המניות עם שווי שוק מעל 100 מיליון דולר, ועברו לפחות מבחן ערך אחד (למשל רווחי, וכו '). לאחר מכן אנו מסתכלים על המניות כי הם בכל המגזרים הבאים: כריית יהלומים, אבנים יקרות למחצה, פנינים."
@@ -618,6 +714,10 @@ he:
         description: "קיימות מניות נבחרות מעטות שזוכות להערכות גבוהות למרות יכולתן להפסיד כסף. מי יכול להתנגד לכוח הכבידה?"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות עם שווי שוק מעל $ 10 מיליארד דולר שבו החברות צפויים להפסיד כסף השנה."
         name: "הפסדים בגדול"
+      moonshot:
+        description: 
+        disclaimer: 
+        name: 
       movers-shakers:
         description: "איזה מניות נחשפו אתמול לאורות הבמה?"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות שווי גדול כי עבר יותר מ -2.5% אתמול וכל מניות שווי קטן שעברו יותר מ 5.0%."
@@ -626,10 +726,18 @@ he:
         description: "המכירות הגרועות ביותר, הרווחים הגרועים ביותר ועדיין וול-סטריט לא מאושרים!"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות שראו שתי ירידות רצופות במחיר יעד הקונצנזוס, תחזית המכירות ורווחים חזויים"
         name: "היפוך מגמה"
+      negative_technicals:
+        description: 
+        disclaimer: 
+        name: 
       positive-fundamentals:
         description: "מכירות טובות יותר, רווחים טובים יותר והברוקרים מאושרים!"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות שראו שתי עליות רצופות במחיר יעד הקונצנזוס, תחזית המכירות ורווחים חזויים"
         name: "פעילות נמרצת"
+      positive_technicals:
+        description: 
+        disclaimer: 
+        name: 
       renewables:
         description: "אם ברצונך להשקיע בעולם שלאחר הנפט, תוכל למצוא חברות רבות שפועלות בשוק האנרגיות המתחדשות. הטכנולוגיות והמוצרים שלהן מתפרשים בתחומי הרוח והשמש ועד גלי ים ומימן. להלן רשימת השחקנים המובילים באמריקה."
         disclaimer: "המניות בקטגוריה זו נוצרות באמצעות מסנן של כל המניות שעברו לפחות 3 מבחני ערך מרכזיים (למשל רווחיות וכו '). לאחר מכן אנו מסתכלים על המניות כי הם בכל המגזרים הבאים: אנרגיה מתחדשת, שירותים מתחדשים."
@@ -638,6 +746,10 @@ he:
         description: "כמו רקטה, לפעמים המכירות ממריאות. למרות שהמחיר נכון?"
         disclaimer: "המניות בקטגוריה זו מבוססות על מסנן של כל המניות עם שווי שוק מעל $ 500m שבו המכירות תחזית ברבעון הבא הוא גדול יותר מאשר את כל המכירות של 12 החודשים האחרונים."
         name: "בהלת מכירות"
+      shining_bright:
+        description: 
+        disclaimer: 
+        name: 
       ship-it:
         description: "משלוח בים זו הדרך היחידה לשגר חומרים בצובר. אם זאת, אתה יכול להשקיע בסירות נופש באותה קלות שבה תשקיע במכליות ענק."
         disclaimer: "המניות בקטגוריה זו נוצרות תוך שימוש במסנן של כל המניות עם שווי שוק מעל 500 מיליון דולר, ועברו לפחות בדיקת מדד אחת (למשל רווחיות וכו '). לאחר מכן אנו בוחנים את המניות הנמצאות בכל אחד מהמגזרים הבאים: מיכליות ימיות, בניית ספינות, הובלה ימית ולוגיסטיקה, יאכטות וסירות מנוע, שירותי נמל ימי."
@@ -686,6 +798,10 @@ he:
         description: ' בארה"ב נוכחים הרבה מאוד זרים שאינם תושבים. מכיר מישהו?'
         disclaimer: המניות בקטגוריה זו מבוססות על מסנן של כל תקבולי ההפקדה הרשומים בארה"ב
         name: "באים לאמריקה"
+      us_option:
+        description: 
+        disclaimer: 
+        name: 
       vice-not-nice:
         description: "שכחת את ערכי המוסר שלך? רוצה להשקיע בסמים, אלכוהול, הימורים, כלי-נשק וספקים אחרים של מידות רעות?"
         disclaimer: "המניות בקטגוריה זו נוצרות באמצעות מסנן של כל המניות עם שווי שוק מעל 500 מיליון דולר שחלפו לפחות 2 מבחני מפתח (למשל רווחיות וכו '). לאחר מכן אנו מסתכלים על המניות כי הם בכל המגזרים הבאים: ייצור נשק, פאבים & מועדוני לילה, בתי קזינו & משחקים, בידור למבוגרים וקמעונאים, מבשלות & מזוקקים, בירה & חנויות טבק."
@@ -702,6 +818,15 @@ he:
     pageDescription: "מחפש קצת השראה? אתר Stockflare יצר מספר קטגוריות גדולות כדי לסייע לך להתחיל."
     pageTitle: "סיור באתר Stockflare"
     popular: "המניות הגדולות ביותר ב-%n"
+  explore_history:
+    email:
+      lost_heading: 
+      new_heading: 
+      subject_lost: 
+      subject_new: 
+      unsubscribe_link: 
+      unsubscribe_text: 
+      view_category: 
   filterBar:
     sectors: 
   gift:
@@ -731,14 +856,19 @@ he:
     buttons:
       about: "על אודות אתר Stockflare"
       alerts: "ההתרעות שלי"
+      chat: 
+      databank: 
       explore: "סיור"
       filters: "מסננים"
       guestWatched: "שמור את רשימת התצפיות שלך"
       home: "לוח-מחוונים"
       ideas: "בחר מניות"
+      learnMore: 
+      plans: 
       search: "חיפוש"
       watchlist: "רשימת התצפיות שלי"
   hodor_landing:
+    broker_logo: https://public.stockflare.com/assets/hodor_landing/drivewealth.png
     features:
       alerts: 
       global: 
@@ -792,21 +922,36 @@ he:
     sectons:
       link:
         cta: 
-        cta_url: https://m.stockflare.com/connect
+        cta_url: https://he.stockflare.com/drivewealth
         description: 
         title: 
       picking:
         cta: 
-        cta_url: https://m.stockflare.com/stock/amzn.o
+        cta_url: https://he.stockflare.com/stock/amzn.o
         description: 
         image_url: https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png
         title: 
   login:
     buttons:
       forgot: "שכחתי את הסיסמה"
+    errors:
+      '401': 
+      '403': 
+      '409': 
+      '500': 
+      mfa:
+        '401': 
+        '500': 
     flash:
       success: "נכנסת לאתר בשם %n"
     pageTitle: "היכנס"
+  meta:
+    description: Stockflare - מצא מניות
+    keywords: "מניות,stockflare"
+    og:
+      description: Stockflare - מצא מניות
+      title: Stockflare - מצא מניות
+    title: Stockflare - מצא מניות
   mobile:
     about:
       links:
@@ -856,6 +1001,7 @@ he:
           text: "מעל n%% של התיק שלך הם ניירות ערך ספקולטיביים"
         title: "דירוג"
     alerts:
+      clearAll: 
       empty:
         text: "אין התרעות על המניות שבהן אתה צופה"
         title: "אין התרעות היום"
@@ -876,6 +1022,7 @@ he:
           title: "תיקים מחוברים"
         success:
           btnLabel: "הצג את ההתרעות שלי"
+          paymentDetails: 
           text: "אנו נחייב אותך בסך ‎5.95$‏ לחודש עד ביטול התוכנית."
           title: "חיוב-על בוצע בהצלחה!"
         third:
@@ -896,12 +1043,14 @@ he:
       unlockAll: "שחרר נעילת כול ההתרעות"
       upgrade: "שדרג"
     common:
+      backToList: 
       cancel: "ביטול"
       complete: "השלם"
       confirm: "כן"
       delete:
         confirmation: '  למחוק את "%n". בטוח?'
       done: "בוצע"
+      finish: 
       form:
         email: "כתובת דואר אלקטרוני"
         newPassword: "סיסמה מבוקשת"
@@ -981,7 +1130,12 @@ he:
         stockflare:
           text: "כן, ואל תשכח, תוכל לחבר את חשבון DriveWealth לאתר Stockflare."
           title: "אתר Stockflare ידידותי"
+      notLoggedIn:
+        button: 
       title: ' התחל להשקיע בארה"ב'
+      website:
+        label: "אתר אינטרנט"
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
       whyNotNow: "למה שלא תחבר אותו כעת?"
     explore:
       empty: "מצטערים, אין תוצאות"
@@ -1028,7 +1182,7 @@ he:
         cheapest: "הזול ביותר"
         dividend: "הדיבידנד הגבוה ביותר"
         growth: "הגידול הגבוה ביותר"
-        label: "ממוין לפי"
+        label: "ממוין לפי: "
         lowest_price: "המחיר הנמוך ביותר"
         market_value: "ערך שוק"
         near_fifty_two_week_low: "הנמוך ב-52 שבועות בקירוב"
@@ -1126,13 +1280,16 @@ he:
     portfolio:
       connected: "מחובר"
       count:
-        many: " %n חברות "
+        many: ''
         one: "חברה אחת"
+        other: "%n חברות"
+      'count:': 
       pendingTrades: "סחר בהמתנה"
       reConnect:
         text: "חשבונך עושה זאת כול 30 יום לצורך בטחון"
         title: "חשבונך זקוק לאימות זהות מחדש"
       reconnect: "התחבר מחדש"
+      refresh: 
       table:
         actions: "פעולות"
         name: "שם"
@@ -1144,6 +1301,9 @@ he:
       new: "חשבונות ברוקר חדשים"
       subtitle: "עיין בחשבונותיך"
       title: "תיקים"
+      update:
+        button: 
+        flash: 
     register:
       ad:
         list:
@@ -1153,6 +1313,22 @@ he:
           premium: "בדוק חינם את הכלים המועדפים שלנו"
           watchlists: "שמור רשימות התצפיות ללא הגבלה"
         title: "למה להירשם?"
+      errors:
+        '400': 
+        '409': 
+        '500': 
+        error: 
+      login: "יש לך כבר חשבון?"
+      modal:
+        register: 
+        terms: 
+        text: 
+      title: 
+    registerSuccess:
+      button: 
+      countdown: 
+      subtitle: 
+      title: 
     search:
       noResults: "מצטערים, לא הצלחנו למצוא דבר"
       noResultsLink: "נסה"
@@ -1167,6 +1343,11 @@ he:
       alertSettings:
         cancelSubscription: 
         cancelled: 
+        dropdowns:
+          subscribe: 
+          subscribed: 
+          unsubscribe: 
+          unsubscribed: 
         end: 
         heading: 
         offNoticiations: 
@@ -1176,6 +1357,7 @@ he:
         trial: 
       logoutBtn: 
       saveBtn: 
+      subscribePage: 
       subtitle: 
       title: 
       userDetails:
@@ -1205,6 +1387,8 @@ he:
           tenYears: 10 שנים
           threeMonths: 3 חודשים
           twoYears: "שנתיים"
+        oneDayEmpty: 
+        priceLabel: 
       description: "תיאור מניה"
       etf:
         text: "בדוק מדדי מפתח. אנו מפעילים את הניתוח עבור מניות עיקריות."
@@ -1319,6 +1503,44 @@ he:
         priceToOperatingProfit: "מחיר ביחס לרווח תפעולי"
         priceToSales: "מחיר ביחס למכירות"
         returnOnEquity: "תשואה להון עצמי"
+        title: 
+      technicalAnalysis:
+        charts:
+          type:
+            bollinger_bands: 
+            bollinger_bands': 
+            macd: 
+            rsi: 
+            sma: 
+          values:
+            histogram: 
+            lower: 
+            macd: 
+            middle: 
+            price: 
+            rsi: 
+            signal: 
+            sma200: 
+            sma50: 
+            upper: 
+          yLine:
+            overbought: 
+            oversold: 
+        gauge:
+          average:
+            subtitle: 
+            title: 
+          enterprise:
+            subtitle: 
+            title: 
+          heading: 
+          pe:
+            subtitle: 
+            title: 
+          price:
+            subtitle: 
+            title: 
+        noData: 
       topBox:
         actual: "שינוי בפועל"
         percentage: "אחוז השינוי"
@@ -1359,6 +1581,9 @@ he:
           title: 
       title: 
       trailLeft: 
+      website:
+        label: "אתר אינטרנט"
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
     trade:
       advanced: "הגדרות מתקדמות"
       brokeraage: 
@@ -1401,6 +1626,10 @@ he:
         market: "הזמנה בשוק"
       warning:
         quantity: "הכמות לא יכולה להיות גדולה יותר מ-%n"
+    unsubscribe:
+      button: 
+      subtitle: 
+      title: 
     watchlist:
       addShares: "הוסף מניות"
       addSharesIn: " הוסף מניות ל:"
@@ -1422,155 +1651,167 @@ he:
       new: "רשימת התצפיות חדשה"
   notifications:
     cash:
-      negative: 
-      positive: 
+      negative: "%short_name הראתה ירידה גדולה במצב המזומנים נטו לרמת %net_cash_to_share_price של מחיר המניה."
+      positive: "%short_name הראתה עליה גדולה במצב המזומנים נטו לרמת %net_cash_to_share_price של מחיר המניה."
     consolidation:
-      negative: 
+      negative: "בוצע איחוד מניות של %short_name בתאריך %split_date ביחס איחוד %ratio. המחיר היום הוא %price כנגד המחיר אתמול שהיה %price_yesterday בשעה %timestamp."
     debt_danger:
-      negative: 
-      positive: 
+      negative: "יחס החוב נטו להוצאות תפעול של %short_name עלה לשיעור של %net_debt_to_operating_profit."
+      positive: "יחס החוב נטו להוצאות תפעול של %short_name ירד לשיעור של %net_debt_to_operating_profit."
     debt_net:
-      negative: 
-      positive: 
+      negative: "%short_name עברה לעומדה (פוזיציה) של חוב נטו, לאחר שבדוחות קודמים תפקדה עם יתרת מזומנים נטו."
+      positive: "%short_name מחזיקה כעת ביתרת מזומנים נטו השווה ל-%net_cash_to_share_price של מחיר המניה. לםני כן הייתה בעומדת חוב נטו."
     dps_growth:
-      negative: 
-      positive: 
+      negative: "תחזית הדיבידנד למניה של %short_name מצביעה על ירידה."
+      positive: "תחזית הדיבידנד למניה של %short_name מצביעה על גידול."
     dps_trend:
-      negative: 
-      positive: 
+      negative: "תחזית הדיבידנד של %short_name ירדה לשיעור של %forecast_dps למניה ביחס לשיעור של %forecast_dps_one_week_ago בשבוע שעבר."
+      positive: "תחזית הדיבידנד של %short_name עלתה לשיעור של %forecast_dps למניה ביחס לשיעור של %forecast_dps_one_week_ago בשבוע שעבר."
     dps_turn:
-      negative: 
-      positive: 
+      negative: "התחזית הנוכחית של %short_name היא שהמניה לא תשלם דיבידנד. התחזית אתמול צפתה תשלום של %forecast_dps_yesterday למניה."
+      positive: "התחזית הנוכחית של %short_name היא שהמניה תשלם דיבידנד בשיעור %forecast_dps. התחזית הקודמת צפתה שמניה לא תשלם דיבידנד."
     dps_turns:
-      negative: 
-      positive: 
+      negative: "התחזית הנוכחית של %short_name היא שהמניה לא תשלם דיבידנד. התחזית אתמול צפתה תשלום של %forecast_dps_yesterday למניה."
+      positive: "התחזית הנוכחית של %short_name היא שהמניה תשלם דיבידנד בשיעור %forecast_dps. התחזית הקודמת צפתה שמניה לא תשלם דיבידנד."
     dps_warning:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח למניה של %short_name בשיעור של %forecast_eps, לא צפויה להספיק לכיסוי התשלום של הדיבידנד החזוי למניה בשיעור של %forecast_dps per share."
+      positive: "התחזית הנוכחית של %short_name היא שהחברה תדווח על יותר רווחים מדיבידנדים. בתחזית הקודמת הרווחים לא הספיקו כדי לכסות את תשלום הדיבידנד הצפוי."
     eps_growth:
-      negative: 
-      positive: 
+      negative: "תחזית הרווחים של %short_name מצביעה על ירידה."
+      positive: "תחזית הרווחים של %short_name מצביעה על גידול."
     eps_price_one_month:
-      positive: 
+      positive: "תחזית ההכנסות של %short_name's עברה בשיעור של %forecast_eps_change_one_month את התחזית של החודש הקודם, אך המחיר הוא %price_change_one_month. מכפיל הרווח הנוכחי הוא %forecast_pe earnings."
     eps_price_one_week:
-      positive: 
+      positive: "תחזית ההכנסות של %short_name's עברה בשיעור של %forecast_eps_change_one_week את התחזית של השבוע הקודם, אך המחיר הוא %price_change_one_week. מכפיל הרווח הנוכחי הוא %forecast_pe earnings."
     eps_trend:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח למניה של %short_name ירדה לשיעור של %forecast_eps למניה ביחס לשיעור של %forecast_eps _one_week_ago בשבוע שעבר."
+      positive: "תחזית הרווח למניה של %short_name עלתה לשיעור של %forecast_eps למניה ביחס לשיעור של %forecast_eps _one_week_ago בשבוע שעבר."
     eps_turn:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח למניה של %short_name שונמכה להפסד בשיעור של %forecast_eps. התחזית הקודמת אתמול צפתה רווח של %forecast_eps_yesterday."
+      positive: "תחזית הרווח למניה של %short_name שודרגה לרווח בשיעור של %forecast_eps. התחזית הקודמת אתמול צפתה הפסד של %forecast_eps_yesterday."
     eps_turns:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח למניה של %short_name שונמכה להפסד בשיעור של %forecast_eps. התחזית הקודמת אתמול צפתה רווח של %forecast_eps_yesterday."
+      positive: "תחזית הרווח למניה של %short_name שודרגה לרווח בשיעור של %forecast_eps. התחזית הקודמת אתמול צפתה הפסד של %forecast_eps_yesterday."
     gain_trend:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח לטווח ארוך של %short_name ירדה בצורה משמעותית בשבוע האחרון לרמה של %long_term_gain מרמה של %long_term_gain_one_week_ago בשבוע שעבר."
+      positive: "תחזית הרווח לטווח ארוך של %short_name גדלה בצורה משמעותית בשבוע האחרון לרמה של %long_term_gain מרמה של %long_term_gain_one_week_ago בשבוע שעבר."
     gain_turn:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח לטווח ארוך של %short_name הפכה זה עתה לתחזית שלילית ברמה של %long_term_gain מרמה של %long_term_gain_yesterday אתמול בשעה %timestamp."
+      positive: "תחזית הרווח לטווח ארוך של %short_name הפכה זה עתה לתחזית חיובית ברמה של %long_term_gain מרמה של %long_term_gain_yesterday אתמול בשעה %timestamp."
     gain_turns:
-      negative: 
-      positive: 
+      negative: "תחזית הרווח לטווח ארוך של %short_name הפכה זה עתה לתחזית שלילית ברמה של %long_term_gain מרמה של %long_term_gain_yesterday אתמול."
+      positive: "תחזית הרווח לטווח ארוך של %short_name הפכה זה עתה לתחזית חיובית ברמה של %long_term_gain מרמה של %long_term_gain_yesterday אתמול."
     growth_trend:
-      negative: 
-      positive: 
+      negative: "תחזית הגידול לטווח ארוך של %short_name ירדה בצורה משמעותית בשבוע האחרון לרמה של %long_term_growth מרמה של %long_term_growth _one_week_ago בשבוע שעבר."
+      positive: "תחזית הגידול לטווח ארוך של %short_name עלתה בצורה משמעותית בשבוע האחרון לרמה של %long_term_growth מרמה של %long_term_growth _one_week_ago בשבוע שעבר."
     growth_turn:
-      negative: 
-      positive: 
+      negative: "תחזית הגידול לטווח ארוך של %short_name הפכה זה עתה לתחזית שלילית ברמה של %long_term_growth מרמה של %long_term_growth_yesterday אתמול בשעה %timestamp."
+      positive: "תחזית הגידול לטווח ארוך של %short_name הפכה זה עתה לתחזית חיובית ברמה של %long_term_growth מרמה של %long_term_growth_yesterday אתמול בשעה %timestamp."
     growth_turns:
-      negative: 
-      positive: 
+      negative: "תחזית הגידול לטווח ארוך של %short_name הפכה זה עתה לתחזית שלילית ברמה של %long_term_growth מרמה של %long_term_growth_yesterday אתמול."
+      positive: "תחזית הגידול לטווח ארוך של %short_name הפכה זה עתה לתחזית חיובית ברמה של %long_term_growth מרמה של %long_term_growth_yesterday אתמול."
     pe:
-      negative: 
-      positive: 
+      negative: "המניה של %short_name יקרה יותר היום עם מכפיל רווח בשיעור של %forecast_pe earnings בהשוואה למחירה בשבוע שעבר עם מכפיל רווח %forecast_pe_one_week_ago earnings."
+      positive: "המניה של %short_name זולה יותר היום עם מכפיל רווח בשיעור של %forecast_pe earnings בהשוואה למחירה בשבוע שעבר עם מכפיל רווח %forecast_pe_one_week_ago earnings."
     portfolio_concentration:
       positive:
-        concentrated: 
-        missing: 
-        sectors: 
-      title: 
+        concentrated: "השקעותיך מרוכזות ב%concentrated."
+        missing: "בתיק ההשקעות שלך חסרים המגזרים %missing_sectors."
+        sectors: "נכון להיום, השקעותיך מפוזרות על פני %num_of_sectors מגזרים."
+      title: "פיזור השקעות"
     portfolio_consideration:
-      negative: 
+      negative: "שקול חלופות למניות ספקולטיביות, כגון %names."
     portfolio_discover:
-      negative: 
+      negative: "גלה שיש חדש במניות %names."
     portfolio_dividends:
-      negative: 
-      positive: 
-      title: 
+      negative: "%percent_of_paying_stocks מתוך מניותיך צפויות לשלם דיבידנדים בתשואה צפויה של %forecast_yield. תשואה זו נמוכה מתחזית התשואה של %local_name שהיא %local_yield."
+      positive: "%percent_of_paying_stocks מתוך מניותיך צפויות לשלם דיבידנדים בתשואה צפויה של %forecast_yield. תשואה זו עולה על תחזית התשואה של %local_name שהיא %local_yield."
+      title: "תשואת הדיבידנד"
     portfolio_idea:
-      negative: 
+      negative: "גלה רעיון חדש במניות %names."
     portfolio_profitability:
-      negative: 
-      positive: 
-      title: 
+      negative: "%num_of_profitable_stocks מניות מתוך %num_of_stocks הן מניות רווחיות עם מכפיל רווח צפוי בשיעור של %average_pe. תשואה זו עולה על תחזית מכפיל הרווח של %local_name שהוא %local_pe."
+      positive: "%num_of_profitable_stocks מניות מתוך %num_of_stocks הן מניות רווחיות עם מכפיל רווח צפוי בשיעור של %average_pe. תשואה זו נמוכה מתחזית מכפיל הרווח של %local_name שהוא %local_pe."
+      title: "שווי תיק השקעות"
     portfolio_rating:
       positive:
-        average: 
-        speculative: 
-      title: 
+        average: "בתיק ההשקעות שלך יש %stocks מניות בדירוג ממוצע של %rating כוכבים."
+        speculative: "אנו מדרגים %speculative של התיק שלך כניירות ערך ספקולטיביים, לרבות:  %names."
+      title: "דירוג כוכב Stockflare"
     portfolio_revisit:
-      negative: 
+      negative: "בדוק מחדש את ניתוח המניות של %names."
     portfolio_worth:
-      negative: 
-      positive: 
-      title: 
+      negative: "שווי תיק ההשקעות שלך היום הוא %value. שווי התיק נמוך בשיעור של %gain מסכום ההשקעה התחילי. בסך הכול זהו הפסד נטו של %change."
+      positive: "שווי תיק ההשקעות שלך היום הוא %value. שווי התיק עולה בשיעור של %gain על סכום ההשקעה התחילי. בסך הכול זהו רווח נטו של %change."
+      title: "הביצועים של תיק ההשקעות שלך"
     price_after_market:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name ירד בשיעור של %price_change במסחר לאחר שעות הפתיחה."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change במסחר לאחר שעות הפתיחה."
     price_eps_one_month:
-      positive: 
+      positive: "המחיר של %short_name's השתנה בשיעור של %price_change_one_month ביחס למחיר בחודש שעבר, אבל תחזית ההכנסות השתנתה בשיעור של %forecast_eps_change_one_month ביחס לחודש שעבר."
     price_eps_one_week:
-      positive: 
+      positive: "המחיר של %short_name's השתנה בשיעור של %price_change_one_week ביחס למחיר בחודש שעבר, אבל תחזית ההכנסות השתנתה בשיעור של %forecast_eps_change_one_week ביחס לשבוע שעבר."
     price_intraday:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name ירד בשיעור של %price_change במהלך יום המסחר."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change במהלך יום המסחר."
     price_large_cap:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name נפל בשיעור של %price_change בשעה %timestamp."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change בשעה %timestamp."
     price_largecap:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name נפל אתמול בשיעור של %price_change."
+      positive: "המחיר של %short_name עלה אתמול בשיעור של %price_change."
     price_peer:
-      negative: 
-      positive: 
+      negative: "מחיר המניה של %peer_short_name, עסק במגזר של %short_name, ירד בשיעור של %peer_price_change בשעה %timestamp."
+      positive: "מחיר המניה של %peer_short_name, עסק במגזר של %short_name, עלה בשיעור של %peer_price_change בשעה %timestamp."
     price_pre_market:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name ירד בשיעור של %price_change במסחר בקדם-שוק."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change במסחר בקדם-שוק."
     price_small_cap:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name נפל בשיעור של %price_change בשעה %timestamp."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change בשעה %timestamp."
     price_smallcap:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name נפל אתמול בשיעור של %price_change."
+      positive: "המחיר של %short_name עלה אתמול בשיעור של %price_change."
     recommendation:
-      negative: 
-      positive: 
+      negative: "ההמלצה על המניה של %short_name שונמכה להמלצת %recommendation_text."
+      positive: "ההמלצה על המניה של %short_name שודרגה להמלצת %recommendation_text."
     sales_trend:
-      negative: 
-      positive: 
+      negative: "תחזית המכירות של %short_name אינה צופה יותר גידול במכירות השנה."
+      positive: "תחזית המכירות של %short_name צופה עתה גידול במכירות השנה."
     split:
-      positive: 
+      positive: "בוצע פיצול מניות של %short_name בתאריך %split_date ביחס פיצול %ratio. המחיר היום הוא %price כנגד המחיר אתמול שהיה %price_yesterday בשעה %timestamp."
     stars:
-      negative: 
-      positive: 
+      negative: "מניית %short_name הפסידה כוכב, הדירוג הנוכחי הוא %rating כוכבים."
+      positive: "למניית %short_name נוסף כוכב, הדירוג הנוכחי הוא %rating כוכבים."
     stars_peers:
-      negative: 
+      negative: "מניית %short_name נפלה לדירוג של %rating כוכבים. להלן רשימת מניות דומות בדירוג 4+:  %rics."
     target_trend:
-      negative: 
-      positive: 
+      negative: "מחיר המטרה של מניית %short_name ירד למחיר של %target_price ממחיר של %target_price_one_week_ago בשבוע שעבר."
+      positive: "מחיר המטרה של מניית %short_name עלה למחיר של %target_price ממחיר של %target_price_one_week_ago בשבוע שעבר."
     target_turn:
+      negative: "המחיר הנוכחי של מניית %short_name שהוא %price, גבוה ממחיר המטרה שהוא %target_price."
+      positive: "מחיר המטרה של מניית %short_name שהוא %target_price גבוה כעת מהמחיר האחרון שהיה %price."
+    target_turns:
+      negative: "המחיר הנוכחי של מניית %short_name שהוא %price, גבוה ממחיר המטרה שהוא %target_price."
+      positive: "מחיר המטרה של מניית %short_name שהוא %target_price גבוה כעת מהמחיר האחרון שהיה %price."
+    technical_bollinger_bands_signal:
       negative: 
       positive: 
-    target_turns:
+    technical_macd_signal:
+      negative: 
+      positive: 
+    technical_rsi_signal:
+      negative: 
+      positive: 
+    technical_sma_signal:
       negative: 
       positive: 
     volume_intraday:
-      negative: 
-      positive: 
+      negative: "מסחר כבד נצפה היום במניית %short_name ומחירה ירד בשיעור של %price_change."
+      positive: "מסחר כבד נצפה היום במניית %short_name ומחירה עלה בשיעור של %price_change."
     volume_ten_day:
-      negative: 
-      positive: 
+      negative: "המחיר של %short_name ירד בשיעור של %price_change במסחר כבד בשעה %timestamp."
+      positive: "המחיר של %short_name עלה בשיעור של %price_change במסחר כבד בשעה %timestamp."
   payments:
     email:
       customer_source_created:
@@ -1599,8 +1840,327 @@ he:
         subject: 
       trial_will_end:
         body: 
+        body_four: 
+        body_three: 
+        body_two: 
         link: 
+        link_survey: 
         subject: 
+  plans:
+    buttons:
+      navigation:
+        next: 
+        prev: 
+      switch:
+        negative: 
+        positive: 
+    inputting:
+      back: 
+      button: 
+      text: 
+      title: 
+    intro:
+      new:
+        button: 
+        text: 
+      return:
+        button: 
+        text: 
+      title: 
+    login:
+      button: 
+      text: 
+      title: 
+    management:
+      back: 
+      not_logged_in: 
+      question: 
+      text: 
+      thanks:
+        negative: 
+        positive: 
+      title: 
+    progress:
+      day:
+        five: 
+        ten: 
+        today: 
+      split:
+        goal: 
+        pension: 
+        safety: 
+      text: 
+      title: 
+    reminder:
+      button: 
+      not_logged_in: 
+      switched_off: 
+      switched_on: 
+      text: 
+      title: 
+    risk:
+      bar:
+        first: 
+        second:
+          less: 
+          more: 
+          same: 
+      input:
+        first: 
+        second: 
+      text: 
+      title: 
+    section_four: 
+    section_one: 
+    section_three: 
+    section_two: 
+    stars_calculation: 
+    stars_five:
+      debts:
+        negative: 
+        positive: 
+      first:
+        negative:
+          first: 
+          second: 
+          third: 
+          three: 
+        positive: 
+      goals:
+        negative:
+          first: 
+          second: 
+        positive: 
+      retirement:
+        home:
+          negative: 
+          positive: 
+        rent:
+          negative: 
+          positive: 
+      safety:
+        negative: 
+        positive: 
+      title:
+        debts:
+          negative: 
+          positive: 
+        first:
+          negative:
+            three: 
+          positive: 
+        goals:
+          negative: 
+          positive: 
+        plural: 
+        retirement:
+          home:
+            negative: 
+            positive: 
+          rent:
+            negative: 
+            positive: 
+        safety:
+          negative: 
+          positive: 
+        singular: 
+    stars_four:
+      expenditure:
+        number: 
+        text: 
+      ratio:
+        number: 
+        text: 
+      text: 
+      title: 
+      years:
+        number: 
+        text: 
+    stars_one:
+      debts:
+        negative: 
+        positive: 
+      insurance:
+        negative: 
+        positive: 
+      taxes:
+        negative: 
+        positive: 
+      text: 
+      title: 
+    stars_three:
+      percentage: 
+      text:
+        negative: 
+        positive: 
+      title: 
+      years:
+        output: 
+        text: 
+    stars_two:
+      months: 
+      saved: 
+      target: 
+      text:
+        negative: 
+        positive: 
+      title: 
+    step_four:
+      page_one:
+        current: 
+        error: 
+        future: 
+        input:
+          current:
+            firstPart: 
+            secondPart: 
+          future:
+            firstPart: 
+            secondPart: 
+        output: 
+        text: 
+        title: 
+      page_two:
+        home: 
+        taxes: 
+        text: 
+        title: 
+    step_one:
+      page_one:
+        text: 
+        title: 
+      page_two:
+        error: 
+        error_retired: 
+        input:
+          age: 
+          life: 
+          retire: 
+        "input\x01age": 
+        "input\x01life": 
+        "input\x01retire": 
+        text: 
+        title: 
+    step_three:
+      page_one:
+        error:
+          negative_values: 
+          savings: 
+        input:
+          safety:
+            firstPart: 
+            secondPart: 
+          savings: 
+        text: 
+        title: 
+      page_three:
+        error: 
+        input:
+          goal:
+            firstPart: 
+            secondPart: 
+          target:
+            firstPart: 
+            secondPart: 
+        risk: 
+        text: 
+        title: 
+      page_two:
+        input:
+          months:
+            firstPart: 
+            secondPart: 
+        output:
+          target: 
+        text: 
+        title: 
+    step_two:
+      page_one:
+        error: 
+        input:
+          expenditure: 
+          saving: 
+        output:
+          ratio: 
+        text: 
+        title: 
+        warning: 
+      page_two:
+        input:
+          debts: 
+          insurance: 
+        text: 
+        title: 
+    summary:
+      basics:
+        achieving:
+          negative: 
+          positive: 
+        currently:
+          has_insurance: 
+          no_debts: 
+          none: 
+          tax_efficient: 
+        target:
+          has_debts: 
+          no_insurance: 
+          no_tax_efficient: 
+          none: 
+      goals:
+        achieving: 
+      retirement:
+        achieving: 
+      safety:
+        achieving: 
+      table:
+        column:
+          first: 
+          second: 
+          three: 
+        row:
+          first: 
+          four: 
+          second: 
+          three: 
+      title: 
+    title: 
+    todos:
+      back: 
+      button: 
+      text: 
+      title: 
+    todos_list:
+      age: 
+      current: 
+      debts: 
+      error: 
+      future: 
+      goals:
+        high: 
+        low: 
+      insurance: 
+      none: 
+      ratio: 
+      retirement: 
+      safety:
+        high: 
+        low: 
+      taxes: 
+      title: 
+      total: 
+  portfolio_analysis:
+    email:
+      disclaimer:
+        partFour: 
+        partOne: 
+        partThree: 
+        partTwo: 
+      refresh_account: 
+      sub_heading: 
+      subject: 
+      suggestions: 
+      suggestions_base: 
+      update_watchlist: 
   settings:
     buttons:
       apply: "החל שינויים"
@@ -1679,11 +2239,16 @@ he:
       upside: 
   v1:
     new_val: 
+    new_val_2: 
     test: 
   v2:
     test: 
   watchlist:
     actualChange: "שינוי בפועל (יום אחד)"
+    block:
+      actions:
+        delete: 
+        edit: 
     breakdown:
       columns:
         price: "היום"
